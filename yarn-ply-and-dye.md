@@ -132,17 +132,31 @@ Braiding is a technique that uses coils multiple strands, in different twist dir
 
 Braiding machines have yet to enter the DIY marketplace \([and this one is out of stock!](https://www.kickstarter.com/projects/mixedmediaeng/rope-omatic)\), but we can create small samples at least using a technique called **Kumihimo.** Kumihimo braiding is a technique in which several lengths of yarns are braided into hollow tubes. Kumihimo templates can be used to create braids with custom textures and patterning. The templates are easy to produce in cardboard on a laser cutter at various thicknesses. During this braiding, the maker has more control over tensions than they might with techniques that spin yarns together, thus, they may be ideal for applications that require brittle materials to be integrated into the outer structure of the yarn. It is also nice because it can adapt to several different numbers of individual yarns composing the braid. If you want to braid around a core, you simple pace your core material through the hole in the center and while you are braiding, it will wrap around that core on its own. A special thank you to [Pamela Liou](https://pamelaliou.com/) who was the first to introduce me to Kumihimo. There are many [patterns available online](https://prumihimo.com/resources/braiding-patterns/) that allow you to create braids with different cross sections ranging from square to semi-circular. 
 
+### I-Cords
 
+One final structure that may be useful, and it at least easier to prototype is a knitted i-cord. This structure is hollow with a knitted sheath. Unlike the other two structures, this sheath is quite stretchy. The downside is that the yarn will be a bit fat \(by yarn standards\). The structure can be created by [hand techniques](https://www.youtube.com/watch?v=dfkFRa9tjns) or with wonderful little contraptions like and [embellish-knit ](https://www.studioknitsf.com/embellish-knit-cords-power-tools/)hand cranked i-cord maker. Traditionally used to make little pulls, like the ones on a hoodie, they can also be useful in creating yarn-like structures. When working by hand, you have much more flexibility with the materials and sizing of the cord. With some finessing, you can feed the machine \(or a hand knitter\) both conductive and non-conductive materials at the same time to create a conductive cord structure. This structure has been really useful for acting as a pull or strain sensor, or, when tied around my ribcage, makes a pretty robust breath sensor. The measuring works through resistive sensing. The knitting structure basically maximizes the length of the conductive thread. So when the cord is strained, it strains all fibers of the conductive yarns, tightening their structure and lowering the overall resistance.  
 
-### Knitting i-Cords
-
-One final 
+![Feeding two materials into the Embellish-knit machine at once to create a conductive sheath. ](.gitbook/assets/2017-12-19-14.07.00.jpg)
 
 
 
 ![Knitted I-coord with wool and conductive sheath. ](.gitbook/assets/knit_2.jpg)
 
+Because of the hollow structure, it is also possible to add a cord within the sheath. I have found  it most useful to add this core at the time of knitting, rather than trying to feed it through after. In one project, we used conductive materials in the core AND the sheath to create a string that [would know something of its own shape](https://dl.acm.org/doi/10.1145/3170427.3188570). It did so by .adding five different insulated conductive wires inside the structure. Each insulated wire was then attached to a exposed conductive "ring" made of copper tape. This allowed us to take resistance measurements at five different points along the length. Depending on which sensors showed changes in resistance and which didn't, we could tell which regions of the string were crossed.
 
+ 
+
+![Diagram of the yarn-based system.](.gitbook/assets/paperdiagram%20%281%29.jpg)
+
+![Measuring setup. A power and ground connection at the beginning and end of string. A non-conductive section in between these regions makes resistance is measured across the entire length of the yarn.](.gitbook/assets/2018-01-03-14.43.49%20%281%29.jpg)
+
+![Resistance reading with no crossings in the yellow region](.gitbook/assets/2018-01-03-14.47.43.jpg)
+
+![](.gitbook/assets/2018-01-03-14.48.15%20%281%29.jpg)
+
+### Summary
+
+Each technique has its strengths and weaknesses. The string figure sensor could have been made with knitting, braiding or plying, though, knitting provided us the best way to integrate our core most quickly. In other cases, you may especially need one technique more than the other. For instance, the knitting structure \(I think\) is the only one that could give us the quality of breath readings we needed because of its ability to stretch and place tension on long lengths of conductive yarn. For McKibben muscles, you must have braids made of material that "slides" well on itself so it can dramatically change its diameter when compressed. 
 
 ## Describing Yarns
 
