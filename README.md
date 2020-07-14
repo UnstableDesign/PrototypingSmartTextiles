@@ -18,7 +18,7 @@ What we offer here is largely guided through the experiences of those working in
 
 Chapter 1: [Staple Fibers](fiber.md)  
 Chapter 2: [String and Filament](string-and-filament.md)  
-Chapter 3: [Ply and Braid](yarn-ply-and-dye.md)  
+Chapter 3: [Ply and Braid](yarn-ply-and-dye/)  
 Chapter 4: Wovens  
 Chapter 5: [Knits](knit.md)  
 Chapter 6: Non-Wovens  

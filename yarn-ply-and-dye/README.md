@@ -6,63 +6,25 @@ description: Adding structure and function at the level of the yarn.
 
 As we have surveyed projects that use active or "smart" materials within textile structures, we tend to see two kinds of projects: \(1\) those that focus exclusively on the structure and composition of a yarn \(often leveraging braids\) and \(2\) those that use more conventional yarns and integrate them within a fabric to give some sort overall effect, say, touch sensing distributed across the fabric. Other times, you will buy smart fabrics only to find it was created with standard materials and simply sprayed or coated with something to make it conductive \(which then comes off on your hands\). 
 
-There is a huge opportunity to here to think about textiles from the fiber up and you can't do that unless you consider a critical intermediary: yarn. Now when we say yarn, we don't just mean just cotton or even conductive yarn, we mean anything you can get your hands on that is long, pliable and can be braided or coiled. This includes biomaterials, fishing line, tubing, hair, and so on. The magic happens when we mix all of these wild things together and see what magical things happen.
+There is a huge opportunity to here to think about textiles from the fiber up and you can't do that unless you consider a critical intermediary: yarn. Most of the yarns we use today, or that are used to make smart product concepts are either plied or braided into compound structures that suit our application. For knitting a winter scarf, this might be a airy and light wool. For figuring out how to make your charging cords interaction, this includes cotton mixed with fiberoptic cables. In fact, the materials we can use to make yarn are quite wide and include biomaterials, fishing line, tubing, hair, and so on. This chapter will help us understand the kinds of techniques that can help us make and experiment with these structures as well as terminology we can use to describe what we have made. 
 
-## Motivating Examples
+If you are looking for a bit of motivation before we begin learning techniques, the following applications give you a sense of what is possible using these techniques:
 
-Before moving into technique, I want to motivate the discussion on yarn, cable and rope by considering a few examples from research and industry. With these, I want to show how combinations of materials into different structures can give us very different possibilities. 
+{% page-ref page="application-artificial-muscles.md" %}
 
-### **Case 1:  Artificial Muscles**
+{% page-ref page="application-i-o-braid.md" %}
 
-Lets start with a [McKibben artificial muscle](https://softroboticstoolkit.com/book/pneumatic-artificial-muscles#:~:text=The%20muscles%20consist%20of%20an,radial%20expansion%20into%20linear%20contraction.) which consists of a rope that is braided around a ****hollow tube. When you pressurize the fluid \(air or water\) in the tube, the braided structure amplifies the movement. In most DIY examples, we see these made by simply buying a pre-made braided hollow cord and shoving a hollow tube down the center of it. 
+{% page-ref page="application-color-changing-yarns.md" %}
 
-{% embed url="https://www.youtube.com/watch?v=oBkdKeTJ5NY" %}
+{% page-ref page="application-a-string-that-knows-its-shape.md" %}
 
-Which is actually a really great adaptation to making your own braided structures that folks like Irene Posch have used to make other things, [like custom e-textile "alligator clips"](http://www.ireneposch.net/tooling/). Some other folks have taken this idea, made longer muscles and woven them through other fabrics to see what shapes they make: 
+{% page-ref page="application-capacitive-sensing-yarns.md" %}
 
-{% embed url="https://www.youtube.com/watch?v=PYSqkEhVe6k" %}
-
-
-
-Okay so lets now combine that with another fun discovery: the fact that when you coil and heat monofilament, nylon fishing line, you can make a single filament that is quite strong: 
-
-{% embed url="https://www.youtube.com/watch?v=Za0VeU9Ov7A" %}
-
-If I'm understanding this video correctly, they have essentially mimicked the braided structure of McKibben muscles using these nylon muscles to provide even more lifting power to the structure So now you can consider that the tube and pneumatic pump need not even exist, the braid can do its own expanding and contracting. Better yet, these monofilament muscles are heat/voltage activated, so you can braid them with conductive or resistive heating wires to integrate the actuating elements uniformly along the length \(or non-uniformly if you're into that kind of thing\). Maybe you want to have some feedback mechanism, like having a reading that tells you how much the muscle is expanding. Well then, just integrate another yarn that [change is properties when stretched](https://softroboticstoolkit.com/smart-braids), perhaps with a change in resistance or inductance. Maybe you want to have the system activate on touch. Okay then, just add another yarn that offer capacitive sensing \(or make your hands really hot to by-pass the conductive just get right to the point. How do you make these kinds of things? Answer: braiding or plying \(we'll get to that later on this page\). 
-
-And if you're head isn't already spinning with ideas for tubing and braiding, I'll leave you with this:
-
-{% embed url="https://vimeo.com/261862777" %}
+{% page-ref page="application-transatlantic-cable.md" %}
 
 
 
-### **Case 2: Engineering a Production Scale Conductive Yarn.** 
-
-The second case is from Google's Project Jacquard. The story starts with Google wanting to integrate into wearables, and wanting to do it in a really elegant way. According to the original announcement, there were three main challenges in this. First, you needed a yarn that could withstand industrial manufacturing machines. Second, they wanted it to not be grey, and Third, they wanted it to be responsive to capacitive touch. Because they are Google, they were able to work with industrial suppliers to engineer their own yarn which consists of three magnet wires or filaments in the core \(middle\) which were then braided \(on a very fun to watch maypole machine!\) with a dyeable and durable fiber: silk. They used copper because its very conductive; silk because its really strong and dyes into really brilliant colors; and a braided structure because it could withstand large amounts of force. While we can note that this was certainly not the first conductive yarn to be core spun or to allow for capacitive touch sensing, what is interesting is what is possible with you have access to equipment that is otherwise unaccessible. They could really precisely tune the material to the function they hand in mind and the infrastructure that they would need it to work within. 
-
-{% embed url="https://www.youtube.com/watch?v=qObSFfdfe7I" %}
-
-I was able to collaborate with their team during the early stages of this project \(and this experience largely inspired a much deeper dive into textiles after the collaboration\). It took a while before we were able to get this very special yarn, so in the meantime, we used a simpler version that consisted on a single magnet wire plied with silk. This structure is much easier to mimc by hand. What [Joanne Lo](https://www.linkedin.com/in/joanneclo), another collaborator on the project, noticed about the very few and very tiny yarn samples we did have was that they were really good resistive heaters. Basically, if you pump voltage into a very thin wire, it causes it to heat up. Furthermore, those heating wires were directly in contact with the fabric shell or sheath, meaning that very little heat would be lost. While on one hand, you can imagine a warming jacket or socks, we decided to coat the yarns with thermochromic pigments that change color at different ranges of temperature. This concept had been really beautifully illustrated by [Maggie Orth](http://www.maggieorth.com/art_100EAYears.html) and others beginning in 2009 and we played around with integrating the yarns in various stitches to see what kinds of effects we could come up with.
-
-{% embed url="https://vimeo.com/138025527" %}
-
-So here we say one function sort of serendipitously allowing for another. A later project created in collaboration with Google takes the technology of braiding even further to enable new kinds of interactive sensing upon the yarns itself. This project, particularly, leverages fiber-optics to create input and output. 
-
-
-
-{% embed url="https://www.youtube.com/watch?v=t-\_QCI8ntDM" %}
-
-So we see the kind of evolution in thinking when you start imagining how you can spin and braid things around things, adding different functions, sensing, actuation and adaptation at each level. 
-
-### **Finding Roots to these Projects in History:** 
-
-With that in mind, I'll leave you with this image I was able to capture at the Henry Ford Museum of the original transatlantic cable. I couldn't help by love that this cable, this massive innovation moment, was just coils on coils on oils of wire and cable, spun just like yarn. 
-
-![](.gitbook/assets/img_7233%20%281%29.jpg)
-
-![Sections of the transatlantic cable photographed at the Henry Ford Museum](.gitbook/assets/img_7234%20%281%29.jpg)
-
-## Creating Tubular Structures 
+## Making Yarn, Cable and Rope Structures 
 
 Singles, the first stage yarns created just after spinning are not very strong, as the only thing holding fibers together is the twist. Commonly, these singles are spun into larger, stronger structures. There are several techniques to create these structures and each can work with singles, filaments or a combination of both. The first technique is **plying,** where the yarns are twisted into each-other to create stability. The second is **cabling**, where multiple plied strands are plied again into each other. The third is **braiding**, where a circular braid, like a finger trap, is created to give structure and stability.  
 
@@ -104,7 +66,7 @@ In this video, she is hand spinning heating wire for activating thermochromic pi
 
 If you want to get a feel for this, take any string or yarn you have nearby, twist it as much as you can between your hands and then fold it, holding the two ends in one hand and the fold in the other. You can watch the ply twist into itself to achieve balance, and if you feel like it, you can help it along and see even more twist.  
 
-![The steps of plying with the drop spindle.](.gitbook/assets/compound-image.png)
+![The steps of plying with the drop spindle.](../.gitbook/assets/compound-image.png)
 
 #### Ad Hoc Setups 
 
@@ -122,45 +84,43 @@ I tried to make my own heating yarn using an Incredible rope machine,  which all
 
 
 
-![Copper magnet wire \(~32AWG\) and cotton rope. ](.gitbook/assets/rope_1.jpg)
+![Copper magnet wire \(~32AWG\) and cotton rope. ](../.gitbook/assets/rope_1.jpg)
 
 ### Braiding 
 
 Braiding is a technique that uses coils multiple strands, in different twist directions around a solid or hollow core. Industrial braiding uses a machine called a "[maypole machine](https://www.youtube.com/watch?v=SKHuZEhrQ2E)" that is utterly fascinating to watch. Braiding is often used for creating sheaths around a core. What is nice about braiding is you can have a core that is a completely different material than the sheath without having to wrestle with too many different issues in tensioning. I have never worked with an industrial braiding machine, but making braided tubes by hand has opened up a lot of possibilities for experimenting with integrating many different materials. 
 
-![A kumihimo wheel, yarns and resulting rope ](.gitbook/assets/kumihimo_1.jpg)
+![A kumihimo wheel, yarns and resulting rope ](../.gitbook/assets/kumihimo_1.jpg)
 
 Braiding machines have yet to enter the DIY marketplace \([and this one is out of stock!](https://www.kickstarter.com/projects/mixedmediaeng/rope-omatic)\), but we can create small samples at least using a technique called **Kumihimo.** Kumihimo braiding is a technique in which several lengths of yarns are braided into hollow tubes. Kumihimo templates can be used to create braids with custom textures and patterning. The templates are easy to produce in cardboard on a laser cutter at various thicknesses. During this braiding, the maker has more control over tensions than they might with techniques that spin yarns together, thus, they may be ideal for applications that require brittle materials to be integrated into the outer structure of the yarn. It is also nice because it can adapt to several different numbers of individual yarns composing the braid. If you want to braid around a core, you simple pace your core material through the hole in the center and while you are braiding, it will wrap around that core on its own. A special thank you to [Pamela Liou](https://pamelaliou.com/) who was the first to introduce me to Kumihimo. There are many [patterns available online](https://prumihimo.com/resources/braiding-patterns/) that allow you to create braids with different cross sections ranging from square to semi-circular. 
 
 ### I-Cords
 
-One final structure that may be useful, and it at least easier to prototype is a knitted i-cord. This structure is hollow with a knitted sheath. Unlike the other two structures, this sheath is quite stretchy. The downside is that the yarn will be a bit fat \(by yarn standards\). The structure can be created by [hand techniques](https://www.youtube.com/watch?v=dfkFRa9tjns) or with wonderful little contraptions like and [embellish-knit ](https://www.studioknitsf.com/embellish-knit-cords-power-tools/)hand cranked i-cord maker. Traditionally used to make little pulls, like the ones on a hoodie, they can also be useful in creating yarn-like structures. When working by hand, you have much more flexibility with the materials and sizing of the cord. With some finessing, you can feed the machine \(or a hand knitter\) both conductive and non-conductive materials at the same time to create a conductive cord structure. This structure has been really useful for acting as a pull or strain sensor, or, when tied around my ribcage, makes a pretty robust breath sensor. The measuring works through resistive sensing. The knitting structure basically maximizes the length of the conductive thread. So when the cord is strained, it strains all fibers of the conductive yarns, tightening their structure and lowering the overall resistance.  
-
-![Feeding two materials into the Embellish-knit machine at once to create a conductive sheath. ](.gitbook/assets/2017-12-19-14.07.00.jpg)
+One final structure that may be useful, and it at least easier to prototype is a knitted i-cord. This structure is hollow with a knitted sheath. Unlike the other two structures, this sheath is quite stretchy. The downside is that the yarn will be a bit fat \(by yarn standards\). The structure can be created by [hand techniques](https://www.youtube.com/watch?v=dfkFRa9tjns) or with wonderful little contraptions like and [embellish-knit ](https://www.studioknitsf.com/embellish-knit-cords-power-tools/)hand cranked i-cord maker. Traditionally used to make little pulls, like the ones on a hoodie, they can also be useful in creating yarn-like structures. When working by hand, you have much more flexibility with the materials and sizing of the cord. With some finessing, you can feed the machine \(or a hand knitter\) both conductive and non-conductive materials at the same time to create a conductive cord structure. This structure has been really useful for acting as a pull or strain sensor, or, when tied around my ribcage, makes a pretty robust breath sensor. The measuring works through resistive sensing. The knitting structure basically maximizes the length of the conductive thread. So when the cord is strained, it strains all fibers of the conductive yarns, tightening their structure and lowering the overall resistance .  
 
 
 
-![Knitted I-coord with wool and conductive sheath. ](.gitbook/assets/knit_2.jpg)
+![Feeding two materials into the Embellish-knit machine at once to create a conductive sheath. ](../.gitbook/assets/2017-12-19-14.07.00.jpg)
 
-Because of the hollow structure, it is also possible to add a cord within the sheath. I have found  it most useful to add this core at the time of knitting, rather than trying to feed it through after. In one project, we used conductive materials in the core AND the sheath to create a string that [would know something of its own shape](https://dl.acm.org/doi/10.1145/3170427.3188570). It did so by .adding five different insulated conductive wires inside the structure. Each insulated wire was then attached to a exposed conductive "ring" made of copper tape. This allowed us to take resistance measurements at five different points along the length. Depending on which sensors showed changes in resistance and which didn't, we could tell which regions of the string were crossed.
 
- 
 
-![Diagram of the yarn-based system.](.gitbook/assets/paperdiagram%20%281%29.jpg)
+![Knitted I-coord with wool and conductive sheath. ](../.gitbook/assets/knit_2.jpg)
 
-![Measuring setup. A power and ground connection at the beginning and end of string. A non-conductive section in between these regions makes resistance is measured across the entire length of the yarn.](.gitbook/assets/2018-01-03-14.43.49%20%281%29.jpg)
+Because of the hollow structure, it is also possible to add a cord within the sheath. I have found  it most useful to add this core at the time of knitting, rather than trying to feed it through after. In one project, we used conductive materials in the core AND the sheath to create a string that [would know something of its own shape. ](application-a-string-that-knows-its-shape.md)
 
-![Resistance reading with no crossings in the yellow region](.gitbook/assets/2018-01-03-14.47.43.jpg)
+**Summary**
 
-![](.gitbook/assets/2018-01-03-14.48.15%20%281%29.jpg)
+Each technique has its strengths and weaknesses. The [string figure senso](application-a-string-that-knows-its-shape.md)r could have been made with knitting, braiding or plying, though, knitting provided us the best way to integrate our core most quickly. In other cases, you may especially need one technique more than the other. For instance, the knitting structure \(I think\) is the only one that could give us the quality of breath readings we needed because of its ability to stretch and place tension on long lengths of conductive yarn. For [McKibben muscles](application-artificial-muscles.md), you must have braids made of material that "slides" well on itself so it can dramatically change its diameter when compressed.  
 
-### Summary
+It is also important to note that there are likely a number of techniques that I have left out. For instance, how spinning different types of yarns or fibers and filaments together create really textured "boucle" yarns, how co-axial cables and other systems are made using wires as well as coatings, or even the [mystical processes that give us things like pipe-cleaners](https://www.youtube.com/watch?v=fPt-gwH3SVQ) \(a wire core spun with tufts of fun?\)
 
-Each technique has its strengths and weaknesses. The string figure sensor could have been made with knitting, braiding or plying, though, knitting provided us the best way to integrate our core most quickly. In other cases, you may especially need one technique more than the other. For instance, the knitting structure \(I think\) is the only one that could give us the quality of breath readings we needed because of its ability to stretch and place tension on long lengths of conductive yarn. For McKibben muscles, you must have braids made of material that "slides" well on itself so it can dramatically change its diameter when compressed. 
+
 
 ## Describing Yarns
 
 So now that we understand that yarns are made of twisted fibers, which have then become into much larger and stronger plyed or cabled fiber, we may come to understand the numbers that people use to describe yarns. Its also important to note that there are many different measures depending on what you want to describe and not all yarns are spun equal. You can add lots of spin, a little spin, lots of ply, a few plys and so on and so on and each will change the behavior. Futhermore, the ways that yarn is described for knitting is not always the same way yarn is described for weaving \(they are, after-all, very different processes\).Then we add conductive things to this mix and all the sudden we have to deal with conventions in the way wires are measured. 
+
+The most commonly used 
 
 
 
