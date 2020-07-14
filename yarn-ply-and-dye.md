@@ -4,20 +4,21 @@ description: Adding structure and function at the level of the yarn.
 
 # Ply and Braid
 
-As I have surveyed projects that use active or "smart" materials within textile structures, I tend to see two kinds of projects: \(1\) those that focus exclusively on the structure and composition of a yarn \(often leveraging braids\) and \(2\) those that use more conventional yarns and integrate them within a fabric to give some sort overall effect, say, touch sensing across the surface of the fabric. Other times, you will buy smart fabrics only to find it was created with standard materials and simply sprayed or coated with something to make it conductive \(which then comes off on your hands\). 
+As we have surveyed projects that use active or "smart" materials within textile structures, we tend to see two kinds of projects: \(1\) those that focus exclusively on the structure and composition of a yarn \(often leveraging braids\) and \(2\) those that use more conventional yarns and integrate them within a fabric to give some sort overall effect, say, touch sensing distributed across the fabric. Other times, you will buy smart fabrics only to find it was created with standard materials and simply sprayed or coated with something to make it conductive \(which then comes off on your hands\). 
 
-There is a huge opportunity to here to think about textiles from the fiber up and you can't do that unless you consider a critical intermediary: yarn. Now when I say yarn, I don't just mean just cotton or even conductive yarn, I mean anything you can get your hands on that is long, pliable and can be braided or coiled. This includes biomaterials, fishing line, tubing, and hair. The magic happens when we mix all of these wild things together and see if they play nice. 
+There is a huge opportunity to here to think about textiles from the fiber up and you can't do that unless you consider a critical intermediary: yarn. Now when we say yarn, we don't just mean just cotton or even conductive yarn, we mean anything you can get your hands on that is long, pliable and can be braided or coiled. This includes biomaterials, fishing line, tubing, hair, and so on. The magic happens when we mix all of these wild things together and see what magical things happen.
 
-Before moving into technique, I want to motivate the discussion on yarn, cable and rope by considering a few examples from research and industry. With these, I want to show how combinations of materials can give us very different possibilities. 
+## Motivating Examples
 
-**Case 1:  Artificial Muscles**  
-Lets start with a [McKibben artificial muscle](https://softroboticstoolkit.com/book/pneumatic-artificial-muscles#:~:text=The%20muscles%20consist%20of%20an,radial%20expansion%20into%20linear%20contraction.) which consists of a rope that is braided around a tube. When you pressurize the fluid \(air or water\) in the tube, the braided structure amplifies the movement. 
+Before moving into technique, I want to motivate the discussion on yarn, cable and rope by considering a few examples from research and industry. With these, I want to show how combinations of materials into different structures can give us very different possibilities. 
 
-In most DIY examples, we see these made by simply buying a pre-made braided cord and shoving a hollow tube down the center of it. 
+### **Case 1:  Artificial Muscles**
+
+Lets start with a [McKibben artificial muscle](https://softroboticstoolkit.com/book/pneumatic-artificial-muscles#:~:text=The%20muscles%20consist%20of%20an,radial%20expansion%20into%20linear%20contraction.) which consists of a rope that is braided around a ****hollow tube. When you pressurize the fluid \(air or water\) in the tube, the braided structure amplifies the movement. In most DIY examples, we see these made by simply buying a pre-made braided hollow cord and shoving a hollow tube down the center of it. 
 
 {% embed url="https://www.youtube.com/watch?v=oBkdKeTJ5NY" %}
 
-Which is actually a really great adaptation to making your own braided structures that folks like Irene Posch have used to make other things, [like custom e-textile "alligator clips"](http://www.ireneposch.net/tooling/). SOme other folks have taken this idea, made longer muscles and woven them through other fabrics to see what shapes they make: 
+Which is actually a really great adaptation to making your own braided structures that folks like Irene Posch have used to make other things, [like custom e-textile "alligator clips"](http://www.ireneposch.net/tooling/). Some other folks have taken this idea, made longer muscles and woven them through other fabrics to see what shapes they make: 
 
 {% embed url="https://www.youtube.com/watch?v=PYSqkEhVe6k" %}
 
@@ -27,7 +28,7 @@ Okay so lets now combine that with another fun discovery: the fact that when you
 
 {% embed url="https://www.youtube.com/watch?v=Za0VeU9Ov7A" %}
 
-If I'm understanding this video correctly, they have essentially mimicked the braided structure using these nylon muscles to provide even more lifting power to the structure So now you can consider that the tube and pneumatic pump need not even exist, the braid can do its own expanding and contracting. Better yet, these are heat/voltage activated, so you can braid them with conductive or resistive heating wires to integrate the actuating elements uniformly along the length \(or non-uniformly if you're into that kind of thing\). Maybe you want to have some feedback mechanism, like having a reading that tells you how much the muscle is expanding. Well then, just integrate another yarn that change is properties when stretched, perhaps with a change in resistance. Maybe you want to have the system activate on touch. Okay then, just add another yarn that offer capacitive sensing \(or make your hands really hot to by-pass the conductive just get right to the point. How do you make these kinds of things: braiding or plying \(we'll get to that later\). 
+If I'm understanding this video correctly, they have essentially mimicked the braided structure of McKibben muscles using these nylon muscles to provide even more lifting power to the structure So now you can consider that the tube and pneumatic pump need not even exist, the braid can do its own expanding and contracting. Better yet, these monofilament muscles are heat/voltage activated, so you can braid them with conductive or resistive heating wires to integrate the actuating elements uniformly along the length \(or non-uniformly if you're into that kind of thing\). Maybe you want to have some feedback mechanism, like having a reading that tells you how much the muscle is expanding. Well then, just integrate another yarn that [change is properties when stretched](https://softroboticstoolkit.com/smart-braids), perhaps with a change in resistance or inductance. Maybe you want to have the system activate on touch. Okay then, just add another yarn that offer capacitive sensing \(or make your hands really hot to by-pass the conductive just get right to the point. How do you make these kinds of things? Answer: braiding or plying \(we'll get to that later on this page\). 
 
 And if you're head isn't already spinning with ideas for tubing and braiding, I'll leave you with this:
 
@@ -35,13 +36,13 @@ And if you're head isn't already spinning with ideas for tubing and braiding, I'
 
 
 
-**Case 2: Engineering a Production Scale Conductive Yarn.** 
+### **Case 2: Engineering a Production Scale Conductive Yarn.** 
 
 The second case is from Google's Project Jacquard. The story starts with Google wanting to integrate into wearables, and wanting to do it in a really elegant way. According to the original announcement, there were three main challenges in this. First, you needed a yarn that could withstand industrial manufacturing machines. Second, they wanted it to not be grey, and Third, they wanted it to be responsive to capacitive touch. Because they are Google, they were able to work with industrial suppliers to engineer their own yarn which consists of three magnet wires or filaments in the core \(middle\) which were then braided \(on a very fun to watch maypole machine!\) with a dyeable and durable fiber: silk. They used copper because its very conductive; silk because its really strong and dyes into really brilliant colors; and a braided structure because it could withstand large amounts of force. While we can note that this was certainly not the first conductive yarn to be core spun or to allow for capacitive touch sensing, what is interesting is what is possible with you have access to equipment that is otherwise unaccessible. They could really precisely tune the material to the function they hand in mind and the infrastructure that they would need it to work within. 
 
 {% embed url="https://www.youtube.com/watch?v=qObSFfdfe7I" %}
 
-I was able to collaborate with their team during the early stages of this project \(and this experience largely inspired a much deeper dive into textiles after the collaboration\). It took a while before we were able to get this very special yarn, so in the meantime, we used a simpler version that consisted on a single magnet wire plied with silk. This structure is much easier to mimc by hand. What Joanne Lo, another collaborator on the project, noticed about the very few and very tiny yarn samples we did have was that they were really good resistive heaters. Basically, if you pump voltage into a very thin wire, it causes it to heat up. Furthermore, those heating wires were directly in contact with the fabric shell or sheath, meaning that very little heat would be lost. While on one hand, you can imagine a warming jacket or socks, we decided to coat the yarns with thermochromic pigments that change color at different ranges of temperature. This concept had been really beautifully illustrated by [Maggie Orth](http://www.maggieorth.com/art_100EAYears.html) and others beginning in 2009 and we played around with integrating the yarns in various stitches to see what kinds of effects we could come up with.
+I was able to collaborate with their team during the early stages of this project \(and this experience largely inspired a much deeper dive into textiles after the collaboration\). It took a while before we were able to get this very special yarn, so in the meantime, we used a simpler version that consisted on a single magnet wire plied with silk. This structure is much easier to mimc by hand. What [Joanne Lo](https://www.linkedin.com/in/joanneclo), another collaborator on the project, noticed about the very few and very tiny yarn samples we did have was that they were really good resistive heaters. Basically, if you pump voltage into a very thin wire, it causes it to heat up. Furthermore, those heating wires were directly in contact with the fabric shell or sheath, meaning that very little heat would be lost. While on one hand, you can imagine a warming jacket or socks, we decided to coat the yarns with thermochromic pigments that change color at different ranges of temperature. This concept had been really beautifully illustrated by [Maggie Orth](http://www.maggieorth.com/art_100EAYears.html) and others beginning in 2009 and we played around with integrating the yarns in various stitches to see what kinds of effects we could come up with.
 
 {% embed url="https://vimeo.com/138025527" %}
 
@@ -51,77 +52,97 @@ So here we say one function sort of serendipitously allowing for another. A late
 
 {% embed url="https://www.youtube.com/watch?v=t-\_QCI8ntDM" %}
 
-So we see the kind of evolution in thinking when you start imagining how you can spin and braid things around things, adding different functions, sensing, actuation and adaptation at each level. with that in mind, I'll leave you with this image I was able to capture at the Henry Ford Museum of the original transatlantic cable. I couldn't help by love that this cable, this massive innovation moment, was just coils on coils on oils of wire and cable, spun just like yarn. 
+So we see the kind of evolution in thinking when you start imagining how you can spin and braid things around things, adding different functions, sensing, actuation and adaptation at each level. 
 
+### **Finding Roots to these Projects in History:** 
 
+With that in mind, I'll leave you with this image I was able to capture at the Henry Ford Museum of the original transatlantic cable. I couldn't help by love that this cable, this massive innovation moment, was just coils on coils on oils of wire and cable, spun just like yarn. 
 
 ![](.gitbook/assets/img_7233%20%281%29.jpg)
 
-![](.gitbook/assets/img_7234%20%281%29.jpg)
+![Sections of the transatlantic cable photographed at the Henry Ford Museum](.gitbook/assets/img_7234%20%281%29.jpg)
 
-Experimentation in smart textiles ought to start at the level of individual yarns as each yarn brings a particular set of qualities, functionality, and compatibilities with specific techniques that you may need to employ. For example, the composition, in both structure and materials, of conductive yarns determines if they gain or lose resistance when stretched to strained, whether they will effectively transmit heat, whether they will short if crossed and whether you can solder to them or not. 
+## Creating Tubular Structures 
 
+Singles, the first stage yarns created just after spinning are not very strong, as the only thing holding fibers together is the twist. Commonly, these singles are spun into larger, stronger structures. There are several techniques to create these structures and each can work with singles, filaments or a combination of both. The first technique is **plying,** where the yarns are twisted into each-other to create stability. The second is **cabling**, where multiple plied strands are plied again into each other. The third is **braiding**, where a circular braid, like a finger trap, is created to give structure and stability.  
 
+#### Key Terms
 
+The direction that the singles or ply twists matters as you add additional structure to the yarn. **Twist,** in yarn, is typically **described as "Z' twist or "S" twist**. Thus, relative to how you are looking at the yarn, does the winding look more like a Z or an S. This twist makes a difference in how the more compound yarn structures are formed, and also can be leveraged in processes of weaving, where the twist structure allows fabrics to take on three dimensional properties. 
 
+Yarns are also created by building up and around other yarns and structures. Smaller yarns make bigger yarns etc. In general, there are two parts one can design in a yarn: **a core** and **a sheath**. Some yarns are consisting of a core and have no sheath. Their structures are solid \(no hollow\) and all the fibers wrap, meaning nothing consistently through the center of the structure. Some yarns are **core-spun**, in which a braid or ply is created as a sheath outside of a single and central core material. Others are hollow, in which the filaments and fibers are twisted around an empty core, allowing you to potentially insert something and have it be completely covered by the sheath. 
 
+### **Plying**
 
+The first technique we'll cover is plying. Plying consists of twisting multiple singles together. You can make cores and core-spun yarns using plying, but you cannot make hollow structures. You can ply with 2, 3, or however the hell many yarns you like, but its probably best to stay on the small side \(under 6\) to keep structure if you are doing this somewhat freehand. For bigger yarns or projects, you'll often see plies of plied yarn which are technically called "cabled" yarns. This is a yarn that is made by plying together previously plied yarns. 
 
+If you want to ply yarns together, here is what you do. Each of the singles strands is twisted in one direction \(lets say Z twist\), independently of the other. Once they are all twisted to the desired angle the counter-acting twist is applied from the joined end in the opposite \(or in this case S-direction\) and propagates through the singles, joining them together.
 
+The best video I found demonstrating this process comes from a demonstration of medieval rope making. This shows how six plys are twisted in unison and come together to form a solid yarn/rope as a core. 
 
+{% embed url="https://www.youtube.com/watch?v=toyOKOi0DsM" caption="Good demonstration of plying with 6 strands involving equipment traditionally used to make ropes. " %}
 
-
-
-
-Identifying and sourcing the yarns necessary for smart textiles can be difficult and often forces experimenters to rely on what they can find rather than what might be ideal for their purpose. Furthermore, accessible equipment for precisely making large qualities of rope, cable or yarn are not accessible to most people prototyping smart textiles. Yet, there is a lot to love, and to make use of, in these tubular and winding structures. In some cases, we can imagine functionality that we have considered only to be distributed throughout a fabric, distributed throughout a yarn. 
-
-There are two options we can pursue here separately or together: The first is ordering samples of yarns offered by different suppliers for testing and trying to find one that matches our needs, the other is to somehow creatively combine different yarns and fibers, as well as different structures, to create something that functions more or less how you might like it to. In this chapter, we'll start with an overview of yarn structures and nomenclature before going into more detail about suppliers of individual materials.
-
-\*\*\*\*
-
-## \*\*\*\*
-
-### \*\*\*\*
-
-## Combining Singles into Yarn Structures
-
-Singles are not very strong, as the only thing holding fibers together is the twist. The direction of this twist matters as you add additional structure to the yarn. **Twist, in yarn, is typically described as "Z' twist or "S" twist**. Thus, relative to how you are looking at the yarn, does the winding look more like a Z or an S. This twist makes a difference in how the more compound yarn structures are formed, and also can be leveraged in processes of weaving, where the twist structure allows fabrics to take on three dimensional properties. 
-
-**Plying**
-
-Plying consists of twisting multiple singles together. You can ply with 2, 3, or however the hell many yarns you like, but its probably best to stay on the small side \(under 6\) to keep structure if you are doing this somewhat freehand. For bigger yarns or projects, you'll often see plys of plied yarn which are technically called "cabled" yarns. This is a yarn that is made by plying together previously plyed yarns. 
-
-If you want to ply two yarns together, here is what you do. Each of the singles strands is twisted in one direction \(lets say Z twist\), independently of the other. Once they are all twisted to the desired angle the counter-acting twist is applied from the joined end in the opposite \(or in this case S-direction\) and propagates through the singles, joining them together.
-
-If you were an elegant and details oriented spinner, you would ply like this: 
-
-{% embed url="https://www.youtube.com/watch?v=ibpaZXq1eiU" %}
-
-{% embed url="https://www.instructables.com/id/Conductive-Thread-Wind-up/" %}
+Different equipment allows for different qualities and lengths of yarn to be produced more easily. Here are some techniques you could use or investigate: 
 
 
 
-And if you were a bit more hasty and just wanted to get it done and somehow involve a drill, you might do it like this: 
+#### Plying on a Spinning Wheel
 
-{% embed url="https://www.youtube.com/watch?v=2kQBp\_5PPTc" %}
+If you were an elegant and details oriented spinner you would likely ply using a spinning wheel. This has the advantage of creating long lengths of consistently \(with skill\) plied yarn. The downside is that it requires a spinning wheel which you may not have. 
 
-And if you wanted to get the whole village involved, it might look like this: 
+{% embed url="https://www.youtube.com/watch?v=ibpaZXq1eiU" caption="Video demonstration of plying two singles using a spinning wheel. This allows for consistent twisting along very long lengths of yarn." %}
 
-{% embed url="https://www.youtube.com/watch?v=toyOKOi0DsM" %}
+You can also create core-spun yarns using a spinning machine by plying or [adding fibers directly from top or roving around a solid and continuous core](https://www.mybluprint.com/article/core-spinning-yarn). This solid core is a useful structure when you want something to be fully encased in a fiber and/or when your core has very different material properties to your fibers. 
 
-#### Do it yourself:
+#### Spinning with A Drop Spindle
 
-If you want to try this, take any string you have nearby, twist it as much as you can between your hands and then fold it, holding the two ends in one hand and the fold in the other. You can watch the ply twist into itself to achieve balance, and if you feel like it, you can help it along and see even more twist. The same goes for plying larger amounts of singles, like in rope making seen below. Each of the 6 strands is twisted in one direction, independently of the other. Once they are all twisted to the desired angle the counter-acting twist is applied from the joined end and propagates through the singles, joining them together.
-
-In the lab, we have found the most practical way of plying together fibers and filaments, without a drill and without a spinning machine, has been to use a simple drop spindle \(like pre-historic weavers\). In this demonstration, we show how you quickly ply your yarns together.  
-
-![The steps of plying with the drop spindle.](.gitbook/assets/compound-image.png)
-
-Emeteuz shows us how this comes in hand when we need to make long lengths of our own conductive thread:
+A drop spindle provides a more accessible way of creating long-ish lengths of consistently spun yarn but also requires a bit of practice. [Anne-Marie Lavigne](http://emeteuz.com/woven-signals) shows us how this comes in hand when we need to make long lengths of our own conductive thread:
 
 {% embed url="https://vimeo.com/93086189" %}
 
-In this video, she is hand spinning heating wire for activating thermochromic pigments on yarn. By spinning the materials together \(instead of ironing a heating element on the back of the fabric\) she's ensuring there is really good transfer between the yarn and the heating element. As we found in our own studies, any air that comes between these two can drastically extend or reduce the activation time for the yarn to change color. 
+In this video, she is hand spinning heating wire for activating thermochromic pigments on yarn. By spinning the materials together \(instead of ironing a heating element on the back of the fabric\) she's ensuring there is really good transfer between the yarn and the heating element. As we found in our own studies, any air that comes between these two can drastically extend or reduce the activation time for the yarn to change color.
+
+If you want to get a feel for this, take any string or yarn you have nearby, twist it as much as you can between your hands and then fold it, holding the two ends in one hand and the fold in the other. You can watch the ply twist into itself to achieve balance, and if you feel like it, you can help it along and see even more twist.  
+
+![The steps of plying with the drop spindle.](.gitbook/assets/compound-image.png)
+
+#### Ad Hoc Setups 
+
+And if you were a bit more hasty or resource constrained you could follow each of these techniques. Both are a bit limited in the sense that you have a fixed length to work with. 
+
+This Instructables demo shows a nice contraption for plying a variable number of yarns together. Ideally, the yarns would be equally spaced along the outer edge of a circle but this seems to get the job done for a proof of concept. 
+
+{% embed url="https://www.instructables.com/id/Conductive-Thread-Wind-up/" caption="Instructables Link for DIY Plying Set Up" %}
+
+This video uses a drill, because it will go super fast \(but I think maybe too fast to be helpful\) and does a nice job of creating an even spacing between the hooks. The result however, is very inconsistent likely as a result of lack of experience and, I imagine, the fixed end point of all the yarns. Now if you wanted your rope to ply around a solid core, you could basically add a fourth "core" yarn directly in the center of the other three. This yarn would not twist with the others, and if you kept it at tension, the other yarns would start forming around it when relaxed. 
+
+{% embed url="https://www.youtube.com/watch?v=2kQBp\_5PPTc" caption="A video demonstration of a home-made setup for plying 3 yarns together using hooks and a drill. The resulting wire is not of very consistent quality." %}
+
+I tried to make my own heating yarn using an Incredible rope machine,  which allows you to ply size strands together. I added in magnet wire and mercerized cotton for the strands and it was really tough \(because I couldn't keep tension\). In hindsight, I think some of the challenge was that I tried the use yarn that was already plied \(2-ply\) so the yarn's own twist might have made the structure unravel. It came put something like this: 
+
+
+
+![Copper magnet wire \(~32AWG\) and cotton rope. ](.gitbook/assets/rope_1.jpg)
+
+### Braiding 
+
+Braiding is a technique that uses coils multiple strands, in different twist directions around a solid or hollow core. Industrial braiding uses a machine called a "[maypole machine](https://www.youtube.com/watch?v=SKHuZEhrQ2E)" that is utterly fascinating to watch. Braiding is often used for creating sheaths around a core. What is nice about braiding is you can have a core that is a completely different material than the sheath without having to wrestle with too many different issues in tensioning. I have never worked with an industrial braiding machine, but making braided tubes by hand has opened up a lot of possibilities for experimenting with integrating many different materials. 
+
+![A kumihimo wheel, yarns and resulting rope ](.gitbook/assets/kumihimo_1.jpg)
+
+Braiding machines have yet to enter the DIY marketplace \([and this one is out of stock!](https://www.kickstarter.com/projects/mixedmediaeng/rope-omatic)\), but we can create small samples at least using a technique called **Kumihimo.** Kumihimo braiding is a technique in which several lengths of yarns are braided into hollow tubes. Kumihimo templates can be used to create braids with custom textures and patterning. The templates are easy to produce in cardboard on a laser cutter at various thicknesses. During this braiding, the maker has more control over tensions than they might with techniques that spin yarns together, thus, they may be ideal for applications that require brittle materials to be integrated into the outer structure of the yarn. It is also nice because it can adapt to several different numbers of individual yarns composing the braid. If you want to braid around a core, you simple pace your core material through the hole in the center and while you are braiding, it will wrap around that core on its own. A special thank you to [Pamela Liou](https://pamelaliou.com/) who was the first to introduce me to Kumihimo. There are many [patterns available online](https://prumihimo.com/resources/braiding-patterns/) that allow you to create braids with different cross sections ranging from square to semi-circular. 
+
+
+
+### Knitting i-Cords
+
+One final 
+
+
+
+![Knitted I-coord with wool and conductive sheath. ](.gitbook/assets/knit_2.jpg)
+
+
 
 ## Describing Yarns
 
