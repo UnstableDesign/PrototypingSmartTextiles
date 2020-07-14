@@ -62,7 +62,25 @@ If you are making your own hybrid yarns, then you will also need to combine them
 
 {% embed url="https://www.youtube.com/watch?v=XT5ygUt8Cbk" %}
 
+## Describing Yarns
 
+So now that we understand that yarns are made of twisted fibers, which have then become into much larger and stronger plied or cabled fiber, we may come to understand the numbers that people use to describe yarns. Its also important to note that there are many different measures depending on what you want to describe and not all yarns are spun equal. You can add lots of spin, a little spin, lots of ply, a few plys and so on and so on and each will change the behavior. Futhermore, the ways that yarn is described for knitting is not always the same way yarn is described for weaving \(they are, after-all, very different processes\).Then we add conductive things to this mix and all the sudden we have to deal with conventions in the way wires are measured. 
+
+The most commonly used 
+
+
+
+Thankfully, there are terms that help us understand the properties that make the most impact and characterize different yarns.
+
+https://www.youtube.com/watch?v=G4MuKCCNoCk
+
+[Wraps per inch](https://www.craftyarncouncil.com/standards/how-measure-wraps-inch-wpi): This measure the width of the yarn. It is measured by counting how many wraps you can make around a length of 1 inch. Careful, pulling or not pulling the yarn will change this, best to shoot for a tension somewhere in the middle.
+
+https://www.youtube.com/watch?v=FckfIcDU52o
+
+[Gauge](https://www.craftyarncouncil.com/standards/yarn-weight-system): This measures how many stitches \(knitting\) you can fit within a four inch row of stockinette knit. The category of gauge is one of the most common when purchasing yarn, and also determines the size or your tools. I found this horribly confusing when I was learning, so its useful to have a guide.  Woven fabrics typically use different measures such as warps-per-inch which vary on the stitch...but more on that later.
+
+Twist Angle: A measure how how tightly the yarn is twisted. This matters because you may find that the amount of twist greatly changes the behavior of your fabric, especially when you are looking for textured or three-dimensional effects in the textile. [There are really fancy ways to measure twist precisely](https://textilestudycenter.com/twist-measurement-in-yarn/), but for the most part you can use a protractor and some careful looking to determine the twist angle. The higher the angle the tighter the twist.
 
 
 
