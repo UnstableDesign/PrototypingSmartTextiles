@@ -13,7 +13,8 @@
   * [Application: Color-Changing Yarns](yarn-ply-and-dye/application-color-changing-yarns.md)
   * [Application: Capacitive Sensing Yarns](yarn-ply-and-dye/application-capacitive-sensing-yarns.md)
   * [Application: Transatlantic Cable](yarn-ply-and-dye/application-transatlantic-cable.md)
-* [Knits](knit.md)
+* [Knits](knit/README.md)
+  * [Applications](knit/applications.md)
 * [Wovens](wovens.md)
 * [Non-Wovens](non-wovens.md)
 * [Seaming and Surface](seaming-and-surface.md)
@@ -22,5 +23,6 @@
 
 ## Resources
 
+* [Connections and Testing](resources/connections-and-testing.md)
 * [Suppliers of  Prepared Thread, Yarn and Filament](resources/suppliers-of-prepared-thread-yarn-and-filament.md)
 

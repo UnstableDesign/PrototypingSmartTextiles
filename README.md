@@ -20,7 +20,7 @@ Chapter 1: [Staple Fibers](fiber/)
 Chapter 2: [String and Filament](string-and-filament/)  
 Chapter 3: [Ply and Braid](yarn-ply-and-dye/)  
 Chapter 4: Wovens  
-Chapter 5: [Knits](knit.md)  
+Chapter 5: [Knits](knit/)  
 Chapter 6: Non-Wovens  
 Chapter 7: Seaming / Surface  
 Chapter 8: Volume  
