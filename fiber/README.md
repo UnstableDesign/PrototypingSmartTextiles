@@ -111,15 +111,45 @@ Silk is a protein fiber that is harvested from the cocoons of silk worms. There 
 | Light Emissive Properties Help Keep Body Cool |
 | Susceptible to Static |
 | Demonstrated Piezoelectric Properties |
+| Takes on Dye Really Well with Brilliant Colors |
+| Chlorine Bleach will Destroy Silk |
+| Sweat will Yellow Silk |
 
 | Sustainability |
 | :--- |
 | Renewable Resource |
-| Some  |
+| Long Lasting \(without direct sun exposure\) |
+| Some benefits to Tussah, Which can be harvested without killing the worms.  |
+
+### [https://en.wikipedia.org/wiki/Silk](https://en.wikipedia.org/wiki/Silk)
 
 ### Cotton
 
-### Linen
+![](../.gitbook/assets/screen-shot-2020-07-16-at-1.06.19-pm.png)
+
+| General  |
+| :--- |
+| Staple Length: 10-65mm |
+| Fiber Diameter: 11-22 microns |
+| Moisture Regain: 8.5%  |
+| Elasticity: Not Great |
+| Conductivity: Poor? |
+
+| Others  |
+| :--- |
+| Absorbs Moisture |
+| Strength Maintained During Washing \(stronger when wet\) |
+| Most Commonly Used Fiber in Textiles |
+| Low Static |
+
+| Sustainability |
+| :--- |
+| Renewable Resource |
+| Biodegradable  |
+| Often Chemically Processed |
+| The Plant is Water Intense and Hard on Soil |
+
+Linen
 
 ### Lyocell \(Tencel\)
 
