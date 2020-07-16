@@ -1,14 +1,37 @@
 ---
-description: 'String, how its made, where to get it, how to work with it.'
+description: >-
+  How fibers are treated, coated, and otherwise spun into "singles", or, single
+  strands of yarn.
 ---
 
-# String and Yarn
+# Staple Fibers and Filaments
 
-## **Where does Yarn Come From?**
+## Why Learn About Staple Fibers and Filaments
 
-Unless you are working with filament, which has been extruded into long lengths, you are likely working with yarn that is composed of various "singles" which describe the very first yarn like structure that fibers can take on. Singles are what you make when you take raw fiber and spin it into one long length. Singles, then, are often plyed or braided together to make thicker and stronger yarns. Sometimes singles are used in combination with filaments to create even more possibilities. 
 
-\*\*\*\*
+
+
+
+## Processing Staple Fibers into Singles
+
+### Obtaining/Synthesizing Raw Fibers 
+
+### Carding and Combing
+
+### Roving and Top
+
+
+
+## Describing Staple Fibers
+
+* **staple length** - this is a discrete measure of the average length of each fiber, typically measured in mm. The length of the fiber determines how thin/thick the resulting yarn needs to be and how it may feel against the skin \(in combination with many other factors\). Typically, very soft garments, come from short "downy" staple fibers collected from sheep or goats. Longer fibers tend to be stronger and used in more utilitarian applications like upholstery or rope making.
+* **fiber diameter** - cross section measured in nm. 
+* **crimp** - 
+* **fiber type** 
+
+### **Categorization** 
+
+cellulose, synthetic, protein, metallic?
 
 ### **Brief History of Spinning**
 

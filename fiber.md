@@ -1,52 +1,33 @@
----
-description: >-
-  Staple fibers are fibers of limited length, often used in textile
-  applications. Fibers of unlimited length are called (filaments) and will be
-  discussed in the next chapter.
----
-
 # Fiber Types
 
 ## Why Learn About Fiber Types?
 
 It is our opinion that all textiles are smart because fibers, the building blocks of textiles, have adapted or been engineered smart and responsive. Technically, a fiber is a material with "high length to width ratio" and they form the basic building blocks of yarn, which is a basic building block of fabric, which is a basic building block of pre-historic and contemporary culture. Filaments are another class of textile material that are basically very long and continuous fibers. They are most often produced through extrusion, where a bulk of pliable material is pushed through little holes to make long stringy things. These are often commonly used in textiles, especially in the production of synthetics or metallic/conductive textile materials.  
 
-## Key Terms
+## **Fiber Sources and Properties**
 
-### **Staple fibers vs. filaments**
+### Harvesting
 
-cellulose, synthetic, protein, metallic?
+### **Extruding**
 
-
-
-## Processing Staple Fibers 
-
-Where do staple fibers come from and how are they processed \(generally\)?
-
-### Obtaining/Synthesizing Raw Fibers 
-
-### Carding and Combing
-
-### Roving and Top
-
-
-
-## Describing Staple Fibers
+## Describing Fibers
 
 * **staple length** - this is a discrete measure of the average length of each fiber, typically measured in mm. The length of the fiber determines how thin/thick the resulting yarn needs to be and how it may feel against the skin \(in combination with many other factors\). Typically, very soft garments, come from short "downy" staple fibers collected from sheep or goats. Longer fibers tend to be stronger and used in more utilitarian applications like upholstery or rope making.
 * **fiber diameter** - cross section measured in nm. 
 * **crimp** - 
 * **fiber type** 
 
-### **Categorization** 
+\*\*\*\*
+
+\*\*\*\*
+
+## Common Fiber Types and Their Properties
+
+### **Fiber Classifications**
 
 cellulose, synthetic, protein, metallic?
 
 ### 
-
-### **Using Burn Tests to Determine Fiber Type**
-
-## Common Fiber Types and Their Properties
 
 ### Wool \(Sheep's\)
 
@@ -81,7 +62,7 @@ Wool fiber is harvested from sheep and can be obtained in many different grades 
 
 ### Gold
 
-Copper
+### Copper
 
 ###   
 

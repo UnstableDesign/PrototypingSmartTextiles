@@ -2,7 +2,7 @@
 
 * [Prototyping Smart Textiles](README.md)
 * [Fiber Types](fiber.md)
-* [String and Yarn](string-and-filament.md)
+* [Staple Fibers and Filaments](string-and-filament.md)
 * [Ply and Braid](yarn-ply-and-dye/README.md)
   * [Application: I/O Braid](yarn-ply-and-dye/application-i-o-braid.md)
   * [Application: A String that Knows its Shape](yarn-ply-and-dye/application-a-string-that-knows-its-shape.md)
