@@ -1,4 +1,11 @@
-# Fiber Types
+---
+description: >-
+  This chapter introduces the most basic building block of textiles: fibers.
+  Each fiber brings with it a different set a characteristics and processes
+  that, like a recipe, can be mixed and matched.
+---
+
+# Selecting Fiber Types
 
 ## Why Learn About Fiber Types?
 
