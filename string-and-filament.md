@@ -2,7 +2,7 @@
 description: 'String, how its made, where to get it, how to work with it.'
 ---
 
-# String and Filament
+# String and Yarn
 
 ## **Where does Yarn Come From?**
 

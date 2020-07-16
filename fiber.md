@@ -1,16 +1,25 @@
 ---
 description: >-
-  Staple fibers are the basic building blocks of yarn and each fiber gives us
-  lots of fun properties to play with.
+  Staple fibers are fibers of limited length, often used in textile
+  applications. Fibers of unlimited length are called (filaments) and will be
+  discussed in the next chapter.
 ---
 
-# Staple Fibers
+# Fiber Types
 
-## Why learn about staple fibers?
+## Why Learn About Fiber Types?
 
 It is our opinion that all textiles are smart because fibers, the building blocks of textiles, have adapted or been engineered smart and responsive. Technically, a fiber is a material with "high length to width ratio" and they form the basic building blocks of yarn, which is a basic building block of fabric, which is a basic building block of pre-historic and contemporary culture. Filaments are another class of textile material that are basically very long and continuous fibers. They are most often produced through extrusion, where a bulk of pliable material is pushed through little holes to make long stringy things. These are often commonly used in textiles, especially in the production of synthetics or metallic/conductive textile materials.  
 
-## Processing Stable Fibers 
+## Key Terms
+
+### **Staple fibers vs. filaments**
+
+cellulose, synthetic, protein, metallic?
+
+
+
+## Processing Staple Fibers 
 
 Where do staple fibers come from and how are they processed \(generally\)?
 
@@ -28,6 +37,12 @@ Where do staple fibers come from and how are they processed \(generally\)?
 * **fiber diameter** - cross section measured in nm. 
 * **crimp** - 
 * **fiber type** 
+
+### **Categorization** 
+
+cellulose, synthetic, protein, metallic?
+
+### 
 
 ### **Using Burn Tests to Determine Fiber Type**
 
@@ -59,6 +74,18 @@ Wool fiber is harvested from sheep and can be obtained in many different grades 
 ### Acrylic
 
 ### Polyester
+
+### Stainless Steel
+
+### Silver 
+
+### Gold
+
+Copper
+
+###   
+
+
 
 
 
