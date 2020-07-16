@@ -151,5 +151,13 @@ Conductive threads, especially when they are filament based, are often materials
 
 
 
+## Electrical Effects of Yarn Structures
+
+
+
+{% embed url="https://www.youtube.com/watch?v=AdM6I8fYB3E" %}
+
+
+
 
 
