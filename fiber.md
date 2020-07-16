@@ -6,6 +6,80 @@ description: >-
 
 # Staple Fibers
 
+## Why learn about staple fibers?
+
+It is our opinion that all textiles are smart because fibers, the building blocks of textiles, have adapted or been engineered smart and responsive. Technically, a fiber is a material with "high length to width ratio" and they form the basic building blocks of yarn, which is a basic building block of fabric, which is a basic building block of pre-historic and contemporary culture. Filaments are another class of textile material that are basically very long and continuous fibers. They are most often produced through extrusion, where a bulk of pliable material is pushed through little holes to make long stringy things. These are often commonly used in textiles, especially in the production of synthetics or metallic/conductive textile materials.  
+
+## Processing Stable Fibers 
+
+Where do staple fibers come from and how are they processed \(generally\)?
+
+### Obtaining/Synthesizing Raw Fibers 
+
+### Carding and Combing
+
+### Roving and Top
+
+
+
+## Describing Staple Fibers
+
+* **staple length** - this is a discrete measure of the average length of each fiber, typically measured in mm. The length of the fiber determines how thin/thick the resulting yarn needs to be and how it may feel against the skin \(in combination with many other factors\). Typically, very soft garments, come from short "downy" staple fibers collected from sheep or goats. Longer fibers tend to be stronger and used in more utilitarian applications like upholstery or rope making.
+* **fiber diameter** - cross section measured in nm. 
+* **crimp** - 
+* **fiber type** 
+
+### **Using Burn Tests to Determine Fiber Type**
+
+## Common Fiber Types and Their Properties
+
+### Wool \(Sheep's\)
+
+Wool fiber is harvested from sheep and can be obtained in many different grades that make it softer, more brash, etc. for different purposes. Wool is often noted for its unique "crimped" structure and elasticity. These little crimps or barbs, make it hold really nicely to other fibers when it is spun into yarn, also making it a bit more durable \(as long as it isn't wet\). This means that when it is spun into yarn, it contains a lot of air inside of its structure. Additionally, the cellular makeup of wool makes it particularly good at "wicking" moisture and absorbing it. I have heard that wool can absorb 30% of its weight in water and still remain dry to the touch. This keeps the body cool and dry, and also allows wool to have natural anti-static properties, meaning it won't cling to your skin and, in terms of electronics, won't build up charge. Wool has a really high specific thermal resistance, which means that it can keep heat from spreading \(and is naturally fire resistant\), which is why people living in the hot climates wore cloaks made of wool. In my own experiences with thermochromics on fabrics, its thermal properties mean the heat created from my heating wire do not spread far, isolating color change to very specific regions. In some cases, this allows color change to appear on one side of the fabric, and not the other \(for instance\). The elasticity of wool means that it can hold its shape \(or have "memory"\) better than other fibers, as long as it isn't wet.
+
+| Mechanical  | Electrical  | Sustainability |
+| :--- | :--- | :--- |
+| Absorbant | Thermal Insulation | Renewable Resource |
+| Moisture Wicking |  | Biodegrades |
+| Elasticity |  |  |
+| UV Resistant |  |  |
+
+### Silk
+
+### Cotton
+
+### Linen
+
+### Lyocell \(Tencel\)
+
+### Rayon
+
+### Nylon
+
+### Acrylic
+
+### Polyester
+
+
+
+
+
+
+
+### 
+
+
+
+
+
+
+
+
+
+
+
+----- -- Old content----
+
 ![SEM imagery of commonly used textile fibers](http://unstable.design/wp-content/uploads/2020/07/Screen-Shot-2020-07-03-at-4.42.12-PM.png)
 
 It is our opinion that all textiles are smart because fibers, the building blocks of textiles, have adapted or been engineered smart and responsive. Technically, a fiber is a material with "high length to width ratio" and they form the basic building blocks of yarn, which is a basic building block of fabric, which is a basic building block of pre-historic and contemporary culture. Filaments are another class of textile material that are basically very long and continuous fibers. They are most often produced through extrusion, where a bulk of pliable material is pushed through little holes to make long stringy things. These are often commonly used in textiles, especially in the production of synthetics or metallic/conductive textile materials.  

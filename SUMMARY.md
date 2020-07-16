@@ -10,5 +10,10 @@
   * [Application: Color-Changing Yarns](yarn-ply-and-dye/application-color-changing-yarns.md)
   * [Application: Capacitive Sensing Yarns](yarn-ply-and-dye/application-capacitive-sensing-yarns.md)
   * [Application: Transatlantic Cable](yarn-ply-and-dye/application-transatlantic-cable.md)
-* [Knit](knit.md)
+* [Knits](knit.md)
+* [Wovens](wovens.md)
+* [Non-Wovens](non-wovens.md)
+* [Seaming and Surface](seaming-and-surface.md)
+* [Volume](volume.md)
+* [Scale and Sustainability](scale-and-sustainability.md)
 
