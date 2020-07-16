@@ -13,6 +13,8 @@ description: >-
 
 {% page-ref page="application-using-twist-to-support-battery-less-shape-changing-fabrics.md" %}
 
+{% page-ref page="application-structural-color-on-yarn.md" %}
+
 
 
 ## **Chemically Processing Fibers & Filaments**

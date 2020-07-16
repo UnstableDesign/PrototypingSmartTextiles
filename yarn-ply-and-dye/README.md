@@ -56,7 +56,7 @@ If you were an elegant and details oriented spinner you would likely ply using a
 
 You can also create core-spun yarns using a spinning machine by plying or [adding fibers directly from top or roving around a solid and continuous core](https://www.mybluprint.com/article/core-spinning-yarn). This solid core is a useful structure when you want something to be fully encased in a fiber and/or when your core has very different material properties to your fibers. 
 
-#### Spinning with A Drop Spindle
+#### Pl with A Drop Spindle
 
 A drop spindle provides a more accessible way of creating long-ish lengths of consistently spun yarn but also requires a bit of practice. [Anne-Marie Lavigne](http://emeteuz.com/woven-signals) shows us how this comes in hand when we need to make long lengths of our own conductive thread:
 
@@ -150,12 +150,6 @@ Conductive threads, especially when they are filament based, are often materials
 [AWG](https://en.wikipedia.org/wiki/American_wire_gauge): To add another hitch to our measuring questions, sometimes resellers will describe their yarns/wires in terms of AWG, which is a measure that corresponds to the diameter of a cross-section of the wire but is wacky in that it scales logarithmically. The rule of thumb for me, using copper, is that the higher the number the thinner the wire. 40 AWG copper is about as thin as my hair and breaks easily. Something between 36-28 AWG has been the ideal for textile work as it is relatively strong yet also very thin and workable into the textile structure.
 
 
-
-## Electrical Effects of Yarn Structures
-
-
-
-{% embed url="https://www.youtube.com/watch?v=AdM6I8fYB3E" %}
 
 
 

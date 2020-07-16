@@ -2,8 +2,10 @@
 
 * [Prototyping Smart Textiles](README.md)
 * [Selecting Fiber Types](fiber/README.md)
-  * [Application: Synthesizing New Fibers](fiber/application-synthesizing-new-fibers.md)
+  * [Application: Carbon Nanotube Yarns](fiber/application-carbon-nanotube-yarns.md)
+  * [Application: Synthetic Spider Silk](fiber/application-synthesizing-new-fibers.md)
 * [Processing and Spinning](string-and-filament/README.md)
+  * [Application: Structural Color on Yarn](string-and-filament/application-structural-color-on-yarn.md)
   * [Application: DIY Conductive Thread](string-and-filament/application-diy-conductive-thread.md)
   * [Application: Using Twist to Support Battery-less Shape Changing Fabrics](string-and-filament/application-using-twist-to-support-battery-less-shape-changing-fabrics.md)
 * [Ply and Braid](yarn-ply-and-dye/README.md)
@@ -25,4 +27,5 @@
 
 * [Connections and Testing](resources/connections-and-testing.md)
 * [Suppliers of  Prepared Thread, Yarn and Filament](resources/suppliers-of-prepared-thread-yarn-and-filament.md)
+* [Sensing Using Conductive Yarns](resources/sensing-using-conductive-yarns.md)
 
