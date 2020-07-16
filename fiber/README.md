@@ -149,7 +149,15 @@ Silk is a protein fiber that is harvested from the cocoons of silk worms. There 
 | Often Chemically Processed |
 | The Plant is Water Intense and Hard on Soil |
 
-Linen
+### Linen
+
+| General  |
+| :--- |
+| Staple Length: 25-150 mm |
+| Fiber Diameter: 12-16 microns |
+| Moisture Regain: 12%  |
+| Elasticity: Not Great |
+| Conductivity: OK |
 
 ### Lyocell \(Tencel\)
 
