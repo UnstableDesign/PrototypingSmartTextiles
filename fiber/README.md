@@ -11,7 +11,7 @@ Technically, a fiber is a material with "high length to width ratio" and they fo
 
 ## Why Learn About Fiber Types?
 
-So often in smart textiles development, we delegate "smartness" to the sensing or conductive wires/threads we integrate into our textiles. However, the traditional fibers of textiles, like wool or cotton, are also adaptive and responsive in many ways. They can be creatively combined and used with other materials to amplify or bring out specific qualities.  Filaments are another class of textile material that are basically very long and continuous fibers. They are most often produced through extrusion, where a bulk of pliable material is pushed through little holes to make long stringy things. These are often commonly used in textiles, especially in the production of synthetics or metallic/conductive textile materials.  
+So often in smart textiles development, we delegate "smartness" to the sensing or conductive wires/threads we integrate into our textiles. However, the traditional fibers of textiles, like wool or cotton, are also adaptive and responsive in many ways. They can be creatively combined and used with other materials to amplify or bring out specific qualities.  If we understand the properties and attributes that each fiber brings to the table, we might be able to make a wise decision about whether to use copper or silver wire in conjunction with wool or cotton base yarns depending on our application. For instance, if we want the use the wire to generate heat and want the body of the fabric to act as insulation, we would use wool. If we want the wire to simply transmit energy from here to there, and we are most concerned with the washability of our project, then we might choose silver and cotton. This chapter might be best used as a kind of reference material, but it offers an explanation of different fiber types to aid you in picking one for your project. 
 
 ## **Fiber Sources**
 
@@ -80,11 +80,11 @@ I have heard that wool can absorb 30% of its weight in water and still remain dr
 | Renewable Resource |
 | Biodegrades |
 
-### [https://www.wool.com/market-intelligence/woolcheque/wool-characteristics/](https://www.wool.com/market-intelligence/woolcheque/wool-characteristics/)
+[https://www.wool.com/market-intelligence/woolcheque/wool-characteristics/](https://www.wool.com/market-intelligence/woolcheque/wool-characteristics/)
 
-### [https://solitudewool.com/pages/types-of-wool](https://solitudewool.com/pages/types-of-wool)
+[https://solitudewool.com/pages/types-of-wool](https://solitudewool.com/pages/types-of-wool)
 
-### [http://www.fao.org/natural-fibres-2009/about/15-natural-fibres/en/\#:~:text=Silk%3A%20It's%20filament%20is%20a,highly%20prized%20%22natural%20shimmer%22.](http://www.fao.org/natural-fibres-2009/about/15-natural-fibres/en/#:~:text=Silk%3A%20It's%20filament%20is%20a,highly%20prized%20%22natural%20shimmer%22.)
+[http://www.fao.org/natural-fibres-2009/about/15-natural-fibres/en/\#:~:text=Silk%3A%20It's%20filament%20is%20a,highly%20prized%20%22natural%20shimmer%22.](http://www.fao.org/natural-fibres-2009/about/15-natural-fibres/en/#:~:text=Silk%3A%20It's%20filament%20is%20a,highly%20prized%20%22natural%20shimmer%22.)
 
 ### 
 
@@ -113,7 +113,9 @@ Silk is a protein fiber that is harvested from the cocoons of silk worms. There 
 | Demonstrated Piezoelectric Properties |
 | Takes on Dye Really Well with Brilliant Colors |
 | Chlorine Bleach will Destroy Silk |
-| Sweat will Yellow Silk |
+| Sweat will Turn Silk Yellow |
+| Moisture Wicking  |
+| Low Heat Retention |
 
 | Sustainability |
 | :--- |
@@ -121,7 +123,9 @@ Silk is a protein fiber that is harvested from the cocoons of silk worms. There 
 | Long Lasting \(without direct sun exposure\) |
 | Some benefits to Tussah, Which can be harvested without killing the worms.  |
 
-### [https://en.wikipedia.org/wiki/Silk](https://en.wikipedia.org/wiki/Silk)
+[https://en.wikipedia.org/wiki/Silk](https://en.wikipedia.org/wiki/Silk)
+
+[https://sewport.com/fabrics-directory/silk-fabric](https://sewport.com/fabrics-directory/silk-fabric)
 
 ### Cotton
 
@@ -158,6 +162,8 @@ Silk is a protein fiber that is harvested from the cocoons of silk worms. There 
 | Moisture Regain: 12%  |
 | Elasticity: Not Great |
 | Conductivity: OK |
+
+### 
 
 ### Lyocell \(Tencel\)
 
