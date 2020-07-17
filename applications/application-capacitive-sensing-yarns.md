@@ -2,7 +2,7 @@
 description: Silk braided around a core of copper magnet wire.
 ---
 
-# Application: Capacitive Sensing Yarns
+# Capacitive Sensing Yarns
 
 ### **Case 2: Engineering a Production Scale Conductive Yarn.** 
 

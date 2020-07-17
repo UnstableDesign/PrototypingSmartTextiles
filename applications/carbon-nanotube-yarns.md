@@ -1,4 +1,4 @@
-# Application: Carbon Nanotube Yarns
+# Carbon Nanotube Yarns
 
 [https://www.youtube.com/watch?v=4XDJC64tDR0](https://www.youtube.com/watch?v=4XDJC64tDR0)
 

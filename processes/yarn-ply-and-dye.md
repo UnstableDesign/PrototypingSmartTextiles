@@ -10,17 +10,17 @@ There is a huge opportunity to here to think about textiles from the fiber up an
 
 If you are looking for a bit of motivation before we begin learning techniques, the following applications give you a sense of what is possible using these techniques:
 
-{% page-ref page="application-artificial-muscles.md" %}
+{% page-ref page="../applications/application-artificial-muscles.md" %}
 
 {% page-ref page="../applications/application-i-o-braid.md" %}
 
-{% page-ref page="application-color-changing-yarns.md" %}
+{% page-ref page="../applications/application-color-changing-yarns.md" %}
 
-{% page-ref page="application-a-string-that-knows-its-shape.md" %}
+{% page-ref page="../applications/application-a-string-that-knows-its-shape.md" %}
 
-{% page-ref page="application-capacitive-sensing-yarns.md" %}
+{% page-ref page="../applications/application-capacitive-sensing-yarns.md" %}
 
-{% page-ref page="application-transatlantic-cable.md" %}
+{% page-ref page="../applications/application-transatlantic-cable.md" %}
 
 
 
@@ -96,11 +96,11 @@ One final structure that may be useful, and it at least easier to prototype is a
 
 ![Knitted I-coord with wool and conductive sheath. ](../.gitbook/assets/knit_2.jpg)
 
-Because of the hollow structure, it is also possible to add a cord within the sheath. I have found  it most useful to add this core at the time of knitting, rather than trying to feed it through after. In one project, we used conductive materials in the core AND the sheath to create a string that [would know something of its own shape. ](application-a-string-that-knows-its-shape.md)
+Because of the hollow structure, it is also possible to add a cord within the sheath. I have found  it most useful to add this core at the time of knitting, rather than trying to feed it through after. In one project, we used conductive materials in the core AND the sheath to create a string that [would know something of its own shape. ](../applications/application-a-string-that-knows-its-shape.md)
 
 **Summary**
 
-Each technique has its strengths and weaknesses. The [string figure senso](application-a-string-that-knows-its-shape.md)r could have been made with knitting, braiding or plying, though, knitting provided us the best way to integrate our core most quickly. In other cases, you may especially need one technique more than the other. For instance, the knitting structure \(I think\) is the only one that could give us the quality of breath readings we needed because of its ability to stretch and place tension on long lengths of conductive yarn. For [McKibben muscles](application-artificial-muscles.md), you must have braids made of material that "slides" well on itself so it can dramatically change its diameter when compressed.  
+Each technique has its strengths and weaknesses. The [string figure senso](../applications/application-a-string-that-knows-its-shape.md)r could have been made with knitting, braiding or plying, though, knitting provided us the best way to integrate our core most quickly. In other cases, you may especially need one technique more than the other. For instance, the knitting structure \(I think\) is the only one that could give us the quality of breath readings we needed because of its ability to stretch and place tension on long lengths of conductive yarn. For [McKibben muscles](../applications/application-artificial-muscles.md), you must have braids made of material that "slides" well on itself so it can dramatically change its diameter when compressed.  
 
 It is also important to note that there are likely a number of techniques that I have left out. For instance, how spinning different types of yarns or fibers and filaments together create really textured "boucle" yarns, how co-axial cables and other systems are made using wires as well as coatings, or even the [mystical processes that give us things like pipe-cleaners](https://www.youtube.com/watch?v=fPt-gwH3SVQ) \(a wire core spun with tufts of fun?\)
 

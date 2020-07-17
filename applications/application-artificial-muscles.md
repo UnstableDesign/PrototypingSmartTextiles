@@ -2,7 +2,7 @@
 description: Braiding nylon around a tube as the core.
 ---
 
-# Application: Artificial Muscles
+# Artificial Muscles
 
 Lets start with a [McKibben artificial muscle](https://softroboticstoolkit.com/book/pneumatic-artificial-muscles#:~:text=The%20muscles%20consist%20of%20an,radial%20expansion%20into%20linear%20contraction.) which consists of a rope that is braided around a ****hollow tube. When you pressurize the fluid \(air or water\) in the tube, the braided structure amplifies the movement. In most DIY examples, we see these made by simply buying a pre-made braided hollow cord and shoving a hollow tube down the center of it. 
 
