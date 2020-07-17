@@ -40,27 +40,19 @@ The first technique we'll cover is plying. Plying consists of twisting multiple 
 
 If you want to ply yarns together, here is what you do. Each of the singles strands is twisted in one direction \(lets say Z twist\), independently of the other. Once they are all twisted to the desired angle the counter-acting twist is applied from the joined end in the opposite \(or in this case S-direction\) and propagates through the singles, joining them together.
 
-The best video I found demonstrating this process comes from a demonstration of medieval rope making. This shows how six plys are twisted in unison and come together to form a solid yarn/rope as a core. 
-
-{% embed url="https://www.youtube.com/watch?v=toyOKOi0DsM" caption="Good demonstration of plying with 6 strands involving equipment traditionally used to make ropes. " %}
+The best video I found demonstrating this process comes from a demonstration of medieval rope making. This shows how six plys are twisted in unison and come together to form a solid yarn/rope as a core. [This video offers a good demonstration of how this process takes place](https://www.youtube.com/watch?v=toyOKOi0DsM&feature=emb_title). 
 
 Different equipment allows for different qualities and lengths of yarn to be produced more easily. Here are some techniques you could use or investigate: 
 
-
-
 #### Plying on a Spinning Wheel
 
-If you were an elegant and details oriented spinner you would likely ply using a spinning wheel. This has the advantage of creating long lengths of consistently \(with skill\) plied yarn. The downside is that it requires a spinning wheel which you may not have. 
-
-{% embed url="https://www.youtube.com/watch?v=ibpaZXq1eiU" caption="Video demonstration of plying two singles using a spinning wheel. This allows for consistent twisting along very long lengths of yarn." %}
+If you were an elegant and details oriented spinner you would likely ply using a spinning wheel. This has the advantage of creating long lengths of consistently \(with skill\) plied yarn. The downside is that it requires a spinning wheel which you may not have. [This video demonstration shows how to ply two singles together using a spinning wheel](https://www.youtube.com/watch?time_continue=3&v=ibpaZXq1eiU&feature=emb_logo). This allows for consistent twisting along long lengths of yarn.
 
 You can also create core-spun yarns using a spinning machine by plying or [adding fibers directly from top or roving around a solid and continuous core](https://www.mybluprint.com/article/core-spinning-yarn). This solid core is a useful structure when you want something to be fully encased in a fiber and/or when your core has very different material properties to your fibers. 
 
 #### Pl with A Drop Spindle
 
-A drop spindle provides a more accessible way of creating long-ish lengths of consistently spun yarn but also requires a bit of practice. [Anne-Marie Lavigne](http://emeteuz.com/woven-signals) shows us how this comes in hand when we need to make long lengths of our own conductive thread:
-
-{% embed url="https://vimeo.com/93086189" %}
+A drop spindle provides a more accessible way of creating long-ish lengths of consistently spun yarn but also requires a bit of practice. [Anne-Marie Lavigne](http://emeteuz.com/woven-signals) shows us how this comes in hand when we need to make long lengths of our own conductive thread [in this video](https://vimeo.com/93086189).
 
 In this video, she is hand spinning heating wire for activating thermochromic pigments on yarn. By spinning the materials together \(instead of ironing a heating element on the back of the fabric\) she's ensuring there is really good transfer between the yarn and the heating element. As we found in our own studies, any air that comes between these two can drastically extend or reduce the activation time for the yarn to change color.
 
