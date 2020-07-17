@@ -12,7 +12,7 @@ If you are looking for a bit of motivation before we begin learning techniques, 
 
 {% page-ref page="application-artificial-muscles.md" %}
 
-{% page-ref page="application-i-o-braid.md" %}
+{% page-ref page="../applications/application-i-o-braid.md" %}
 
 {% page-ref page="application-color-changing-yarns.md" %}
 

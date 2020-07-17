@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Prototyping Smart Textiles](README.md)
+* [Social Implications Textile and Electronics Work](social-implications-textile-and-electronics-work.md)
 * [Selecting Fiber Types](fiber/README.md)
   * [Application: Carbon Nanotube Yarns](fiber/application-carbon-nanotube-yarns.md)
   * [Application: Synthetic Spider Silk](fiber/application-synthesizing-new-fibers.md)
@@ -9,7 +10,6 @@
   * [Application: DIY Conductive Thread](string-and-filament/application-diy-conductive-thread.md)
   * [Application: Using Twist to Support Battery-less Shape Changing Fabrics](string-and-filament/application-using-twist-to-support-battery-less-shape-changing-fabrics.md)
 * [Ply and Braid](yarn-ply-and-dye/README.md)
-  * [Application: I/O Braid](yarn-ply-and-dye/application-i-o-braid.md)
   * [Application: A String that Knows its Shape](yarn-ply-and-dye/application-a-string-that-knows-its-shape.md)
   * [Application: Artificial Muscles](yarn-ply-and-dye/application-artificial-muscles.md)
   * [Application: Color-Changing Yarns](yarn-ply-and-dye/application-color-changing-yarns.md)
@@ -22,6 +22,11 @@
 * [Seaming and Surface](seaming-and-surface.md)
 * [Volume](volume.md)
 * [Scale and Sustainability](scale-and-sustainability.md)
+
+## Applications
+
+* [Application: I/O Braid](applications/application-i-o-braid.md)
+* [Untitled](applications/untitled.md)
 
 ## Resources
 
