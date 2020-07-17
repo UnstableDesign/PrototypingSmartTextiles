@@ -68,9 +68,7 @@ This Instructables demo shows a nice contraption for plying a variable number of
 
 {% embed url="https://www.instructables.com/id/Conductive-Thread-Wind-up/" caption="Instructables Link for DIY Plying Set Up" %}
 
-This video uses a drill, because it will go super fast \(but I think maybe too fast to be helpful\) and does a nice job of creating an even spacing between the hooks. The result however, is very inconsistent likely as a result of lack of experience and, I imagine, the fixed end point of all the yarns. Now if you wanted your rope to ply around a solid core, you could basically add a fourth "core" yarn directly in the center of the other three. This yarn would not twist with the others, and if you kept it at tension, the other yarns would start forming around it when relaxed. 
-
-{% embed url="https://www.youtube.com/watch?v=2kQBp\_5PPTc" caption="A video demonstration of a home-made setup for plying 3 yarns together using hooks and a drill. The resulting wire is not of very consistent quality." %}
+This video uses a drill, because it will go super fast \(but I think maybe too fast to be helpful\) and does a nice job of creating an even spacing between the hooks. The result however, is very inconsistent likely as a result of lack of experience and, I imagine, the fixed end point of all the yarns. Now if you wanted your rope to ply around a solid core, you could basically add a fourth "core" yarn directly in the center of the other three. This yarn would not twist with the others, and if you kept it at tension, the other yarns would start forming around it when relaxed. [This video shows a demonstration](https://www.youtube.com/watch?v=2kQBp_5PPTc&feature=emb_logo) of a home-made setup for plying 3 yarns together using hooks and a drill. The resulting wire is not of very consistent quality.
 
 I tried to make my own heating yarn using an Incredible rope machine,  which allows you to ply size strands together. I added in magnet wire and mercerized cotton for the strands and it was really tough \(because I couldn't keep tension\). In hindsight, I think some of the challenge was that I tried the use yarn that was already plied \(2-ply\) so the yarn's own twist might have made the structure unravel. It came put something like this: 
 
@@ -121,15 +119,11 @@ Part of the reason these measures are so convoluted is that they are not exactly
 Typically, when you order yarn, you will be given a set of measures including \(but not limited to\):  
 
 
-[Gauge](https://www.craftyarncouncil.com/standards/yarn-weight-system): This measures how many stitches \(knitting\) you can fit within a four inch row of stockinette knit. Some brands only tell you how many stitches in a single inch. The category of gauge is one of the most common when purchasing yarn, [and also determines the category name of the yarn \(e.g. sport weight\) and the recommended size or your tools](https://www.craftyarncouncil.com/standards/yarn-weight-system). 
-
-{% embed url="https://www.youtube.com/watch?v=FckfIcDU52o" %}
+[Gauge](https://www.craftyarncouncil.com/standards/yarn-weight-system): This measures how many stitches \(knitting\) you can fit within a four inch row of stockinette knit. Some brands only tell you how many stitches in a single inch. The category of gauge is one of the most common when purchasing yarn, [and also determines the category name of the yarn \(e.g. sport weight\) and the recommended size or your tools](https://www.craftyarncouncil.com/standards/yarn-weight-system).  [This video shows how to measure gauge. ](https://www.youtube.com/watch?time_continue=1&v=FckfIcDU52o&feature=emb_logo)
 
 
 
-[Wraps per inch](https://www.craftyarncouncil.com/standards/how-measure-wraps-inch-wpi): This measure the width of the yarn and is complementary to, but not replaceable by the gauge. It is measured by counting how many wraps you can make around a length of 1 inch. When measuring yourself, you must be careful how much you  pull the yarn, as it will change this measure. Best to shoot for a tension somewhere in the middle. T[his chart relates yarn weight \(e.g. Bulky\) to different numbers of wraps per inch](https://www.craftyarncouncil.com/standards/how-measure-wraps-inch-wpi). 
-
-{% embed url="https://www.youtube.com/watch?v=G4MuKCCNoCk" %}
+[Wraps per inch](https://www.craftyarncouncil.com/standards/how-measure-wraps-inch-wpi): This measure the width of the yarn and is complementary to, but not replaceable by the gauge. It is measured by counting how many wraps you can make around a length of 1 inch. When measuring yourself, you must be careful how much you  pull the yarn, as it will change this measure. Best to shoot for a tension somewhere in the middle. T[his chart relates yarn weight \(e.g. Bulky\) to different numbers of wraps per inch](https://www.craftyarncouncil.com/standards/how-measure-wraps-inch-wpi). This video shows how to go about [determining yarn weight](https://www.youtube.com/watch?time_continue=4&v=G4MuKCCNoCk&feature=emb_logo). 
 
 [Ratios \(Traditional Weaving Yarns\)](https://spinoffmagazine.com/yarn-numbers-mean-weaving-yarns/): Weaving yarns are often sold with a ratio in their name, such as "8/2 Tencel Yarn" or "20/2" Cotton. The denominator \(bottom\) number in this ratio tells you the number of plies of singles yarn they contain. So both 8/2 and 20/2 yarns have 2-plies. The numerator describes the thickness of the yarn, based on the thickness of the singles. A measure of 1 would be the thickest possible singles. So, the higher the number, the thinner each individual ply is. 
 
