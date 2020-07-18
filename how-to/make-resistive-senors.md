@@ -1,10 +1,6 @@
-# Sensing Using Conductive Yarns
+# Make Resistive Sensors
 
 Resistive Sensing
-
-Capacitive Sensing
-
-Swept Frequency Capacitive Sensing
 
 {% embed url="https://dl.acm.org/doi/abs/10.1145/3313831.3376681" %}
 

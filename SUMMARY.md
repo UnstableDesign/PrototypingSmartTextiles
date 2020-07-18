@@ -2,25 +2,24 @@
 
 * [Prototyping Smart Textiles](README.md)
 
-## Processes
+## Techniques
 
-* [Processing and Spinning](processes/string-and-filament.md)
-* [Ply and Braid](processes/yarn-ply-and-dye.md)
-* [Knits](processes/knit.md)
-* [Wovens](processes/wovens.md)
-* [Non-Wovens](processes/non-wovens.md)
-* [Seaming and Surface](processes/seaming-and-surface.md)
-* [Volume](processes/volume.md)
-* [Scale and Sustainability](processes/scale-and-sustainability.md)
+* [Processing and Spinning](techniques/string-and-filament.md)
+* [Ply and Braid](techniques/yarn-ply-and-dye.md)
+* [Knits](techniques/knit.md)
+* [Wovens](techniques/wovens.md)
+* [Non-Wovens](techniques/non-wovens.md)
+* [Seaming and Surface](techniques/seaming-and-surface.md)
+* [Volume](techniques/volume.md)
+* [Scale and Sustainability](techniques/scale-and-sustainability.md)
 
 ## Applications Areas <a id="applications"></a>
 
 * [Synthetic Spider Silk](applications/synthesizing-new-fibers.md)
 * [Carbon Nanotube Yarns](applications/carbon-nanotube-yarns.md)
-* [DIY Conductive Thread](applications/application-diy-conductive-thread.md)
-* [Using Twist to Support Battery-less Shape Changing Fabrics](applications/application-using-twist-to-support-battery-less-shape-changing-fabrics.md)
+* [Shape Changing Fabrics](applications/application-using-twist-to-support-battery-less-shape-changing-fabrics.md)
 * [Structural Color on Yarn](applications/application-structural-color-on-yarn.md)
-* [Applications](applications/applications.md)
+* [Knit Applications](applications/applications.md)
 * [Artificial Muscles](applications/application-artificial-muscles.md)
 * [Color-Changing Yarns](applications/application-color-changing-yarns.md)
 * [Capacitive Sensing Yarns](applications/application-capacitive-sensing-yarns.md)
@@ -29,10 +28,17 @@
 * [I/O Braid](applications/application-i-o-braid.md)
 * [Untitled](applications/untitled.md)
 
+## How To
+
+* [Embed Hard Components in Soft Structures](how-to/embed-hard-components-in-soft-structures.md)
+* [Select Fiber Types](how-to/fiber.md)
+* [Make Hard/Soft Connections](how-to/make-hard-soft-connections.md)
+* [Use a Multimeter](how-to/connections-and-testing.md)
+* [Make your Own Conductive Thread](how-to/application-diy-conductive-thread.md)
+* [Make Resistive Sensors](how-to/make-resistive-senors.md)
+* [Weave a Voltage Dividing Circuit](how-to/weave-a-voltage-dividing-circuit.md)
+
 ## Resources
 
-* [Selecting Fiber Types](resources/fiber.md)
-* [Connections and Testing](resources/connections-and-testing.md)
 * [Suppliers of  Prepared Thread, Yarn and Filament](resources/suppliers-of-prepared-thread-yarn-and-filament.md)
-* [Sensing Using Conductive Yarns](resources/sensing-using-conductive-yarns.md)
 

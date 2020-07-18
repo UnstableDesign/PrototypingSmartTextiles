@@ -9,7 +9,7 @@ description: >-
 
 ## Why Learn about Processing and Spinning
 
-{% page-ref page="../applications/application-diy-conductive-thread.md" %}
+{% page-ref page="../how-to/application-diy-conductive-thread.md" %}
 
 {% page-ref page="../applications/application-using-twist-to-support-battery-less-shape-changing-fabrics.md" %}
 

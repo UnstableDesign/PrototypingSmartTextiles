@@ -2,7 +2,7 @@
 description: To break out into individual pages
 ---
 
-# Applications
+# Knit Applications
 
 Appliications
 

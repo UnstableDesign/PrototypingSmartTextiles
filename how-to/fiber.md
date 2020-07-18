@@ -5,7 +5,7 @@ description: >-
   mixed and matched within your textile project.
 ---
 
-# Selecting Fiber Types
+# Select Fiber Types
 
 Technically, a fiber is a material with "high length to width ratio" and they form the basic building blocks of yarn, which is a basic building block of fabric, which is a basic building block of pre-historic and contemporary culture. 
 
