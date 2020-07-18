@@ -2,6 +2,12 @@
 
 ## Embroidery
 
+Hand embroidery
+
+Free hand machine embroidery -- if you have a machine where you can lower the feed dogs
+
+Stabilizers 
+
 ## Pleating/Folding
 
 ## Dyeing
@@ -13,6 +19,8 @@ Acid
 Natural
 
 Bacteria
+
+Ikat
 
 ## Resists
 
