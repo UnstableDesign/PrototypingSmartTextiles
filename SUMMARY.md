@@ -10,6 +10,7 @@
 * [Wovens](techniques/wovens.md)
 * [Non-Wovens](techniques/non-wovens.md)
 * [Seaming](techniques/seaming-and-surface.md)
+* [Surface](techniques/surface.md)
 * [Volume](techniques/volume.md)
 * [Scale and Sustainability](techniques/scale-and-sustainability.md)
 
