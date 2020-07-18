@@ -4,6 +4,14 @@
 
 ## Growing
 
+Kombucha Leather
+
+Root/Bio Lace
+
+Algae?
+
+Bioplastic/Gelatin
+
 ## Electrospinning
 
 ## Chainmail
@@ -17,6 +25,8 @@
 ## More?
 
 Sprayable Textiles
+
+Bio Yarn
 
 
 
