@@ -48,6 +48,8 @@ Under
 
 **Double Weaving**
 
+**Double Cloth Pick Up**
+
 **2-Pic Structures  
   
 Supplemental Warps / Inlay**
