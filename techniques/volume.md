@@ -12,5 +12,9 @@ Gathering
 
 Drawing strings/Elastic
 
+Boning/Plastics
+
+Wire?
+
 
 

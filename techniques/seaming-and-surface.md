@@ -10,11 +10,7 @@ Laser cut tab system
 
 Felting as a way to link/merge textiles together
 
-## 
+## Interfacing/Fusibles
 
 ## 
-
-## Fusible
-
-
 
