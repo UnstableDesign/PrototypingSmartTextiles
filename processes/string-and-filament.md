@@ -7,15 +7,9 @@ description: >-
 
 # Processing and Spinning
 
-## Why Learn about Processing and Spinning
+## Work that Leverages these Processes
 
-{% page-ref page="../how-to/application-diy-conductive-thread.md" %}
-
-{% page-ref page="../applications/application-using-twist-to-support-battery-less-shape-changing-fabrics.md" %}
-
-{% page-ref page="../applications/application-structural-color-on-yarn.md" %}
-
-
+This low level stage of textile preparation often takes place "behind the scenes" largely as the equipment and materials are difficult to access. Yet, others are looking to this specific phase, specifically when it comes to coating to imbue yarns with new capacities. These include new developments in using nano-technology to [create "structural color" ](../applications/application-structural-color-on-yarn.md)or color that is visible because of the physical nano-structures of the materials, rather than emitting light. Others embark on the processes of [hand-spinning metallic fibers ](../how-to/application-diy-conductive-thread.md)because what better way to understand a material than to physically produce it yourself. Others 
 
 ## **Chemically Processing Fibers & Filaments**
 
