@@ -8,11 +8,11 @@ A knit is a textile structure created by a series of interconnecting loops. Thes
 
 ## How Knit Fabrics are Produced
 
-// // Hand knitting
+**Hand Knitting** 
 
-// // Table top knitting - 
+**Machine Knitting:**  There are two main types of knitting machines that can used for tabletop knitting. The most common is a flat bed machine, which comes in two 'gauges', standard and chunky. The gauge of the machine refers to the spacing between the needles in the bed of the machine, which allows for different size yarns to run through the machine. These machines can be programmed electronically, or via punchcard. The second type of knitting machine is a 'V-bed' machine. V-bed knitting machines allow for more complex stitch structures and for double knits, and seamless knitting. 
 
-// // Machine knitting - flat, circular, v-bed
+I**ndustrial Knitting:** Industrial knitting machines produce the garments that we purchase in stores today. They are programmed via computer. These knitting machines can knit incredibly complex structures, and seamless garments. One machine can do many things and accommodate different yarns, rather than having different machines for different structures and yarns. There are also industrial circular knitting machines that can knit tubes of fabric, spacer textiles, and multilayer knit fabrics. 
 
 How to Knot
 
@@ -20,7 +20,7 @@ How to Knot
 
 ### **Selecting Yarn and Needle Size**
 
-//techniques for modifyinig drape an dhand
+The relationship between the gauge of your yarn and the size of your knitting needle determines the drape or hand of your knitted textile. Most skeins of yarn will recommend a knitting needle size, but there are ways to play around with knits to create textiles that have multiple properties. For instance, you can use multiple needles when knitting, and change the tension of the knit as you are working. One could use a chunky yarn with a small needle to create a dense knitted textile. Or a lace weight yarn with large needles to create a very loose, soft textile. One fabric can change from densely knitted to and large open knit just by changing needle size. 
 
 ### Primary Stitches
 
