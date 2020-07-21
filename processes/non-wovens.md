@@ -2,6 +2,14 @@
 
 ## Felting 
 
+What is felt/properties of wool fiber that allow it to felt
+
+Wet Felting
+
+Needle Felting
+
+Nuno Felting
+
 ## Growing
 
 Kombucha Leather
