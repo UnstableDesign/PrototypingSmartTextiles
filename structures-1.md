@@ -20,7 +20,7 @@ this is the name given to one of the primary structures of textile, a material w
 
 ## **Filament**
 
-the name given to fibers of unlimited length. Filaments are typically produced through extrusion, are of uniform length and quality.  
+The name given to fibers of unlimited length. Filaments are typically produced through extrusion, are of uniform length and quality.  
 
 ### **Primary Measurements**
 
