@@ -11,7 +11,6 @@
 ## Structures
 
 * [Harvesting or Synthesizing Fiber](structures/harvesting-or-synthesizing-fiber.md)
-* [Processing and Spinning](structures/string-and-filament.md)
 * [Ply and Braid](structures/yarn-ply-and-dye.md)
 * [Knit](structures/knit.md)
 * [Weave](structures/wovens.md)
