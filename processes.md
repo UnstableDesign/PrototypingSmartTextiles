@@ -32,6 +32,8 @@ To spin, a spinner drafts, or feeds, a collection of fibers into their spinning 
 
 ### Ad Hoc
 
+
+
 ### Drop Spindle
 
 ### Spinning Wheel
@@ -58,14 +60,101 @@ A second common process uses processes of extrusion. In these cases, materials a
 
 ## Plying
 
-[https://www.youtube.com/watch?v=toyOKOi0DsM&feature=emb\_title](https://www.youtube.com/watch?v=toyOKOi0DsM&feature=emb_title)  
+Plying consists of twisting multiple singles together. You can make cores and core-spun yarns using plying, but you cannot make hollow structures. You can ply with 2, 3, or however the hell many yarns you like, but its probably best to stay on the small side \(under 6\) to keep structure if you are doing this somewhat freehand. For bigger yarns or projects, you'll often see plies of plied yarn which are technically called "cabled" yarns. This is a yarn that is made by plying together previously plied yarns. 
 
+If you want to ply yarns together, here is what you do. Each of the singles strands is twisted in one direction \(lets say Z twist\), independently of the other. Once they are all twisted to the desired angle the counter-acting twist is applied from the joined end in the opposite \(or in this case S-direction\) and propagates through the singles, joining them together.
+
+### **Ad Hoc**
+
+A Demonstration of Plying 6 Strands into Rope on a Large Scale.   
+[https://www.youtube.com/watch?v=toyOKOi0DsM&feature=emb\_title](https://www.youtube.com/watch?v=toyOKOi0DsM&feature=emb_title)
+
+### **Rope Machine**
+
+  
+****A DIY Rope Machine   
+[https://www.instructables.com/id/Conductive-Thread-Wind-up/](https://www.instructables.com/id/Conductive-Thread-Wind-up/)  
+  
+Another DIY setup using a power drill  
+[https://www.youtube.com/watch?v=2kQBp\_5PPTc&feature=emb\_logo](https://www.youtube.com/watch?v=2kQBp_5PPTc&feature=emb_logo)
+
+How to use an Incredible Rope Machine  
+[https://www.youtube.com/watch?v=dJS-92kUicc](https://www.youtube.com/watch?v=dJS-92kUicc)
+
+### **Drop Spindle**
+
+Plying Custom Heating Wire**,** [Anne-Marie Lavigne](http://emeteuz.com/woven-signals)  
+****[https://vimeo.com/93086189](https://vimeo.com/93086189)
+
+### Spinning Wheel
+
+[https://www.youtube.com/watch?time\_continue=3&v=ibpaZXq1eiU&feature=emb\_logo](https://www.youtube.com/watch?time_continue=3&v=ibpaZXq1eiU&feature=emb_logo)
 
 ## Braiding
+
+Braiding is a technique that uses coils multiple strands, in different twist directions around a solid or hollow core. Industrial braiding uses a machine called a "[maypole machine](https://www.youtube.com/watch?v=SKHuZEhrQ2E)" that is utterly fascinating to watch. Braiding is often used for creating sheaths around a core. What is nice about braiding is you can have a core that is a completely different material than the sheath without having to wrestle with too many different issues in tensioning. I have never worked with an industrial braiding machine, but making braided tubes by hand has opened up a lot of possibilities for experimenting with integrating many different materials. 
+
+Braiding machines have yet to enter the DIY marketplace \([and this one is out of stock!](https://www.kickstarter.com/projects/mixedmediaeng/rope-omatic)\), but we can create small samples at least using a technique called **Kumihimo.** Kumihimo braiding is a technique in which several lengths of yarns are braided into hollow tubes. Kumihimo templates can be used to create braids with custom textures and patterning. The templates are easy to produce in cardboard on a laser cutter at various thicknesses. During this braiding, the maker has more control over tensions than they might with techniques that spin yarns together, thus, they may be ideal for applications that require brittle materials to be integrated into the outer structure of the yarn. It is also nice because it can adapt to several different numbers of individual yarns composing the braid. If you want to braid around a core, you simple pace your core material through the hole in the center and while you are braiding, it will wrap around that core on its own. A special thank you to [Pamela Liou](https://pamelaliou.com/) who was the first to introduce me to Kumihimo. There are many [patterns available online](https://prumihimo.com/resources/braiding-patterns/) that allow you to create braids with different cross sections ranging from square to semi-circular. 
 
 
 
 ## Knitting
+
+
+
+### Primary Stitches
+
+Knit
+
+Purl
+
+### Common Structures and their Properties
+
+**Garter Stitch**: When all stitches are either knit or purl
+
+**Stockinette**: When rows alternate between knit and purl
+
+**Others?**
+
+### **Useful techniques for integrating non-standard materials?**
+
+**Which materials?** Pick the ones that bend well and like to bend a lot. 
+
+**Hand Knitting** 
+
+### **Selecting Yarn and Needle Size**
+
+
+
+The relationship between the gauge of your yarn and the size of your knitting needle determines the drape or hand of your knitted textile. Most skeins of yarn will recommend a knitting needle size, but there are ways to play around with knits to create textiles that have multiple properties. For instance, you can use multiple needles when knitting, and change the tension of the knit as you are working. One could use a chunky yarn with a small needle to create a dense knitted textile. Or a lace weight yarn with large needles to create a very loose, soft textile. One fabric can change from densely knitted to and large open knit just by changing needle size. 
+
+### 
+
+**Machine Knitting:**  There are two main types of knitting machines that can used for tabletop knitting. The most common is a flat bed machine, which comes in two 'gauges', standard and chunky. The gauge of the machine refers to the spacing between the needles in the bed of the machine, which allows for different size yarns to run through the machine. These machines can be programmed electronically, or via punchcard. The second type of knitting machine is a 'V-bed' machine. V-bed knitting machines allow for more complex stitch structures and for double knits, and seamless knitting. 
+
+I**ndustrial Knitting:** Industrial knitting machines produce the garments that we purchase in stores today. They are programmed via computer. These knitting machines can knit incredibly complex structures, and seamless garments. One machine can do many things and accommodate different yarns, rather than having different machines for different structures and yarns. There are also industrial circular knitting machines that can knit tubes of fabric, spacer textiles, and multilayer knit fabrics. 
+
+One final structure that may be useful, and it at least easier to prototype is a knitted i-cord. This structure is hollow with a knitted sheath. Unlike the other two structures, this sheath is quite stretchy. The downside is that the yarn will be a bit fat \(by yarn standards\). The structure can be created by [hand techniques](https://www.youtube.com/watch?v=dfkFRa9tjns) or with wonderful little contraptions like and [embellish-knit ](https://www.studioknitsf.com/embellish-knit-cords-power-tools/)hand cranked i-cord maker. Traditionally used to make little pulls, like the ones on a hoodie, they can also be useful in creating yarn-like structures. When working by hand, you have much more flexibility with the materials and sizing of the cord. With some finessing, you can feed the machine \(or a hand knitter\) both conductive and non-conductive materials at the same time to create a conductive cord structure. This structure has been really useful for acting as a pull or strain sensor, or, when tied around my ribcage, makes a pretty robust breath sensor. The measuring works through resistive sensing. The knitting structure basically maximizes the length of the conductive thread. So when the cord is strained, it strains all fibers of the conductive yarns, tightening their structure and lowering the overall resistance .  
+
+
+
+## Embroidery
+
+Hand embroidery
+
+Free hand machine embroidery -- if you have a machine where you can lower the feed dogs
+
+Stabilizers 
+
+## Resists
+
+Shibori
+
+[Salt and Vinegar Etching](https://www.kobakant.at/DIY/?p=2575)
+
+[Hydrogren Peroxide Etching](https://www.kobakant.at/DIY/?p=7841)
+
+
 
 Weaving
 
@@ -74,6 +163,16 @@ Growing
 Coating
 
 Dying
+
+[MX](https://www.dharmatrading.com/techniques/tubdye/the-tub-washing-machine-vat-bucket-dye-method.html?lnav=techniques_tubdye.html)
+
+[Acid](https://www.dharmatrading.com/techniques/tubdye/tub-dyeing-basics-with-dharma-acid-dye.html?lnav=techniques_tubdye.html)
+
+[Natural](https://www.dharmatrading.com/information/how-to-use.html?lnav=information.html)
+
+Bacteria
+
+Ikat
 
 **Electroplating**
 
@@ -84,7 +183,56 @@ Dying
 **Etching**
 
 **Painting**  
+  
+****Felting 
 
+What is felt/properties of wool fiber that allow it to felt
+
+Wet Felting
+
+Needle Felting
+
+Nuno Felting
+
+## Growing
+
+Kombucha Leather
+
+Root/Bio Lace
+
+Algae?
+
+Bioplastic/Gelatin
+
+## Electrospinning
+
+## Chainmail
+
+## 3D Printing
+
+
+
+## Leather
+
+## More?
+
+Sprayable Textiles
+
+Bio Yarn
+
+
+
+## Sewing
+
+Hand Sewing
+
+Running Stitch
+
+Back Stitch
+
+Whip Stitch
+
+Blanket Stitch
 
 
 

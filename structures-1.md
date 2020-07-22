@@ -71,7 +71,17 @@ Note, yarns tend to be described differently by their suppliers and the applicat
 
 ## **Knits**
 
+A knit is a textile structure created by a series of interconnecting loops. These interconnecting loops create a textile with the ability to stretch in all directions. Knitting uses a continuous filament of material. Depending on the shape of the loops and the material used, the knit textile can have different amounts of stretch. Knitting allows for the construction of shapes without textile waste. One works with different patterns, structures, increasing and decreasing stitches to create shape. In this section, we will mainly focus on hand knitting, although some properties of machine knitting will be covered. In hand knitting, there are two main stitches, knit and purl, which make up two main types of knitted textile patterns, Garter and Stockinette.
+
+
+
 ## Wovens
+
+## Non-Wovens
+
+
+
+
 
   
 
