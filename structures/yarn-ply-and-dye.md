@@ -4,24 +4,6 @@ description: Adding structure and function at the level of the yarn.
 
 # Ply and Braid
 
-As we have surveyed projects that use active or "smart" materials within textile structures, we tend to see two kinds of projects: \(1\) those that focus exclusively on the structure and composition of a yarn \(often leveraging braids\) and \(2\) those that use more conventional yarns and integrate them within a fabric to give some sort overall effect, say, touch sensing distributed across the fabric. Other times, you will buy smart fabrics only to find it was created with standard materials and simply sprayed or coated with something to make it conductive \(which then comes off on your hands\). 
-
-There is a huge opportunity to here to think about textiles from the fiber up and you can't do that unless you consider a critical intermediary: yarn. Most of the yarns we use today, or that are used to make smart product concepts are either plied or braided into compound structures that suit our application. For knitting a winter scarf, this might be a airy and light wool. For figuring out how to make your charging cords interaction, this includes cotton mixed with fiberoptic cables. In fact, the materials we can use to make yarn are quite wide and include biomaterials, fishing line, tubing, hair, and so on. This chapter will help us understand the kinds of techniques that can help us make and experiment with these structures as well as terminology we can use to describe what we have made. 
-
-If you are looking for a bit of motivation before we begin learning techniques, the following applications give you a sense of what is possible using these techniques:
-
-{% page-ref page="../applications/application-artificial-muscles.md" %}
-
-{% page-ref page="../applications/application-i-o-braid.md" %}
-
-{% page-ref page="../applications/application-color-changing-yarns.md" %}
-
-{% page-ref page="../applications/application-a-string-that-knows-its-shape.md" %}
-
-{% page-ref page="../applications/application-capacitive-sensing-yarns.md" %}
-
-{% page-ref page="../applications/application-transatlantic-cable.md" %}
-
 
 
 ## Making Yarn, Cable and Rope Structures 

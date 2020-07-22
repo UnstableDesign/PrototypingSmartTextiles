@@ -20,7 +20,11 @@ Beauty Before Me: Navajo Weavers
 Gee's Bend: The Most Famous Quilts in America \(2011\)  
 [https://www.folkstreams.net/film-detail.php?id=421](https://www.folkstreams.net/film-detail.php?id=421)
 
+### Brief history of Spinning
 
+With evidence to suggest that spinning yarn was taking place over 20,000 years ago, spinning continues to be one of the primary methods of producing yarn, though the social and cultural politics of that production has changed over time.The earliest spinners attached raw fibers \(of wool, flax, etc\), to a spindle. The spindle was tossed in such a way that is spun through the air as the spinner fed it with fibers. For those interested in how these techniques varied in medieval times by region, you may [enjoy this demonstration of technique](https://www.youtube.com/watch?time_continue=3&v=RERnzaTREyM&feature=emb_title).
+
+As cloth became a major commodity in [China, India, and Islamic regions, the demand for yarn rose and people started to search for faster ways to spin yarn](https://quatr.us/china/invented-spinning-wheel-history-spinning.htm). The **spinning wheel**, of fairy tales and fables, was developed [between 500 and 1000 AD though the region of the invention is contested](https://americanhistory.si.edu/collections/search/object/nmah_1200991#:~:text=The%20process%20predates%20written%20history,those%20making%20fiber%20into%20yarn.) \(some say India, others China or Iran\). [Some argued the origins of the spinning wheel trace to China as well](https://www.thoughtco.com/spinning-wheel-evolution-1992414). You might say that the spinning wheel was the first step towards industrialization in textiles and by the 14th century, the Chinese had come up with water-powered spinning wheels. The power of the wheel is this is could turn faster and for longer than a hand spinner.
 
 ## Weaving 
 

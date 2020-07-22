@@ -26,6 +26,23 @@ Combing and Carding Demonstration and suggestions of associated fibers
 
 ## Spinning 
 
+Spinning is a process of adding twist to fibers such that they form into a more structured and durable yarn. Spinning raw fibers produces singles while it is also possible to spin raw fibers around other structures, such as wires or filaments. 
+
+To spin, a spinner drafts, or feeds, a collection of fibers into their spinning devices \(wheel or spindle\). As the spin propagates along the length of the fiber, it is wound onto a spool. The final step in spinning is called  finishing, by which the yarn can be washed, steamed, lassoed, whacked, menaced, and a whole host of other hilarious words, to help the yarn achieve is final state. This is essentially a process of making the yarn resemble the state you want it to stay in and you really don't know much until you've washed and laundered a textile project \(which is always frightening to me\).
+
+### Ad Hoc
+
+### Drop Spindle
+
+### Spinning Wheel
+
+DIY Conductive Thread on a Spinning Wheel  
+[https://www.youtube.com/watch?time\_continue=1&v=vB6aW6PBYAI&feature=emb\_title](https://www.youtube.com/watch?time_continue=1&v=vB6aW6PBYAI&feature=emb_title)
+
+
+
+
+
 
 
 Navajo Weaver Clara Sherman Demonstrating her Spinning Process  
@@ -41,11 +58,14 @@ A second common process uses processes of extrusion. In these cases, materials a
 
 ## Plying
 
+[https://www.youtube.com/watch?v=toyOKOi0DsM&feature=emb\_title](https://www.youtube.com/watch?v=toyOKOi0DsM&feature=emb_title)  
 
 
 ## Braiding
 
-Knitting
+
+
+## Knitting
 
 Weaving
 

@@ -29,18 +29,6 @@ e.g. polyurithane on copper
 
 \*\*\*\*
 
-## Preparing Fibers for Spinning
-
-### Obtaining/Synthesizing Raw Fibers 
-
-### Carding and Combing
-
-The hand-spinning process starts by obtaining fibers which are sold in **worsted** or **woolen** form. Worsted means that the fibers are combed so that they all align in the same direction and are of uniform length. This is often used for making yarns that are more  uniform, lustrous in color, durable, and a little wirey. Packages of worsted fiber are called "top" and you can buy them for your own hand-spinning projects.
-
-
-
-https://www.youtube.com/watch?v=3U3fWNJLVyw
-
 
 
 ## How to Spin 
@@ -65,9 +53,7 @@ To make matters more confusing, the terms worsted and woolen also describe techn
 
 ### Finishing
 
-The final step in yarn production is finishing, by which the yarn can be washed, steamed, lassoed, whacked, menaced, and a whole host of other hilarious words, to help the yarn achieve is final state. This is essentially a process of making the yarn resemble the state you want it to stay in and you really don't know much until you've washed and laundered a textile project \(which is always frightening to me\).
-
-## How to Describe Singles
+The final step in yarn production is finishing, by which the yarn can be washed, steamed, lassoed, whacked, menaced, and a whole host of other hilarious words, to help the yarn achieve is final state. This is essentially a process of making the yarn resemble the state you want it to stay in and you really don't know much until you've washed and laundered a textile project \(which is always frightening to me\)
 
 
 
