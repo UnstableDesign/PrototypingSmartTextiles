@@ -2,18 +2,18 @@
 
 * [Prototyping Smart Textiles](README.md)
 
-## Processes
+## Structures
 
-* [Harvesting or Synthesizing Fiber](processes/harvesting-or-synthesizing-fiber.md)
-* [Processing and Spinning](processes/string-and-filament.md)
-* [Ply and Braid](processes/yarn-ply-and-dye.md)
-* [Knit](processes/knit.md)
-* [Weave](processes/wovens.md)
-* [Non-Wovens](processes/non-wovens.md)
-* [Seaming](processes/seaming-and-surface.md)
-* [Surface](processes/surface.md)
-* [Volume](processes/volume.md)
-* [Scale and Sustainability](processes/scale-and-sustainability.md)
+* [Harvesting or Synthesizing Fiber](structures/harvesting-or-synthesizing-fiber.md)
+* [Processing and Spinning](structures/string-and-filament.md)
+* [Ply and Braid](structures/yarn-ply-and-dye.md)
+* [Knit](structures/knit.md)
+* [Weave](structures/wovens.md)
+* [Non-Wovens](structures/non-wovens.md)
+* [Seaming](structures/seaming-and-surface.md)
+* [Surface](structures/surface.md)
+* [Volume](structures/volume.md)
+* [Scale and Sustainability](structures/scale-and-sustainability.md)
 
 ## How To
 
