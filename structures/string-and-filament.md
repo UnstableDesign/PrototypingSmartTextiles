@@ -37,7 +37,7 @@ e.g. polyurithane on copper
 
 The hand-spinning process starts by obtaining fibers which are sold in **worsted** or **woolen** form. Worsted means that the fibers are combed so that they all align in the same direction and are of uniform length. This is often used for making yarns that are more  uniform, lustrous in color, durable, and a little wirey. Packages of worsted fiber are called "top" and you can buy them for your own hand-spinning projects.
 
-Woolen means that the fibers are "carded" which "encourages the fibers to lie in multiple directions" \[yarn-i-tec-ture\]. Fibers of all different lengths are kept in this process. The goal of carding is to build up enough of a "mesh" of fibers that they hold together. These meshes, and the process, yields more airy, fluffy and soft yarns. Bundles of worsted fibers are most often called "roving" but you different preparations go by names batts, rolags, fauxlags, puin, cloud, and wool locks, each of which offers, as you expect, its own set of unique qualities to the fibers.
+
 
 https://www.youtube.com/watch?v=3U3fWNJLVyw
 

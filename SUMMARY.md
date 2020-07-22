@@ -1,6 +1,12 @@
 # Table of contents
 
 * [Prototyping Smart Textiles](README.md)
+* [Structures](structures-1.md)
+* [Processes](processes.md)
+* [Materials](materials.md)
+* [Dynamics](dynamics.md)
+* [Documenting](documenting.md)
+* [Histories](histories.md)
 
 ## Structures
 
