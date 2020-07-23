@@ -90,6 +90,12 @@ A woven textile structure is created by interlacing material \(most often [plied
 
 ## Non-Wovens
 
-A non-woven textile is created by a process that does involve the use of fiber or its processing into yarn. Instead, non-wovens are textile like materials that are created by other processes of extruding \(e.g. chainmaill or 3D printed texitles, growing \(such as leather or kombucha\),  felting, a process by which individual fibers are tangled so much as to form a durable surface or structure, or electrospinning, where fibers are bonded into a fabric through electrical charge. These structures range in properties. Grown or felted and electrospun materials are often not structurally stretchy, as they are relatively uniform and solid structures.  
+A non-woven textile is created by a process that does involve the use of fiber or its processing into yarn. Instead, non-wovens are textile like materials that are created by other processes of extruding \(e.g. chainmaill or 3D printed texitles, growing \(such as leather or kombucha\),  felting, a process by which individual fibers are tangled so much as to form a durable surface or structure, or electrospinning, where fibers are bonded into a fabric through electrical charge. These structures range in properties. Grown or felted and electrospun materials are often not structurally stretchy, as they are relatively uniform and solid structures.
+
+
+
+## Perhaps a section of textile friendly non-textile structures?
+
+Beads, tubes, hoses, chainlinks, etc.   
 
 

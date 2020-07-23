@@ -1,3 +1,9 @@
+---
+description: >-
+  This page describes the construction processes that can be used in the
+  production of textile processes.
+---
+
 # Processes
 
 ## Combing & Carding
@@ -42,11 +48,35 @@ Navajo Weaver Clara Sherman Demonstrating her Spinning Process
 
 
 
+| Structure | Ability to be Spun |
+| :--- | :--- |
+| Raw Fiber | yes, but not in a meaningful length |
+| Filament | yes, if integrated as a core |
+| Roving & Top | yes |
+| Singles | yes, perhaps to add extra spin or customization |
+| Plied Yarn | not sure \(add extra twist?\) |
+| Braided Rope | not sure \(add extra twist?\) |
+| Knits | no |
+| Woven | no |
+| Non-Wovens | no |
+| Solid Objects | no |
+
 ## Extruding
 
 A second common process uses processes of extrusion. In these cases, materials are processed into a liquid like goo \(think play-doh\) and pressed through narrow openings named after a spider's "spinneret." The single streams of material emerging from the spinneret are either  spun directly into fiber or deposited into liquid chemical baths as part of their structural formation. Often, extruding gives rise to filaments, where long continuous fibers are created. In other cases, the streams can be kept at deliberately short lengths to simulate more staple fiber like qualities \(think steel wool\).  
 
-
+| Structure | Ability to be Extruded |
+| :--- | :--- |
+| Raw Fiber | no |
+| Filament | no \(unless reprocessed into an extrudable material\) |
+| Roving & Top | no |
+| Singles | no |
+| Plied Yarn | no |
+| Braided Rope | no |
+| Knits | no |
+| Woven | no |
+| Non-Wovens | no |
+| Solid Objects | sure, clay, playdough, pasta, etc.  |
 
 ## Plying
 
@@ -80,13 +110,66 @@ Plying Custom Heating Wire**,** [Anne-Marie Lavigne](http://emeteuz.com/woven-si
 
 [https://www.youtube.com/watch?time\_continue=3&v=ibpaZXq1eiU&feature=emb\_logo](https://www.youtube.com/watch?time_continue=3&v=ibpaZXq1eiU&feature=emb_logo)
 
-## Braiding
+| Structure | Ability to be Plied |
+| :--- | :--- |
+| Raw Fiber | no, needs to be in the form of singles first |
+| Filament | yes |
+| Roving & Top | yes?, for a more open and loose structure  |
+| Singles | yes |
+| Plied Yarn | yes |
+| Braided Rope | yes \(I don't see why not?\) |
+| Knits | yes for tubular knits or narrow flat knits |
+| Woven | yes for narrow, flat, or tubular weaves |
+| Non-Wovens | yes, if sliced or rolled into thin long pieces |
+| Solid Objects | yes, often if integrated as a core and plied around |
+
+## **Braiding**
 
 Braiding is a technique that uses coils multiple strands, in different twist directions around a solid or hollow core. Industrial braiding uses a machine called a "[maypole machine](https://www.youtube.com/watch?v=SKHuZEhrQ2E)" that is utterly fascinating to watch. Braiding is often used for creating sheaths around a core. What is nice about braiding is you can have a core that is a completely different material than the sheath without having to wrestle with too many different issues in tensioning. I have never worked with an industrial braiding machine, but making braided tubes by hand has opened up a lot of possibilities for experimenting with integrating many different materials. 
 
 Braiding machines have yet to enter the DIY marketplace \([and this one is out of stock!](https://www.kickstarter.com/projects/mixedmediaeng/rope-omatic)\), but we can create small samples at least using a technique called **Kumihimo.** Kumihimo braiding is a technique in which several lengths of yarns are braided into hollow tubes. Kumihimo templates can be used to create braids with custom textures and patterning. The templates are easy to produce in cardboard on a laser cutter at various thicknesses. During this braiding, the maker has more control over tensions than they might with techniques that spin yarns together, thus, they may be ideal for applications that require brittle materials to be integrated into the outer structure of the yarn. It is also nice because it can adapt to several different numbers of individual yarns composing the braid. If you want to braid around a core, you simple pace your core material through the hole in the center and while you are braiding, it will wrap around that core on its own. A special thank you to [Pamela Liou](https://pamelaliou.com/) who was the first to introduce me to Kumihimo. There are many [patterns available online](https://prumihimo.com/resources/braiding-patterns/) that allow you to create braids with different cross sections ranging from square to semi-circular. 
 
 
+
+| Structure | Ability to be Braided |
+| :--- | :--- |
+| Raw Fiber | no, needs to be in the form of singles first |
+| Filament | yes |
+| Roving & Top | yes  |
+| Singles | yes |
+| Plied Yarn | yes |
+| Braided Rope | yes  |
+| Knits | yes for tubular knits or narrow flat knits,  you could also braid around a knit object |
+| Woven | yes for narrow, flat, or tubular weaves |
+| Non-Wovens | yes, if sliced or rolled into thin long pieces or rolled and integrated as core |
+| Solid Objects | yes, often if integrated as a core and braided around |
+
+## Growing 
+
+I suppose you can grow materials, such as yarn 
+
+Kombucha Leather
+
+Root/Bio Lace
+
+Algae?
+
+Bioplastic/Gelatin
+
+
+
+| Structure | Ability to be Grown | Ability to be initegrated into Growth Processes or Grown Upon? |
+| :--- | :--- | :--- |
+| Raw Fiber | sure | yes? |
+| Filament | yes | yes? |
+| Roving & Top | no, I don't think you could directly grow rowing  | hummm |
+| Singles | no, I don't think you could directly grow singles, though something similar could be  | yes? |
+| Plied Yarn | no, I don't think you could directly grow plied yarn, but you could make it from   | yes? |
+| Braided Rope | no, I don't think you could directly grow rowing   | yes? |
+| Knits | no, I don't think you could directly grow rowing  | yes?  |
+| Woven | yes, if you scaffold the growth process \(grow in lattice\) | yes? |
+| Non-Wovens | yes! you can grow directly to non-woven  | Yes? |
+| Solid Objects | sure | chia pet |
 
 ## Knitting
 
@@ -128,6 +211,36 @@ One final structure that may be useful, and it at least easier to prototype is a
 
 
 
+| Structure | Ability to be Knitted |
+| :--- | :--- |
+| Raw Fiber | no, needs to be in the form of singles first |
+| Filament | yes |
+| Roving & Top | yes, for a more open and loose structure  |
+| Singles | yes |
+| Plied Yarn | yes |
+| Braided Rope | yes |
+| Knits | yes for tubular knits or narrow flat knits |
+| Woven | yes for narrow, flat, or tubular weaves |
+| Non-Wovens | yes, if sliced or rolled into thin long pieces |
+| Solid Objects | yes, if its something you can thread through  |
+
+## Weaving
+
+
+
+| Structure | Ability to be Woven |
+| :--- | :--- |
+| Raw Fiber | yes, if integrated into short regions of the weft, difficult |
+| Filament | yes \(for warp and weft\) |
+| Roving & Top | yes, if integrated into the weft  |
+| Singles | yes \(only in weft\) |
+| Plied Yarn | yes \(warp and weft\) |
+| Braided Rope | yes \(warp and weft\) |
+| Knits | yes for tubular knits,  narrow flat knits, or knits rolled and/or layed flat as weft |
+| Woven | yes for narrow, flat, or tubular weaves or rolled wovens into the weft  |
+| Non-Wovens | yes, if sliced or rolled into thin long pieces or rolled and placed in the weft |
+| Solid Objects | yes, especially if they are long and narrow, if they can be threaded through the weft, or otherwise integrated at weave time into the  pockets of a multi-layered structure. |
+
 ## Embroidery
 
 Hand embroidery
@@ -136,23 +249,51 @@ Free hand machine embroidery -- if you have a machine where you can lower the fe
 
 Stabilizers 
 
-## Resists
-
-Shibori
-
-[Salt and Vinegar Etching](https://www.kobakant.at/DIY/?p=2575)
-
-[Hydrogren Peroxide Etching](https://www.kobakant.at/DIY/?p=7841)
 
 
+| Structure | Ability to be Emboidered or Embroidered Upon by Hand | By Machine |
+| :--- | :--- | :--- |
+| Raw Fiber | no | no |
+| Filament | yes? \(perhaps through laying? or by hand.  | no? |
+| Roving & Top | no?   | no |
+| Singles | no, not strong enough but with a delicate hand.  | no |
+| Plied Yarn | yes | yes |
+| Braided Rope | yes, if its fine enough and/or large enough to be embroidered upon | if its fine |
+| Knits | yes, but typically needs to be fine knit and stabilized  | yes with stabilization |
+| Woven | yes for narrow, flat, or tubular weaves | yes |
+| Non-Wovens | yes, if sliced or rolled into thin long pieces | yes? |
+| Solid Objects | no, but can be used to attach solid objects | same |
 
-Weaving
 
-Growing
 
-Coating
+## Felting
 
-Dying
+Wet Felting
+
+Needle Felting
+
+Nuno Felting
+
+
+
+## Coating
+
+A method for adding some material or texture onto a material structure. Often by immersing and dying in a bath or spraying.  Painting can be seen as a process of coating, whereby pigments are applied to the surface of the structure. Other processes of coating include mercerization, whereby chemical processes are applied to change the chemical properties of the material in the structure. 
+
+| Structure | Ability to be Coated |
+| :--- | :--- |
+| Fiber | yes |
+| Filament | yes |
+| Roving & Top | yes, but unlikely |
+| Singles | yes |
+| Plied Yarn | yes |
+| Braided Rope | yes |
+| Knits | yes |
+| Woven | yes |
+| Non-Wovens | no |
+| Solid Objects | sure |
+
+## Dying / Resists
 
 [MX](https://www.dharmatrading.com/techniques/tubdye/the-tub-washing-machine-vat-bucket-dye-method.html?lnav=techniques_tubdye.html)
 
@@ -164,45 +305,44 @@ Bacteria
 
 Ikat
 
-**Electroplating**
+Shibori
 
-**Felting**
 
-**Pleating**
+
+| tructure | Ability to be Dyed | Ikat | Shibori |
+| :--- | :--- | :--- | :--- |
+| Fiber | yes | no |  |
+| Filament | yes | yes? |  |
+| Roving & Top | yes, but unlikely |  |  |
+| Singles | yes |  |  |
+| Plied Yarn | yes |  |  |
+| Braided Rope | yes |  |  |
+| Knits | yes |  |  |
+| Woven | yes |  |  |
+| Non-Wovens | no |  |  |
+| Solid Objects | sure |  |  |
+
+## Etching
+
+[Salt and Vinegar Etching](https://www.kobakant.at/DIY/?p=2575)
+
+[Hydrogren Peroxide Etching](https://www.kobakant.at/DIY/?p=7841)
+
+## **Electroplating**
+
+\*\*\*\*
+
+## **Pleating**
 
 **Etching**
 
-**Painting**  
-  
-****Felting 
 
-What is felt/properties of wool fiber that allow it to felt
-
-Wet Felting
-
-Needle Felting
-
-Nuno Felting
-
-## Growing
-
-Kombucha Leather
-
-Root/Bio Lace
-
-Algae?
-
-Bioplastic/Gelatin
 
 ## Electrospinning
 
-## Chainmail
-
 ## 3D Printing
 
-
-
-## Leather
+## Chaining
 
 ## More?
 
