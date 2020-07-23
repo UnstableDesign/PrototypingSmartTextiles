@@ -14,7 +14,7 @@ Wool fiber is harvested from sheep and can be obtained in many different grades 
 
 ![https://commons.wikimedia.org/wiki/File:CSIRO\_ScienceImage\_2490\_Schematic\_for\_Wool\_Fibre.jpg](.gitbook/assets/csiro_scienceimage_2490_schematic_for_wool_fibre.jpg)
 
-I have heard that wool can absorb 30% of its weight in water and still remain dry to the touch. This keeps the body cool and dry, and also allows wool to have natural anti-static properties, meaning it won't cling to your skin and, in terms of electronics, won't build up charge.  In my own experiences with thermochromics on fabrics, its thermal properties mean the heat created from my heating wire do not spread far, isolating color change to very specific regions. In some cases, this allows color change to appear on one side of the fabric, and not the other \(for instance\). The elasticity of wool means that it can hold its shape \(or have "memory"\) better than other fibers, as long as it isn't wet.
+I have heard that wool can absorb 30% of its weight in water and still remain dry to the touch. This keeps the body cool and dry, and also allows wool to have natural anti-static properties, meaning it won't cling to your skin and, in terms of electronics, won't build up charge. The elasticity of wool means that it can hold its shape \(or have "memory"\) better than other fibers, as long as it isn't wet.
 
 | General  |
 | :--- |
@@ -42,6 +42,8 @@ I have heard that wool can absorb 30% of its weight in water and still remain dr
 [https://solitudewool.com/pages/types-of-wool](https://solitudewool.com/pages/types-of-wool)
 
 [http://www.fao.org/natural-fibres-2009/about/15-natural-fibres/en/\#:~:text=Silk%3A%20It's%20filament%20is%20a,highly%20prized%20%22natural%20shimmer%22.](http://www.fao.org/natural-fibres-2009/about/15-natural-fibres/en/#:~:text=Silk%3A%20It's%20filament%20is%20a,highly%20prized%20%22natural%20shimmer%22.)
+
+
 
 ### 
 
@@ -133,6 +135,57 @@ Silk is a protein fiber that is harvested from the cocoons of silk worms. There 
 ### Polyester
 
 ### Stainless Steel
+
+**Sourcing**
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Structure</th>
+      <th style="text-align:left">Possibility to Source in this Structure</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Fiber</td>
+      <td style="text-align:left">Possible</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Roving</td>
+      <td style="text-align:left">Available</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Plied Yarn</td>
+      <td style="text-align:left">Available as</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Braided Rope</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Filament</td>
+      <td style="text-align:left">Unsure</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Knit</td>
+      <td style="text-align:left">Available as &quot;<a href="https://www.knitted-mesh.com/products/knitted-mesh-fabric.html">Knitted Mesh</a>&quot;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Woven</td>
+      <td style="text-align:left">Available as &quot;<a href="https://www.darbywiremesh.com/t-304-stainless-steel-mesh/">Woven Mesh</a>&quot;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Non-Woven</td>
+      <td style="text-align:left">
+        <p>Available as &quot;<a href="http://www.scrubble.com/products/steel-wool/">Steel Wool</a>&quot;</p>
+        <p>and &quot;Non-Woven Abrasive Pads&quot;</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+Conductive Materials, like stainless steel, can be purchased as roving and hand spun:  
+[https://www.mielkesfiberarts.com/product/stainless-steel-conductive-fiber/](https://www.mielkesfiberarts.com/product/stainless-steel-conductive-fiber/)
 
 ### Silver 
 

@@ -1,37 +1,28 @@
 ---
-description: how do you describe a textile structure and communicate it
+description: how do you describe a textile structure and communicate it to someone else
 ---
 
 # Documenting
 
-## Describing Staple **Fiber**
+## **Combing**
 
-## **Measuring Filament**
+## **Plying**
 
-## **Roving**
+Set convention unknown. The materials of each constituent ply and the order in which you plied them. 
 
-The most primary fiber structure is roving or top, produced by combing or carding individual fibers into into a common direction prior to spinning. Typically, this structure is produced prior to [spinning]() it into a "single" strand of yarn. Woolen yarns are typically spun from worsted fibers into more airy warns. Worsted yarns are made from longer fiber lengths that are combed into roving, creating stronger yarns.   
- 
+## **Braiding**
 
-### **Measurements**
+Set convention unknown. The materials of each constituent material and the order in which you braided them. Often represented as a series of crosses and steps such as: [https://prumihimo.com/resources/braiding-patterns/round-braid/](https://prumihimo.com/resources/braiding-patterns/round-braid/)
 
-\*\*\*\*
+## **Knitting**
 
-## **Singles**
-
-### **Measurements**
-
-## **Plied Yarn**
-
-## **Braided Rope** 
-
-## **Knits**
+Knit patterns or machine files   ****
 
 ## Wovens
 
-## Knitting Patterns
+drafts
 
-## Woven Drafts
+## 
 
 
 

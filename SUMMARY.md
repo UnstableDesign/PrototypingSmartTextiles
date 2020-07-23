@@ -1,33 +1,12 @@
 # Table of contents
 
 * [Prototyping Smart Textiles](README.md)
-* [Structures](structures-1.md)
+* [Structures](structures.md)
 * [Processes](processes.md)
 * [Materials](materials.md)
 * [Dynamics](dynamics.md)
 * [Documenting](documenting.md)
 * [Histories](histories.md)
-
-## Structures
-
-* [Harvesting or Synthesizing Fiber](structures/harvesting-or-synthesizing-fiber.md)
-* [Ply and Braid](structures/yarn-ply-and-dye.md)
-* [Knit](structures/knit.md)
-* [Weave](structures/wovens.md)
-* [Non-Wovens](structures/non-wovens.md)
-* [Seaming](structures/seaming-and-surface.md)
-* [Surface](structures/surface.md)
-* [Volume](structures/volume.md)
-* [Scale and Sustainability](structures/scale-and-sustainability.md)
-
-## How To
-
-* [Select Fiber Types](how-to/fiber.md)
-* [Make Hard/Soft Connections](how-to/make-hard-soft-connections.md)
-* [Use a Multimeter](how-to/connections-and-testing.md)
-* [Make your Own Conductive Thread](how-to/application-diy-conductive-thread.md)
-* [Make Resistive Sensors](how-to/make-resistive-senors.md)
-* [Weave Circuits](how-to/weave-a-voltage-dividing-circuit.md)
 
 ## Applications Areas <a id="applications"></a>
 
