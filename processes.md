@@ -32,7 +32,7 @@ Combing and Carding Demonstration and suggestions of associated fibers
 
 ## Spinning 
 
-Spinning is a process of adding twist to fibers such that they form into a more structured and durable yarn. Spinning raw fibers produces singles while it is also possible to spin raw fibers around other structures, such as wires or filaments. 
+Spinning is a process of adding twist to fibers such that they form into a more structured and durable yarn. Spinning raw fibers produces [singles](structures.md#singles) while it is also possible to spin raw fibers around other structures, such as wires or filaments. 
 
 To spin, a spinner drafts, or feeds, a collection of fibers into their spinning devices \(wheel or spindle\). As the spin propagates along the length of the fiber, it is wound onto a spool. The final step in spinning is called  finishing, by which the yarn can be washed, steamed, lassoed, whacked, menaced, and a whole host of other hilarious words, to help the yarn achieve is final state. This is essentially a process of making the yarn resemble the state you want it to stay in and you really don't know much until you've washed and laundered a textile project \(which is always frightening to me\).
 
@@ -166,7 +166,7 @@ Bioplastic/Gelatin
 | Singles | no, I don't think you could directly grow singles, though something similar could be  | yes? |
 | Plied Yarn | no, I don't think you could directly grow plied yarn, but you could make it from   | yes? |
 | Braided Rope | no, I don't think you could directly grow rowing   | yes? |
-| Knits | no, I don't think you could directly grow rowing  | yes?  |
+| Knits | no, I don't think you could directly grow knit  | yes?  |
 | Woven | yes, if you scaffold the growth process \(grow in lattice\) | yes? |
 | Non-Wovens | yes! you can grow directly to non-woven  | Yes? |
 | Solid Objects | sure | chia pet |

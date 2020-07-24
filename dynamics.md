@@ -1,10 +1,47 @@
+---
+description: circuit structures.
+---
+
 # Dynamics
 
-## Resists
+**Connections**
 
-Shibori
+**Insulating**
 
-[Salt and Vinegar Etching](https://www.kobakant.at/DIY/?p=2575)
+**Traces**
 
-[Hydrogren Peroxide Etching](https://www.kobakant.at/DIY/?p=7841)
+**Resistors**
+
+**Capacitors** 
+
+**Transitior**
+
+\*\*\*\*
+
+**Resistive Sensing**
+
+Stretch
+
+Strain
+
+**Capacitive Sensing**
+
+**Pneumatics**
+
+### **Structure/State Change by Stimulus**
+
+**UV**
+
+**Heat**
+
+**Moisture**
+
+**Muscles** 
+
+**Speakers**
+
+ **Electromagnets**
+
+  
+
 
