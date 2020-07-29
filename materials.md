@@ -1,3 +1,10 @@
+---
+description: >-
+  This page documents the properties of materials that are common in smart
+  textiles prototyping projects. Different fibers will hold different values for
+  a given application or project.
+---
+
 # Materials
 
 For the sake of our explanation of fibers and their properties, we will also describe particular qualities that contribute to a materials conductivity, resistance, and thermal conductance. **Conductivity** refers to how easily electricity can move through the fiber. If it conducts electricity relatively easily, it is colloquially called a conductive fiber. If electricity has a difficult time moving through the fiber, it is colloquially called an **insulator**. Similarly, at times you will hear the terms conductive or resistive used to describe conductive fibers. This generally applies only the the fibers that are easily conductive and basically differentiates how conductive they are. A conductive yarn means it is very conductive \(meaning it has low resistance\), or less conductive \(meaning it has more resistance\). 
@@ -41,7 +48,13 @@ I have heard that wool can absorb 30% of its weight in water and still remain dr
 
 [https://solitudewool.com/pages/types-of-wool](https://solitudewool.com/pages/types-of-wool)
 
-[http://www.fao.org/natural-fibres-2009/about/15-natural-fibres/en/\#:~:text=Silk%3A%20It's%20filament%20is%20a,highly%20prized%20%22natural%20shimmer%22.](http://www.fao.org/natural-fibres-2009/about/15-natural-fibres/en/#:~:text=Silk%3A%20It's%20filament%20is%20a,highly%20prized%20%22natural%20shimmer%22.)
+[http://www.fao.org/natural-fibres-2009/about/15-natural-fibres/en/\#:~:text=Silk%3A%20It's%20filament%20is%20a,highly%20prized%20%22natural%20shimmer%22.](http://www.fao.org/natural-fibres-2009/about/15-natural-fibres/en/#:~:text=Silk%3A%20It's%20filament%20is%20a,highly%20prized%20%22natural%20shimmer%22.)  
+
+
+Resistivity of Wool  
+\(2.0 ± 0.1\)x106
+
+[https://www.researchgate.net/publication/228485032\_Effect\_of\_processing\_on\_electrical\_resistivity\_of\_textile\_fibers\#:~:text=The%20resistivity%20of%20natural%20fibers,6%20Ohm%20meters%20%5B24%5D%20.](https://www.researchgate.net/publication/228485032_Effect_of_processing_on_electrical_resistivity_of_textile_fibers#:~:text=The%20resistivity%20of%20natural%20fibers,6%20Ohm%20meters%20%5B24%5D%20.)
 
 
 
@@ -122,7 +135,9 @@ Silk is a protein fiber that is harvested from the cocoons of silk worms. There 
 | Elasticity: Not Great |
 | Conductivity: OK |
 
-### 
+resistivity of cotton yarn  
+\(2.10 ± 0.19\)x106  
+[https://www.researchgate.net/publication/228485032\_Effect\_of\_processing\_on\_electrical\_resistivity\_of\_textile\_fibers\#:~:text=The%20resistivity%20of%20natural%20fibers,6%20Ohm%20meters%20%5B24%5D%20.](https://www.researchgate.net/publication/228485032_Effect_of_processing_on_electrical_resistivity_of_textile_fibers#:~:text=The%20resistivity%20of%20natural%20fibers,6%20Ohm%20meters%20%5B24%5D%20.)
 
 ### Lyocell \(Tencel\)
 
@@ -135,6 +150,8 @@ Silk is a protein fiber that is harvested from the cocoons of silk worms. There 
 ### Polyester
 
 ### Stainless Steel
+
+resistivity: 
 
 **Sourcing**
 
@@ -189,9 +206,37 @@ Conductive Materials, like stainless steel, can be purchased as roving and hand 
 
 ### Silver 
 
-### Gold
+resistivity: 1.59 x 10-8  
+[http://hyperphysics.phy-astr.gsu.edu/hbase/Tables/rstiv.html](http://hyperphysics.phy-astr.gsu.edu/hbase/Tables/rstiv.html)
+
+[https://www.rfcafe.com/references/electrical/resistivity.htm](https://www.rfcafe.com/references/electrical/resistivity.htm)
+
+### Nickle
+
+resistivity: 
 
 ### Copper
+
+resistivity: 1.68 x 10-8  
+\(anneal\): 1.72 x 10-8
+
+## Carbon Nanotube Yarns
+
+[https://www.youtube.com/watch?v=4XDJC64tDR0](https://www.youtube.com/watch?v=4XDJC64tDR0)
+
+[https://www.youtube.com/watch?v=Lt2vGlC4uRc](https://www.youtube.com/watch?v=Lt2vGlC4uRc)
+
+## Recent Synthetic Yarns
+
+[https://boltthreads.com/technology/microsilk/](https://boltthreads.com/technology/microsilk/)
+
+
+
+----- subclass to include common types / classifications---
+
+magnetic materials
+
+piezo electric materials.
 
 
 

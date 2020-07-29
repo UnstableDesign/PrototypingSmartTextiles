@@ -1,7 +1,7 @@
 ---
 description: >-
   This page describes the construction processes that can be used in the
-  production of textile processes.
+  production and modification of textile materials and substrates.
 ---
 
 # Processes
@@ -291,6 +291,10 @@ Jacquard Loom
 | Woven | yes for narrow, flat, or tubular weaves or rolled wovens into the weft  |
 | Non-Wovens | yes, if sliced or rolled into thin long pieces or rolled and placed in the weft |
 | Solid Objects | yes, especially if they are long and narrow, if they can be threaded through the weft, or otherwise integrated at weave time into the  pockets of a multi-layered structure. |
+
+
+
+## Bonding 
 
 ## Embroidery
 
