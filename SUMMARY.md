@@ -11,9 +11,9 @@
 ## Applications Areas <a id="applications"></a>
 
 * [Knit Applications](applications/applications.md)
-* [A String that Knows its Shape](applications/application-a-string-that-knows-its-shape.md)
 
 ## Resources
 
 * [Suppliers of  Prepared Thread, Yarn and Filament](resources/suppliers-of-prepared-thread-yarn-and-filament.md)
+* [Collections of Techniques and Examples](resources/collections-of-techniques-and-examples.md)
 
