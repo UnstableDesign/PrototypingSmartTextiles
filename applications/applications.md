@@ -17,8 +17,6 @@ APOC**
 
 **beam/contrechoc**
 
-**Irene - knitted radio**
-
 **Zaha Hadid Knitted concrete formwork.** 
 
 **Novel CAD for Knitting:   
