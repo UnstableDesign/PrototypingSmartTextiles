@@ -33,9 +33,7 @@ A filament is a fiber of unlimited or very long length. Filaments are typically 
 * **type:** the source of the filament
 * **fiber diameter:** the cross-sectional diameter of the fiber, measured in µm or [AWG](https://en.wikipedia.org/wiki/American_wire_gauge)
 
-{% hint style="info" %}
  filaments are available as monofilaments or multifilaments. Monofilaments refer to a single continuous length of filament where multifilaments consist of several filaments [twisted](processes.md#plying) or [braided](processes.md#braiding) together. 
-{% endhint %}
 
 ## **Roving and Top**
 
