@@ -337,23 +337,67 @@ Industrial knitting machines produce the garments that we purchase in stores tod
 **Machine Knit Structure Inspirations:**
 
 * **Zaha Hadid Architects: Knit Formwork**  [https://www.zaha-hadid.com/design/knitcandela/](https://www.zaha-hadid.com/design/knitcandela/)
-* Pauline VanDongen: Vigour [http://www.paulinevandongen.nl/project/vigour/](http://www.paulinevandongen.nl/project/vigour/)
+* **Pauline VanDongen: Vigour** [http://www.paulinevandongen.nl/project/vigour/](http://www.paulinevandongen.nl/project/vigour/) [https://www.dezeen.com/2015/02/15/vigour-pauline-van-dongen-martijn-ten-bhomer-textiel-cardigan-senses-movement/](https://www.dezeen.com/2015/02/15/vigour-pauline-van-dongen-martijn-ten-bhomer-textiel-cardigan-senses-movement/)
 
 
 
 ## Weaving
 
-The basic structure of weaving, no matter the type of loom, is the interlacing of yarns. You begin by preparing your warp yarns, or the series of tensioned that you will interlace. These are most often stretched parallel to each other but can also be arranged in other radial or triaxial patterns. After these are stretched and of uniform tension, you weave a long thread in and out, or over and under, the warp yarns. The combination of overs and unders and the sequencing will determine the visual and structural nature of your fabric. After adding a row over and under the weft, you can beat or comb it down to form the fabric. 
+The basic structure of weaving, no matter the type of loom, is the interlacing of yarns. You begin by preparing your warp yarns, or the series of tensioned that you will interlace. These are most often stretched parallel to each other but can also be arranged in other radial or triaxial patterns \(more common in basket weaving\). After these are stretched and of uniform tension, you weave a long thread in and out, or over and under, the warp yarns. The combination of overs and unders and the sequencing will determine the visual and structural nature of your fabric. After adding a row over and under the weft, you can beat or comb it down to form the fabric.  The structure that supports weaving is called a **loom** and techniques vary by the class and type of loom. As Annie Albers writes in her wonderful book "On Weaving",  any woven structure can be realized on any type of loom. The different looms, thus, just make particular actions more or less efficient or allow for different lengths of yarn. I've listed looms and techniques below by complexity. This is not an exhaustive list, but ones that are more common. 
 
-As you might expect, hand threading a yarn over and under every row can be tedious, which has given rise to the development of heddles, or, contraptions that lift the yarns for you. When the heddle lefts the yarn all you do is throw you yarn through the opening, or shed, lower the heddle and beat the row you just laid to meet the fabric. 
+### Selecting Yarn and Looms
 
-DIY Tapestry Loom
+When beginning to weave, the materials and equipment are usually considered in tandem. Yarns for warping need to be durable and strong because they are placed under tension during the weaving process. Weft yarns can be just about anything, yet, for most beginning weavers, its good to start with warps and wefts that are of comparable size and materials. 
 
-DIY Backstrap Loom
+The weaving density depends on the number of warp yarns per inch across the width of the loom. This is measured in "ends per inch" or epi. Weaving yarns are often soft with a suggestion of ends per inch which ought to match to your equipment. Some looms, like tapestry, rigid heddle looms, or jacquard looms, have fixed positions for you to stretch the warp into or heddles fixed at predetermined position and thus, you must find yarns to match your set up. Alternatively, you can always use less than the maximum density, so long as it still maintains the correct ratios and seetings of your equipment. Other looms, like frame looms allow you to vary the density \(though you typically need to find a "reed" for beating that matches your desired density\). Most of the woven clothing you wear will be of a density that far exceeds what is possible on consumer grade equipment \(e.g. 100 epi\). Most craft weaving will consist of something around \(6-20 epi\).  
 
-Tapestry Loom
+### Weaving on a Tapestry Loom
 
-Rigid Heddle Loom
+[Tapestry looms](https://www.schachtspindle.com/product/tapestry-loom/) are typically frames that allow for yarns to be stretched across their length, and in a fixed length. A weaver can freely weave in and out of the yarns creating more freeform structures and pushing down yarns with a comb. Tapestry looms \(and the resulting tapestries\) can range in size. This video shows an example of [tapestry weaving on a large loom](https://vimeo.com/120200005). Tapestry weaving tends to be the most free-hand weaving processes, and tapestry weavers often freely integrate different materials, colors, etc in non-rectangular shapes. These tapestries often exist as artful wall hangings and rugs. Sheila Hick's collection of tapestries in the book [Weaving as Metaphor](https://yalebooks.yale.edu/book/9780300237221/sheila-hicks) show a large extend of the possibilities of working in this way. Tapestry looms can also be made from ad-hoc materials such as sticks or even eyelashes. 
+
+### Heddle-Based Looms
+
+As you might expect, hand threading a yarn over and under every row can be tedious, which has given rise to the development of horizontal looms with **heddles**, or, contraptions that lift the warps for you.  The heddles lift the yarn, and the weaver throws the yarn through the opening, or **shed**, lowers the heddles and beats the row they just laid to meet the fabric. The particular selection of heddles on any given row are called the **pic**. If you are looking to learn, [Peggy Osterkamp is the go to source for learning](https://woolery.com/weaving-for-beginners-an-illustrated-guide.html?nosto=categorypage-nosto-1). 
+
+**Common Woven Structures**
+
+![](.gitbook/assets/simple_weaving_diagram.jpg)
+
+All woven structures are created from the selection of "unders" and "overs" on any given pic. These patterns are represented by [drafts](documenting.md#wovens) that represent the minimal repeating unit that characterizes the fabric structure. If the weft travels UNDER the warp \(same as: a heddle lifting that warp \), the draft square is colored solid or black. If the weft travels OVER the warp \(same as: the heddle not being lifted at that warp\), the draft square is colored in white or transparent. Namely, if you repeat these drafts across the weft \(width\) and warp \(length\) of your fabric, you would create a fabric made entirely of that stitch. Stitches can also be alternated or shifted arbitrarily across the length or width, depending on the loom you are using. 
+
+![](.gitbook/assets/loomstructure_updated.jpg)
+
+The ordering of these selections has infinite possibilities, but the three most basic structures are: 
+
+**Tabby or Plain Weave**: This is the weave you likely learned in school and made with paper. This is shown in the diagram above. This is where the weft alternates over and under each warp. Each row alternates the order \(so if you stared with an over than under, the next row is under and then over\). Tabby weaves create the most spacing between all the warps and thus the widest and thinest possible structure with any given weft yarn. Tabby weave structures are not stretchy in either direction. Weaving yarns will typically give you a suggested "set" which is how many warps of that yarn would fit in an inch of the resulting fabric. 
+
+**Twill:** Twills are commonly seen in denim. This pattern \(shown in the diagram above\), consists of some repeat of overs and unders  that uniformly shift position along the length, often creating visual diagonal. Twills can be balanced \(meaning that they contain the same number of overs and unders each pic\) or unbalanced \(where the number is uneven\). Unbalanced twills are called weft or warp facing depending on whether the weft travels over more or less warps respectively. The balanced or unbalanced ratio twills will allow them to pack less or more \(respectively\). When wefts are tightly packed, the fabric becomes thicker and more durable \(which is why it is used on denim\). Furthermore, twills create more textured surface structures and can vary in their amount of sheer. Unbalanced twills will also sometimes produce fabrics that curl when removed from tension. When working with different colors in the warp and the weft, the balanced or unbalanced ratio of the twill will produce different levels of shading in the resulting fabric because they modulate the ratio of warp and weft yarns that are visible on the surface. This shading will be inverted or flipped on the bottom side of the fabric. 
+
+**Satin:** Satin stitches are similar to twills in that they can be  unbalanced at each pic, but stain weaves do not uniformly shift to create diagonal lines. Instead, the structures shifts at each row such that the interlacements \(places where a series of unders go under or vice versa\) are never directly next to each other. This creates long "floats" of weft yarns that pack along the surface to create softer fabrics. Satins also exhibit the same shading effects as twill, given their ratios of unbalance and can be weft-faced or warp-faced. The use of satins is typically how regions of contrasting colors are integrated into the structure of fabrics. 
+
+**Many More**: There are so many others, particularly waffle, basket, and birds eye stitches that have really [nice properties particularly when integrating sensing](http://kobakant.at/DIY/?p=6005). 
+
+\*\*\*\*
+
+\*\*\*\*
+
+
+
+#### Rigid Heddle Looms
+
+Rigid heddle looms often have one frame, making it easy to quickly weaving tabby and inviting the weaver to play with other hand techniques integrated with the tabby. 
+
+
+
+![](.gitbook/assets/loomstructure.jpg)
+
+As you might expect, hand threading a yarn over and under every row can be tedious, which has given rise to the development of horizontal looms with **heddles**, or, contraptions that lift the yarns for you. When the heddle lefts the yarn all you do is throw you yarn through the opening, or **shed**, lower the heddle and beat the row you just laid to meet the fabric. 
+
+Patterns are "programed" by the threading of the heddles, making it really fast to weave repeating patterns. Rigid heddle looms often have one frame, making it easy to quickly weaving _tabby_ 
+
+
+
+
 
 Frame Loom 
 
