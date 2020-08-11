@@ -8,10 +8,6 @@
 * [Documenting](documenting.md)
 * [Histories](histories.md)
 
-## Applications Areas <a id="applications"></a>
-
-* [Knit Applications](applications/applications.md)
-
 ## Resources
 
 * [Suppliers of  Prepared Thread, Yarn and Filament](resources/suppliers-of-prepared-thread-yarn-and-filament.md)
