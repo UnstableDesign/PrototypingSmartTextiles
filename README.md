@@ -4,10 +4,6 @@ description: 'A Handbook of Terms and Techniques, and Prototyping Strategies.'
 
 # Prototyping Smart Textiles
 
-//// THIS IS AN IN PROGRESS OPEN SOURCE TEXTBOOK -- CONTENT IS CHANGING EVERYDAY /////
-
-//testing - 123// 
-
 ## Introduction
 
 Textiles are so ubiquitous within our built environment that we hardly seem to notice them. Yet, when we look more closely at our clothes, car seats, napkins, couch covers, blankets, rugs, curtains, and on and on, we see the outcome of almost 20,000 years of technological innovation. Look even more closely and you'll see textiles informing the infrastructure of modern computing, from the roped "fiber" that brings us the internet to the programmatic "threads" running processes on our computer. The term smart textiles has emerged over the past decade \(or so\) to describe textiles with electronics like sensors and actuators built directly into the textile structure at the level of individuals yarns. Yet, we can argue that smart textiles have existed much longer, perhaps even longer than recorded history as the very structures and fibers of textiles have always been designed to adapt the body to one's environment. Furthermore, metallic yarns have long been used to bring ornamental value to garments and the very components upon which our modern technical infrastructures have emerged are directly born from innovations in textiles. So, we want to begin by acknowledging that smart textiles are not new because we believe that histories are useful for inspiring, contextualizing, bringing meaning, and honoring those who have come before. With this in mind, this book aims to serve a resource that holds craft and technology, and history and the future, on equal footing. Craft and engineering are both processes of developing deep connections with materials. And to envision or make the future, so much can be gleaned from looking and adapting from previous examples. 
