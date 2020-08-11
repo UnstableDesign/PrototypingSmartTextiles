@@ -8,23 +8,62 @@ description: >-
 
 ## **Circuit Basics**
 
-The most critical points to understand for our introduction, or when beginning, is a deep understanding of resistance and how it varies \(by shape, temperature, material and cross-sectional area\). This helps us understand how we can use resistance as a way to measure changes to our soft structures and whether or not those changes mean what we think they mean. It will also help in determining your material choice of any conductive materials. I found Khan Academy to be an excellent resource for me to brush up on my understanding. Its also worth noting that most circuits we will be describing operate on direct current \(or DC\).       
+The most critical points to understand for our introduction, or when beginning, is a deep understanding of resistance and how it varies \(by shape, temperature, material and cross-sectional area\). This helps us understand how we can use resistance as a way to measure changes to our soft structures and whether or not those changes mean what we think they mean. It will also help in determining your material choice of any conductive materials. I found Khan Academy to be an excellent resource for me to brush up on my understanding of circuitry and resistance in general. Its also worth noting that most circuits we will be describing operate on direct current \(or DC\).       
 [https://www.khanacademy.org/science/ap-physics-1/ap-circuits-topic/current-ap/v/circuits-part-1](https://www.khanacademy.org/science/ap-physics-1/ap-circuits-topic/current-ap/v/circuits-part-1)
 
 ## **Traces** 
 
-woven ribbon cables  
-sewn traces
+A trace is a conductive material that carries electricity \(e.g. current\) from one location in your circuit to another. In traditional electronics, your traces are usually insulated wires with uninsulated tips that you plug into a breadboard or solder to a controller. In soft electronics traces can be created from a single thread traveling through a material, a conductive fabric or paint fused to the surface of a fabric or a single thread of material integrated into a knit or woven fabric. They are attached through more inventive [connection](dynamics.md#connections) methods. Most "smart" features of garments are created by remaking existing sensors and actuators using traces alone - as traces configured in particular patterns \(spirals, etc\) can produce emergent properties such as magnetism, etc. Traces typically are produced from highly conductive materials like copper and can be integrated with any number of processes from bonding, plating, etching, fusing, knitting, weaving, etc.   
+  
+Sewing Traces Tutorial:   
+[https://www.instructables.com/lesson/Sew-a-Circuit/](https://www.instructables.com/lesson/Sew-a-Circuit/)
+
+Woven Electronic Ribbon integrated into performance garments:  
+[http://www.scisci.org/textilen/](http://www.scisci.org/textilen/)  
+  
+Cut and fused copper fabric example:   
+[http://afroditipsarra.com/index.php?/older-projects/cosmic-bitcasting/](http://afroditipsarra.com/index.php?/older-projects/cosmic-bitcasting/)
+
+Knitting traces to make a finger sensor \(see tutorial slides at end of page\):   
+[https://blog.jesseseay.com/](https://blog.jesseseay.com/)
+
+Embroidered traces  
+[http://www.ireneposch.net/the-embroidered-computer/](http://www.ireneposch.net/the-embroidered-computer/)
 
 ## **Connections**
 
-What is the smart textile equivalent of a wire or bus. The answer is thread and typically a low resistance thread such as copper. 
+Once you have made your traces, you must then find ways to connect different "components" together. Good connections should be tight, robust and tidy, making sure that they don't break or short your circuit unexpectedly.
 
-sewn connections  
-snap connections  
-bonded connections    
-minigrabbers and clips  
-Irene's connections 
+There are two primary modes of connecting: soft-to-soft, where both things being connected are flexible and stretchable, or soft-to-hard where you are connecting a soft material to a rigid material \(e.g. a thread to an Arduino\). Soft to hard connections are typically more prone to error than soft to soft. 
+
+There are already really great online resources that show a variety of techniques such as Kobakant's [overview of connection techniques](https://www.kobakant.at/DIY/?p=1272) and detailed descriptions of many methods in their "[Connections" category.](https://www.kobakant.at/DIY/?p=7077) There are [also many techniques in this summary produced by e-textiles summer camp 2017](http://etextile-summercamp.org/2017/summercamp/hardsoft-connections/). 
+
+### Knots
+
+The first method can be simply knotting materials together. In soft-to-soft, this can be as simple as typing a weavers knot, ensuring it will remain tight, and then trimming long ends to ensure against shorting. In soft to hard connections, one typically can knot around the through-hole of a hard component. In this case, it can be wise to coil the material through the hole a few times to ensure good contact between the metal fibers in your soft material and the metal connections on the component you are connecting to. Frequent method of using knots include knotting conductive material around a metal snap and on the other side of the metal snap, soldering on a wire. 
+
+### Structural Integration
+
+When you have conductive materials integrated into your textile structure, one simple possibility is to simply integrate traditional wires into the structure so that the structure, itself, holds the materials in close contact. This is what I did in this project, [essentially twisting soft and more sturdy wires together at weaving time](http://artfordorks.com/2020/04/a-fabric-that-remembers/). In a different project, we soldered silicone coated wires directly to an arduino pro mini and then integrated the arduino into a [pocket within the woven structure, then wound the edges of the wire and yarn together within the fabric itself](http://unstable.design/some-teaser-images-from-our-experimental-weaving-residency/). You can see the FTDI connector pocking out of the fabric below, with the black wires routing through the structure. 
+
+![](.gitbook/assets/img_6837-1024x768.jpg)
+
+### Soldering
+
+Some soft materials can be directly soldered to or soldered upon, allowing for more complex geometries and tightly packed connections. In non-wearable applications, I have had luck twisting a conductive yarn around a looped stranded or solid core wire, and soldering the wire to itself \(catching the thread in between\). 
+
+Soldering to headers from a fabric using a pocket structure:   
+[https://www.instructables.com/id/Simple-E-textile-Connector/](https://www.instructables.com/id/Simple-E-textile-Connector/)
+
+### Temporary Connection Methods
+
+There are also alternatives to using something like alligator clips when testing your circuit by using materials, like pins and clips, that have been designed to hold to textile structures.   
+  
+Irene Posch's Collection of Handmade Connectors for Soft Electronics:   
+[http://www.ireneposch.net/tooling/](http://www.ireneposch.net/tooling/)
+
+Adapted Seem Ripper:  
+[https://www.plusea.at/?p=2220](https://www.plusea.at/?p=2220) 
 
 ## **Insulating**
 

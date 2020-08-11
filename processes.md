@@ -260,17 +260,46 @@ Printing, Cutting, Attaching: Iris Van Herpin
 3D printed fabrics: Nervous Systems Kinematics Dress  
 [https://vimeo.com/113561369](https://vimeo.com/113561369)
 
+Malu Luecking Bio Plastic Non-Wovens  
+[https://maluluecking.pb.design/bioplastic](https://maluluecking.pb.design/bioplastic)
+
 ## Knitting
 
-Knitted structures are produced through combinations of two primary stitches. Those stitches, used in particular combinations and will particular equipment, give rise to all knitted fabrics and can be used to make flat surfaces or shapes of an arbitrary volume.  These structured are most often achieved through the use of needles or hooks manipulated by hand or machine, as each stitch is essentially a method of pulling one loop through another loop. 
+Knitted structures are produced through combinations of two primary stitches. Those stitches, used in particular combinations and will particular equipment, give rise to all knitted fabrics and can be used to make flat surfaces or shapes of an arbitrary volume.  These structured are most often achieved through the use of needles or hooks manipulated by hand or machine, as each stitch is essentially a method of pulling one loop through another loop. Knits and an inherently stretchy structure that can easily unravel.
+
+### **Selecting Yarn and Needle Size**
+
+The relationship between the gauge of your yarn \(e.g. how thick it is\) and the size of your knitting needle determines the drape or hand of your knitted textile. Most skeins of yarn will recommend a knitting needle size, but there are ways to play around with knits to create textiles that have multiple properties. For instance, you can use multiple needles when knitting, and change the tension of the knit as you are working. One could use a chunky yarn with a small needle to create a dense knitted textile. Or a lace weight yarn with large needles to create a very loose, soft textile. One fabric can change from densely knitted to and large open knit just by changing needle size. 
 
 ### Casting On
 
 The first step in knitting casting on, which means creating the first row structure that you will build your stitches upon. We will show these techniques as they are associated with each link below. 
 
-### Primary Stitches
+### Knitting: Primary Stitches & Patterns
 
 ![From: Wadekar, Paras &amp; Goel, Prateek &amp; Amanatides, Chelsea &amp; Dion, Genevieve &amp; Kamien, Randall &amp; Breen, David. \(2020\). Geometric modeling of knitted fabrics using helicoid scaffolds. Journal of Engineered Fibers and Fabrics. 15. 155892502091387. 10.1177/1558925020913871. - Creative Commons Attribution 4.0 International](.gitbook/assets/a-knit-stitches-b-purl-stitches-c-rib-fabric-and-d-garter-fabric.png)
+
+Knitted structures are created through combinations and patterning of two knitted stitches: **knit** and **purl**. A stitch that appears on one side of the fabric as a "knit" will be read as a "purl" from the back of the fabric. When looking at the front face of a fabric, the knit stitches are those that have their "arms" or sides of the loop on the surface \(and their "necks" on the backside\). Purls are those with their arms on the back side of the fabric and their necks on the front \(as shown in b\). 
+
+**Rib Stitch**: If we are to read \(c\) from the bottom row, left you right, we would read "knit, purl, knit, purl" and the same for the subsequent rows. This combination is a ****"rib" stitch and its commonly found at the end of your sleeves on sweaters or collars. Rib stitches are good for stretching and compressing along its width.
+
+**Garter Stitch**: In \(d\) we would read the bottom row as all knits, the next row as all knits, and on and on. This is called a **garter stitch** and its created by stitching all knit or all purl. 
+
+**Stockinette Stitch**: Another common structure is a **stockinette**, which is creating by alternating knit and purl along each row.  So, one entire row is knit purl across its length, the next knit, the next purl etc. 
+
+#### Additional Stitches
+
+A useful collection of beginner-level knitting structures  
+[https://www.studioknitsf.com/stitch-patterns-beginner/](https://www.studioknitsf.com/stitch-patterns-beginner/)
+
+Stitchionaries: Compendia of many types of stitches and techniques:   
+[https://store.vogueknitting.com/p-126-vogue-knitting-stitchionary-vol-1-knit-purl.aspx](https://store.vogueknitting.com/p-126-vogue-knitting-stitchionary-vol-1-knit-purl.aspx)
+
+### Bind Off
+
+The last step in knitting is the bind off, which secures the structure from unraveling. 
+
+
 
 | Structure | Ability to be Knitted |
 | :--- | :--- |
@@ -285,57 +314,99 @@ The first step in knitting casting on, which means creating the first row struct
 | Non-Wovens | yes, if sliced or rolled into thin long pieces |
 | Solid Objects | yes, if its something you can thread through  |
 
-### 
+### Hand Knitting
 
-### Common Structures and their Properties
+Hand knitting takes place with knitting needles, manipulated by the hands. This technique allows for playful discovery of stitches and structures and, depending on the kind of needle, can be used to knit surfaces, tubes, or volumes.  The material, gauge, stitch, and needle size all shift the texture of the knit itself, giving way to more stretchy, bully, light, or rigid textures. Textures in handknitting can change at any point in the process across the surface by changing the stitch. This is how you can create one garment with different properties in different regions.  
 
-**Garter Stitch**: When all stitches are either knit or purl
+#### Inspiration: 
 
-**Stockinette**: When rows alternate between knit and purl
+* Knit Steganography \(hiding messages in knitted structures: [https://www.atlasobscura.com/articles/knitting-spies-wwi-wwii](https://www.atlasobscura.com/articles/knitting-spies-wwi-wwii)
+* SkyKnit: A machine learning project for training based on knitting patterns [https://experiments.withgoogle.com/skyknit\#:~:text=SkyKnit%20is%20a%20fun%20project,creative%20ways%20into%20physical%20creations.](https://experiments.withgoogle.com/skyknit#:~:text=SkyKnit%20is%20a%20fun%20project,creative%20ways%20into%20physical%20creations.)
+* TU Berlin: Teaching Robots to Hand Knit:  [https://blogs.tu-berlin.de/zifg\_stricken-mit-robotern/](https://blogs.tu-berlin.de/zifg_stricken-mit-robotern/)
 
-**Others?**
+### **Machine Knitting**
 
-### **Useful techniques for integrating non-standard materials?**
+There are two main types of knitting machines that can used for tabletop knitting. These machines are made possible through "[latchhook needles](https://www.youtube.com/watch?v=ccepDc_4gV4)."  A [flat bed machine](https://www.xdknitmachinery.com/knitting-machine-for-beginners/),  comes in two 'gauges', standard and chunky. The gauge of the machine refers to the spacing between the needles in the bed of the machine, which allows for different size yarns to run through the machine. These machines can be programmed electronically, or via punchcard. Punchcard machines are possible to find at second hand shops or in giveaway piles but need tender love and care to work properly. The second type of knitting machine is a '[V-bed](https://textiles.ncsu.edu/tatm/wp-content/uploads/sites/4/2017/11/Choi_full_145_05.pdf)' machine. V-bed knitting machines allow for more complex stitch structures and for double knits, and seamless knitting. These are more difficult to happen upon but are most common in industrial knitting. The two beds, arranged in a V, are able to pass yarns back and forth across the layers. Another common kind of machine for knitting is a [circular knitting machine](https://www.youtube.com/watch?v=ccepDc_4gV4), where needles are arranged along the edge of a circle to create a continuous tubular knit for objects like hats and socks. Circular knitting machines are readily available in varying levels of quality. 
 
-**Which materials?** Pick the ones that bend well and like to bend a lot. 
+#### DIY Machines & Inspirations: 
 
-**Hand Knitting** 
+* Kniterate: DIY V-Bed Machine [https://www.kniterate.com/](https://www.kniterate.com/)
+* Merel Karhof Wind Powered Circular Knitting Machine:  [https://www.merelkarhof.nl/work/wind-knitting-factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
+* Damien Ludi & Colin Peillex Rocking Chair Powered Knitting Machine: [https://www.youtube.com/watch?v=H6m92HRZm2Y](https://www.youtube.com/watch?v=H6m92HRZm2Y) 
 
-### **Selecting Yarn and Needle Size**
+**Industrial Knitting:**   
+Industrial knitting machines produce the garments that we purchase in stores today. They are programmed via computer and can knit incredibly complex structures, and seamless garments. One machine can do many things and accommodate different yarns, rather than having different machines for different structures and yarns. There are also industrial circular knitting machines that can knit tubes of fabric, spacer textiles, and multilayer knit fabrics. Most industrial knitting machines are produced two one of two brands: [Shima Seiki](https://www.shimaseiki.com/) or [Stoll](https://www.stoll.com/en/). These machines are becoming more popular within university research labs and maker spaces. 
 
+**Machine Knit Structure Inspirations:**
 
-
-The relationship between the gauge of your yarn and the size of your knitting needle determines the drape or hand of your knitted textile. Most skeins of yarn will recommend a knitting needle size, but there are ways to play around with knits to create textiles that have multiple properties. For instance, you can use multiple needles when knitting, and change the tension of the knit as you are working. One could use a chunky yarn with a small needle to create a dense knitted textile. Or a lace weight yarn with large needles to create a very loose, soft textile. One fabric can change from densely knitted to and large open knit just by changing needle size. 
-
-### 
-
-**Machine Knitting:**  There are two main types of knitting machines that can used for tabletop knitting. The most common is a flat bed machine, which comes in two 'gauges', standard and chunky. The gauge of the machine refers to the spacing between the needles in the bed of the machine, which allows for different size yarns to run through the machine. These machines can be programmed electronically, or via punchcard. The second type of knitting machine is a 'V-bed' machine. V-bed knitting machines allow for more complex stitch structures and for double knits, and seamless knitting. 
-
-I**ndustrial Knitting:** Industrial knitting machines produce the garments that we purchase in stores today. They are programmed via computer. These knitting machines can knit incredibly complex structures, and seamless garments. One machine can do many things and accommodate different yarns, rather than having different machines for different structures and yarns. There are also industrial circular knitting machines that can knit tubes of fabric, spacer textiles, and multilayer knit fabrics. 
-
-One final structure that may be useful, and it at least easier to prototype is a knitted i-cord. This structure is hollow with a knitted sheath. Unlike the other two structures, this sheath is quite stretchy. The downside is that the yarn will be a bit fat \(by yarn standards\). The structure can be created by [hand techniques](https://www.youtube.com/watch?v=dfkFRa9tjns) or with wonderful little contraptions like and [embellish-knit ](https://www.studioknitsf.com/embellish-knit-cords-power-tools/)hand cranked i-cord maker. Traditionally used to make little pulls, like the ones on a hoodie, they can also be useful in creating yarn-like structures. When working by hand, you have much more flexibility with the materials and sizing of the cord. With some finessing, you can feed the machine \(or a hand knitter\) both conductive and non-conductive materials at the same time to create a conductive cord structure. This structure has been really useful for acting as a pull or strain sensor, or, when tied around my ribcage, makes a pretty robust breath sensor. The measuring works through resistive sensing. The knitting structure basically maximizes the length of the conductive thread. So when the cord is strained, it strains all fibers of the conductive yarns, tightening their structure and lowering the overall resistance .  
+* **Zaha Hadid Architects: Knit Formwork**  [https://www.zaha-hadid.com/design/knitcandela/](https://www.zaha-hadid.com/design/knitcandela/)
+* **Pauline VanDongen: Vigour** [http://www.paulinevandongen.nl/project/vigour/](http://www.paulinevandongen.nl/project/vigour/) [https://www.dezeen.com/2015/02/15/vigour-pauline-van-dongen-martijn-ten-bhomer-textiel-cardigan-senses-movement/](https://www.dezeen.com/2015/02/15/vigour-pauline-van-dongen-martijn-ten-bhomer-textiel-cardigan-senses-movement/)
 
 
 
 ## Weaving
 
-The basic structure of weaving, no matter the type of loom, is the interlacing of yarns. You begin by preparing your warp yarns, or the series of tensioned that you will interlace. These are most often stretched parallel to each other but can also be arranged in other radial or triaxial patterns. After these are stretched and of uniform tension, you weave a long thread in and out, or over and under, the warp yarns. The combination of overs and unders and the sequencing will determine the visual and structural nature of your fabric. After adding a row over and under the weft, you can beat or comb it down to form the fabric. 
+The basic structure of weaving, no matter the type of loom, is the interlacing of yarns. You begin by preparing your warp yarns, or the series of tensioned that you will interlace. These are most often stretched parallel to each other but can also be arranged in other radial or triaxial patterns \(more common in basket weaving\). After these are stretched and of uniform tension, you weave a long thread in and out, or over and under, the warp yarns. The combination of overs and unders and the sequencing will determine the visual and structural nature of your fabric. After adding a row over and under the weft, you can beat or comb it down to form the fabric.  The structure that supports weaving is called a **loom** and techniques vary by the class and type of loom. As Annie Albers writes in her wonderful book "On Weaving",  any woven structure can be realized on any type of loom. The different looms, thus, just make particular actions more or less efficient or allow for different lengths of yarn. I've listed looms and techniques below by complexity. This is not an exhaustive list, but ones that are more common. 
 
-As you might expect, hand threading a yarn over and under every row can be tedious, which has given rise to the development of heddles, or, contraptions that lift the yarns for you. When the heddle lefts the yarn all you do is throw you yarn through the opening, or shed, lower the heddle and beat the row you just laid to meet the fabric. 
+### Selecting Yarn and Looms
 
-DIY Tapestry Loom
+When beginning to weave, the materials and equipment are usually considered in tandem. Yarns for warping need to be durable and strong because they are placed under tension during the weaving process. Weft yarns can be just about anything, yet, for most beginning weavers, its good to start with warps and wefts that are of comparable size and materials. 
 
-DIY Backstrap Loom
+The weaving density depends on the number of warp yarns per inch across the width of the loom. This is measured in "ends per inch" or epi. Weaving yarns are often soft with a suggestion of ends per inch which ought to match to your equipment. Some looms, like tapestry, rigid heddle looms, or jacquard looms, have fixed positions for you to stretch the warp into or heddles fixed at predetermined position and thus, you must find yarns to match your set up. Alternatively, you can always use less than the maximum density, so long as it still maintains the correct ratios and settings of your equipment. Other looms, like frame looms allow you to vary the density \(though you typically need to find a "reed" for beating that matches your desired density\). Most of the woven clothing you wear will be of a density that far exceeds what is possible on consumer grade equipment \(e.g. 100 epi\). Most craft weaving will consist of something around \(6-20 epi\).  
 
-Tapestry Loom
+### Warping 
 
-Rigid Heddle Loom
+Warping is the process of threading your loom and ensuring warp yarns are of even tension. The procedures for warping depend on the specific type of loom. 
 
-Frame Loom 
+### Weaving: Primary Stitches and Patterns
 
-Dobby Loom 
+The diagram below shows the general process of weaving, particularly on a heddle based loom. An understanding of this process aids in explaining the differences in stitches and patterns. 
 
-Jacquard Loom
+![](.gitbook/assets/simple_weaving_diagram.jpg)
+
+All woven structures are created from the selection of "unders" and "overs" on any given pic. These patterns are represented by [drafts](documenting.md#wovens) that represent the minimal repeating unit that characterizes the fabric structure. If the weft travels UNDER the warp \(same as: a heddle lifting that warp \), the draft square is colored solid or black. If the weft travels OVER the warp \(same as: the heddle not being lifted at that warp\), the draft square is colored in white or transparent. Namely, if you repeat these drafts across the weft \(width\) and warp \(length\) of your fabric, you would create a fabric made entirely of that stitch. Stitches can also be alternated or shifted arbitrarily across the length or width, depending on the loom you are using. 
+
+![](.gitbook/assets/loomstructure_updated.jpg)
+
+The ordering of these selections has infinite possibilities, but the three most basic structures are: 
+
+**Tabby or Plain Weave**: This is the weave you likely learned in school and made with paper. This is shown in the diagram above. This is where the weft alternates over and under each warp. Each row alternates the order \(so if you stared with an over than under, the next row is under and then over\). Tabby weaves create the most spacing between all the warps and thus the widest and thinest possible structure with any given weft yarn. Tabby weave structures are not stretchy in either direction. Weaving yarns will typically give you a suggested "set" which is how many warps of that yarn would fit in an inch of the resulting fabric. 
+
+**Twill:** Twills are commonly seen in denim. This pattern \(shown in the diagram above\), consists of some repeat of overs and unders  that uniformly shift position along the length, often creating visual diagonal. Twills can be balanced \(meaning that they contain the same number of overs and unders each pic\) or unbalanced \(where the number is uneven\). Unbalanced twills are called weft or warp facing depending on whether the weft travels over more or less warps respectively. The balanced or unbalanced ratio twills will allow them to pack less or more \(respectively\). When wefts are tightly packed, the fabric becomes thicker and more durable \(which is why it is used on denim\). Furthermore, twills create more textured surface structures and can vary in their amount of sheer. Unbalanced twills will also sometimes produce fabrics that curl when removed from tension. When working with different colors in the warp and the weft, the balanced or unbalanced ratio of the twill will produce different levels of shading in the resulting fabric because they modulate the ratio of warp and weft yarns that are visible on the surface. This shading will be inverted or flipped on the bottom side of the fabric. 
+
+**Satin:** Satin stitches are similar to twills in that they can be  unbalanced at each pic, but stain weaves do not uniformly shift to create diagonal lines. Instead, the structures shifts at each row such that the interlacements \(places where a series of unders go under or vice versa\) are never directly next to each other. This creates long "floats" of weft yarns that pack along the surface to create softer fabrics. Satins also exhibit the same shading effects as twill, given their ratios of unbalance and can be weft-faced or warp-faced. The use of satins is typically how regions of contrasting colors are integrated into the structure of fabrics. 
+
+**Many More**: There are so many others, particularly waffle, basket, and birds eye stitches that have really [nice properties particularly when integrating sensing](http://kobakant.at/DIY/?p=6005). 
+
+### Finishing 
+
+Finishing is the process of removing the woven fabric from the loom and fastening the ends so it does not easily unravel. The easiest finishing method \(in my opinion\) is quickly running the ends of the fabric through a sewing machine. Typically, long ends of the warp are exposed on the front and back ends of the fabric, and can be left as fringe,  twisted into tassels, or cut off entirely. 
+
+### Weaving on a Tapestry Loom
+
+[Tapestry looms](https://www.schachtspindle.com/product/tapestry-loom/) are typically frames that allow for yarns to be stretched across their length, and in a fixed length. A weaver can freely weave in and out of the yarns creating more freeform structures and pushing down yarns with a comb. Tapestry looms \(and the resulting tapestries\) can range in size. This video shows an example of [tapestry weaving on a large loom](https://vimeo.com/120200005). Tapestry weaving tends to be the most free-hand weaving processes, and tapestry weavers often freely integrate different materials, colors, etc in non-rectangular shapes. These tapestries often exist as artful wall hangings and rugs. Sheila Hick's collection of tapestries in the book [Weaving as Metaphor](https://yalebooks.yale.edu/book/9780300237221/sheila-hicks) show a large extend of the possibilities of working in this way. Tapestry looms can also be made from ad-hoc materials such as sticks or even eyelashes. 
+
+### Weaving on Heddle-Based Looms
+
+As you might expect, hand threading a yarn over and under every row can be tedious, which has given rise to the development of horizontal looms with **heddles**, or, contraptions that lift the warps for you.  The heddles lift the yarn, and the weaver throws the yarn through the opening, or **shed**, lowers the heddles and beats the row they just laid to meet the fabric. The particular selection of heddles on any given row are called the **pic**. If you are looking to learn, [Peggy Osterkamp is the go to source for learning](https://woolery.com/weaving-for-beginners-an-illustrated-guide.html?nosto=categorypage-nosto-1). Many heddle based looms consist of the use of frames \(which contain sets of heddles\) and treadles which easily allow different frames to be lifted in combination with one another. 
+
+![](.gitbook/assets/loomstructure.jpg)
+
+#### Weaving on a Rigid Heddle Looms
+
+Rigid heddle looms often have one frame, making it easy to quickly weaving tabby and inviting the weaver to play with other hand techniques integrated with the tabby. 
+
+**Frame/Shaft Looms**
+
+Frame or Shaft looms are made to fit on table tops or floors and can have 2 to as many as 24 frames, depending on the loom. Frame looms also come in a variety of widths. When warping, the weaver threads each frame with a particular sequence of warps \(most simply, a "straight draw" which takes every 1st warp and puts it on frame one, every 2nd on frame two, every 3rd on frame three \(and so on\). To create a pattern, then, one "lifts" the frames that give them their desired pic. The lifting is done by hand or by the use of treadles, foot pedals that attach to different sets of frames allowing you to select them. Frame looms make it easier and faster to produce repeating patterns. Some frame looms are computer controlled, allowing motors to lift the frame rather than pedals. These are often called dobby looms. The loom shown in the image above is a 8-shaft Floor Loom. Further specifications \(e.g. jack loom, countermarch\) describe the mechanisms that raise and lower the heddles \(and often make it physically easier to do so, especially with large numbers of shafts and or wide widths\). 
+
+#### Jacquard Looms
+
+A jacquard-style loom is one where every heddle can be individually controlled. Originally, they were selected by punch cards \(which inspired the earliest forms of computing\) and today, they are computer controlled with small motors, electromagnets, and or pneumatics. Jacquard style looms fix the position of each heddle, so they typically have a set density they will weave. Jacquard style looms are best for creating non-repeating patterns and more complex woven structures. Most consumer obtainable jacquard looms still require the weaver to remain present at the loom while weaving and to throw the weft yarn \(held on a shuttle\) between the ends of the fabric.
+
+#### Industrial Weaving 
+
+While the looms listed above are common in prototyping and developing and testing structures, Industrial looms produce most woven fabrics on earth today. These looms include mechanisms \(such as a "rapier mechanism"\) that automatically pass the weft yarns through the shed without any human involvement. These machines are incredibly fast and have very high epi's. I have no idea how they warp these machines but it must be wild.  
 
 | Structure | Ability to be Woven |
 | :--- | :--- |
@@ -349,8 +420,6 @@ Jacquard Loom
 | Woven | yes for narrow, flat, or tubular weaves or rolled wovens into the weft  |
 | Non-Wovens | yes, if sliced or rolled into thin long pieces or rolled and placed in the weft |
 | Solid Objects | yes, especially if they are long and narrow, if they can be threaded through the weft, or otherwise integrated at weave time into the  pockets of a multi-layered structure. |
-
-
 
 ## Bonding 
 
