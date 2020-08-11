@@ -9,7 +9,7 @@ description: >-
 
 ## Staple **Fiber**
 
-![cotton staple fibers \(via: https://www.needpix.com/\)](.gitbook/assets/cotton-1188323_1280.jpg)
+![cotton staple fibers \(via: https://www.needpix.com/\)](gitb/assets/cotton-1188323_1280.jpg)
 
 Staple fiber is the name given to one of the primary structures of textile, a material with a high length to width ratio.  Some staple fibers are  harvested from animals \(sheep, goats, alpaca\), insects \(spiders, caterpillars\), and plants \(linen, cotton, etc\). Others fibers are produced synthetically through the [extrusion](processes.md#extruding) of solutions containing metals or polymers. 
 

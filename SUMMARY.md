@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [Prototyping Smart Textiles](README.md)
 * [Structures](structures.md)
@@ -8,12 +8,10 @@
 * [Documenting](documenting.md)
 * [Histories](histories.md)
 
-## Applications Areas <a id="applications"></a>
-
+## Applications Areas
 * [Knit Applications](applications/applications.md)
 
 ## Resources
-
 * [Suppliers of  Prepared Thread, Yarn and Filament](resources/suppliers-of-prepared-thread-yarn-and-filament.md)
 * [Collections of Techniques and Examples](resources/collections-of-techniques-and-examples.md)
 
