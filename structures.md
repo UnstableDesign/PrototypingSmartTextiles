@@ -9,7 +9,7 @@ description: >-
 
 ## Staple **Fiber**
 
-![cotton staple fibers \(via: https://www.needpix.com/\)](gitb/assets/cotton-1188323_1280.jpg)
+![](.gitbook/assets/cotton-1188323_1280.jpg)
 
 Staple fiber is the name given to one of the primary structures of textile, a material with a high length to width ratio. Some staple fibers are harvested from animals \(sheep, goats, alpaca\), insects \(spiders, caterpillars\), and plants \(linen, cotton, etc\). Others fibers are produced synthetically through the [extrusion](processes.md#extruding) of solutions containing metals or polymers.
 
@@ -24,7 +24,7 @@ Staple fiber is the name given to one of the primary structures of textile, a ma
 
 ![Bundles of silk filament. National Archives and Records Administration / Public domain](.gitbook/assets/1600px-industries_of_war_-_silk_-_manufacture_of_silk_for_balloons-_cartridge_belt_cloth-_parachutes-_et_cetera_-_nara_-_45489601.jpg)
 
-A filament is a fiber of unlimited or very long length. Filaments are typically produced through [extrusion](processes.md#extruding), are of uniform length and quality. _\*\*_Silk is said to be a natural filament because it can be harvested in single lengths that are very long. Other common filaments include copper magnet wire, nylon, and rayon.
+A filament is a fiber of unlimited or very long length. Filaments are typically produced through [extrusion](processes.md#extruding), are of uniform length and quality. \_\*\*\_Silk is said to be a natural filament because it can be harvested in single lengths that are very long. Other common filaments include copper magnet wire, nylon, and rayon.
 
 ### **Primary Measurements**
 
@@ -139,6 +139,11 @@ Knits are described by the materials, equipment \(e.g. needle size\) and stitche
 * Issey Myaki APOC Zero-Waste Knits [https://collection.cooperhewitt.org/objects/18698063/](https://collection.cooperhewitt.org/objects/18698063/)
 * Beam Contrechoc Tiny Knittings [http://etextile-summercamp.org/swatch-exchange/tiny-knittings/](http://etextile-summercamp.org/swatch-exchange/tiny-knittings/)
 * Borre Knit Design Studio [https://byborre.com/pages/byborre-studio](https://byborre.com/pages/byborre-studio)
+* 3D Shape to Knit Structure Compiler: [https://textiles-lab.github.io/projects/on-demand-knitting/](https://textiles-lab.github.io/projects/on-demand-knitting/)
+
+### Primary Measurements:
+
+* knitted objects are best expressed as [patterns](documenting.md#knitting), but collections of particular stitches are at times described by describing materials, needle size, yarn size and gauge used within construction. 
 
 ## Wovens
 
@@ -159,20 +164,26 @@ Because woven tend not to be stretchy and require less knotting or looping of ma
 
 Wovens are described by the materials, equipment \(e.g.yarn density represent\) and stitches used expressed in the form of [weaving patterns](documenting.md#wovens).
 
-**Woven Structure Inspirations:** 
+**Woven Structure Inspirations:**
 
 * Sheila Hicks [https://www.sheilahicks.com/](https://www.sheilahicks.com/)
 * Lenore Tawney [https://lenoretawney.org/](https://lenoretawney.org/)
 * Annie Albers [https://albersfoundation.org/](https://albersfoundation.org/)
 * Gunta Stolzl [https://www.guntastolzl.org/Works](https://www.guntastolzl.org/Works)
 * Beryl Korot [https://art21.org/artist/beryl-korot/?gclid=EAIaIQobChMIs7bzqa-E6wIVjYbACh0\_NAPCEAAYASAAEgKVMfD\_BwE](https://art21.org/artist/beryl-korot/?gclid=EAIaIQobChMIs7bzqa-E6wIVjYbACh0_NAPCEAAYASAAEgKVMfD_BwE)
+* Textiel Lab Sample Studio: [https://samplestudio.textiellab.nl/samples/](https://samplestudio.textiellab.nl/samples/)
+
+### Primary Measurements:
+
+* woven fabrics are best expressed as [patterns](documenting.md#wovens) or "drafts". Often, the draft is accompanied by details about the specific loom and materials used. These include "epi"  \(the number of warps/ends per inch\), as well as the materials used within each pic of the construction. 
 
 ## Non-Wovens
 
 Non-wovens describe a class of textile structures that does involve the use of fiber or its processing into yarn. Instead, non-wovens are textile-like materials that are created by other processes of extruding \(e.g. chainmail or 3D printed textiles\), growing \(such as leather or kombucha\), felting, a process by which individual fibers are tangled so much as to form a durable surface or structure, or electrospinning, where fibers are bonded into a fabric through electrical charge. These structures range in properties. Grown, felted, and electrospun materials are often not structurally stretchy, as they are relatively uniform and solid structures.
 
-The method of describing or measuring a non-woven would vary by the material.  
+### Primary Measurements:
 
+The method of describing or measuring a non-woven would vary by the material.
 
 ## Textile Friendly Structures & Objects
 
