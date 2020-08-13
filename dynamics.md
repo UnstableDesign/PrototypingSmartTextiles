@@ -67,18 +67,39 @@ Adapted Seem Ripper:
 
 ## **Insulating**
 
-Methods for isolating your traces so they do not short or cross where you don't want them.   
+Insulation is a method for preventing the flow of electricity to areas neighboring your traces. Some soft sensor and actuator structures rely on traces being insulated from one and other, others don't. In some cases, you might also find that your materials already come insulated. In others, you need to provide insulation yourself. You can test if your material is insulated or not by connecting a multimeter across a length of conductive string and seeing and checking for a connection. In some other cases, you may want to insulate your entire circuit or just one trace from another. Below we list a few common methods for insulating: 
 
-Common Coatings \(poly, silicone\)  
-Core Spun Materials  
-****isolating ****layers ****
+### Coatings
+
+the most frequent way that materials are insulated when you purchase them from suppliers is with a a coating. For instance, magnet wire often comes with a thin enamel coating. In order to connect directly to the metal wire, you have to burn \(with a lighter\) or use sandpaper to scratch the enamel. In other wires, the coating is more easily spotted as a thicker and/or colored flexible silicone. These coatings can affect the performance of your circuit. For instance, in tests of heating wire, we found that even a thin layer of enamel coating limited the heat transfer between the conductive element and materials.
+
+### Covering/Layering
+
+Some wires you source will come entirely wrapped in fiber to provide coding, such as cotton covered wires. These are essentially core spun yarns with conductive cores and non-conductive/insulating sheaths. In other cases, you may cover your entire circuit in an insulating materials \(like felt\) so you can bend it without the fear of crossing traces. 
+
+### Spacing
+
+A second technique is to space your uninsulated traces such that they will not touch. This works well when your circuit will lay flat or will not fold upon itself unintentionally. Tests can help you determine how much spacing you need between traces to ensure they do not contact. In weaving, we have found that 2-3 picks is typically enough to insulate one wire for another. Some weaving stitches can allow you to cross an uninsulated warp and weft thread without touching by floating one thread to the front of the fabric and the other thread across the back. Again, tests are needed to determine exactly how long you need your floats. 
+
+### Beads
+
+beads can be useful form of adding insulation around regions of an uninsulated conductive yarn, particularly for applications where you need movement and flexibility. The bead acts as a sheath protecting that section from yarn from becoming touched by another. 
+
+
 
 ## **Resistors**
 
-basic structure // resistors are just pieces of material  
-techniques for sewing resistors  
-weaving resistors  
-knitting resistors \(knitted radio examples\)
+Every conductive material imposes a certain amount of resistance per unit length. The amount of resistance can be measured by a multimeter and depends on a number of factors such as temperature, width, material, etc. A resistor, in traditional electronics, is used to limit the voltage provided to a particular part of your circuit \(because Voltage = current \* resistance\). 
+
+### Making Resistors with Conductive Thread
+
+In traditional electronics, you typically purchase resistors of set values that you need. In soft electronics, you can make your own resistors by simply measuring the amount of resistance of a conductive thread of a given length and cutting a length long enough to provide the total amount of resistance you need. More resistance, longer length. For less resistance, cut. The key is that you have to find a way to integrate that length of yarn into your project in the region it is needed and you must ensure that, in order to get the resistance you require, the length of string does not cross itself. If crossing does happen, the electricity will follow the path of least resistance, and provide a much lower value of resistance than you require. \(However, this same principle can be really useful when making resistive sensors\). Since you can find conductive yarns in a wide range of resistance values, you can use these measures to balance against length. For instance, a higher resistance material will require a shorter length to obtain a certain resistance value than a lower resistance material. 
+
+### Weaving Resistors
+
+### Knitting Resistors
+
+ \(knitted radio examples\)
 
 ## **Capacitors** 
 
