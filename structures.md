@@ -128,6 +128,10 @@ Choices of material, stitch and density can vary across the surface of a knitted
 
 Knitting allows for the construction of shapes without textile waste. One works with different patterns, structures, increasing and decreasing stitches to create shape. The structure of knits varies by the stitches used in their production, which make the knit more or less stretchy, more or less open in various regions of the overall structure.
 
+![](.gitbook/assets/img_9162.jpg)
+
+An image showing the stretchiness of a knit swatch
+
 The knotted nature of knits means that the materials used in knitting tend to be very flexible with a high bending radius. The inherent stretchiness of the knit structure means that materials integrated into a knit structure need to maintain their ability to stretch to avoid breaking.
 
 Knits are described by the materials, equipment \(e.g. needle size\) and stitches used expressed in the form of [knitting patterns](documenting.md#knitting).
