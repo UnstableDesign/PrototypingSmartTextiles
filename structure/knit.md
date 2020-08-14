@@ -1,12 +1,18 @@
+---
+description: >-
+  a knit is a textile structure characterized by interlinked loops. All knits
+  are made of knots but not all knots create knits.
+---
+
 # Knit
 
 ![stockinette knit, front side. Credit: Breibeest on Flickr](../.gitbook/assets/894699057_fa53545e5c_k.jpg)
 
 ![stockinette knit, back side. ](../.gitbook/assets/895544896_40ac55081f_k.jpg)
 
-A knit is a textile structure created by arranging material \(most often [plied yarn]() and[ filaments]()\) into a series of interconnecting loops. These interconnecting loops can create a flat-\(ish\) textile with the ability to stretch in all directions as well as tubular or flat circular structures that strength along their length and width. The amount of stretch for a given knit depends on the materials, density, and stitches used. A stitch describes a specific combination of yarn manipulations in the fabrication process that imbue the knit with a particular structure \([we cover this more in our process section]()\).
+A knit is a textile structure created by arranging material \(most often [plied yarn](plied-yarn.md) and[ filaments](filament.md)\) into a series of interconnecting loops. These interconnecting loops can create a flat-\(ish\) textile with the ability to stretch in all directions as well as tubular or flat circular structures that strength along their length and width. The amount of stretch for a given knit depends on the materials, density, and stitches used. A stitch describes a specific combination of yarn manipulations in the fabrication process that imbue the knit with a particular structure \([we cover this more in our process section](../process/knitting.md)\).
 
-Knitting is.often used for the creation of soft and stretchy textile items such as sweaters, blankets, plush toys as well as athletic garments or other garments that require a skin-tight fit.
+Knitting is often used for the creation of soft and stretchy textile items such as sweaters, blankets, plush toys as well as athletic garments or other garments that require a skin-tight fit.
 
 Choices of material, stitch and density can vary across the surface of a knitted structure, allowing different regions of a single textile to display different mechanical properties. This allows for some materials to be integrated into portions or regions of the knit, etc. Additionally, one can knit with a single material or two materials in tandem, for instance, if they want to pull from a material like wool and a thin material like copper at once while their knitting, joining them in the structure without the need to ply.
 

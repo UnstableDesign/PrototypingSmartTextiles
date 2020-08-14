@@ -1,3 +1,9 @@
+---
+description: >-
+  a textile friendly object is a non-textile structure that integrates well
+  within textiles, such as beads.
+---
+
 # Textile Friendly Object
 
 While we have covered a series of possible structure that accumulate to build textiles, there are an almost infinite amount of variations and things that can be added that change the quality of a textile that we did not cover.

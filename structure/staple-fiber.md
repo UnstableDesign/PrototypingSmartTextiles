@@ -1,3 +1,9 @@
+---
+description: >-
+  Staple fiber is the name given to one of the primary structures of textile, a
+  material with a high length to width ratio.
+---
+
 # Staple Fiber
 
 ![](../.gitbook/assets/cotton-1188323_1280.jpg)

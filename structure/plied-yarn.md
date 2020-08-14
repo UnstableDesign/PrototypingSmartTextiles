@@ -1,3 +1,7 @@
+---
+description: Plied yarn is created by spinning multiple singles together.
+---
+
 # Plied Yarn
 
 ![2-ply yarn. If you look closely, you can see the two individual singles strands twisted together. Image Credit: Natalia Wilson on Flickr.](../.gitbook/assets/1516150719_9b653cf1e3_k.jpg)

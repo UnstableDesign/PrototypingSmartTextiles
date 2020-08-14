@@ -1,3 +1,9 @@
+---
+description: >-
+  a braid is a tubular structure that can be used to form a hollow tube or
+  sheath around another object or structure.
+---
+
 # Braid
 
 ## **Braid**

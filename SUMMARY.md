@@ -7,6 +7,7 @@
 * [Staple Fiber](structure/staple-fiber.md)
 * [Filament](structure/filament.md)
 * [Roving and Top](structure/roving-and-top.md)
+* [Yarn / Thread](structure/yarn-thread.md)
 * [Singles](structure/singles.md)
 * [Plied Yarn](structure/plied-yarn.md)
 * [Core Spun Yarn](structure/core-spun-yarn.md)

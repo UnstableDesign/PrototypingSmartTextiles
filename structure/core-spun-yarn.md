@@ -1,3 +1,9 @@
+---
+description: >-
+  core spun yarn is "layered" yarn where an external sheath is plied or braided
+  around a central core of material.
+---
+
 # Core Spun Yarn
 
 ![A close up of the end of a core spun thread. The core consists of uninsulated copper, and the sheath was a synthetic fiber.](../.gitbook/assets/screen-shot-2020-07-27-at-1.42.12-pm.png)

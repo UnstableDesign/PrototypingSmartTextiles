@@ -1,8 +1,14 @@
+---
+description: >-
+  singles describes the first structure that emerges after roving or top are
+  given spin. Most yarns are often made from several strands of singles
+---
+
 # Singles
 
 ![](../.gitbook/assets/3299380830_e09f66db1c_k%20%281%29.jpg)
 
-Singles are produced when roving or top are twisted in the process of [spinning](), turning into a longer yarn-like structure. All yarns are created through one or more singles together, in a process called [plying]() which adds additional structure and texture to yarn.
+Singles are produced when roving or top are twisted in the process of [spinning](../process/spinning.md), turning into a longer yarn-like structure. All yarns are created through one or more singles together, in a process called [plying](../process/plying.md) which adds additional structure and texture to yarn.
 
 ### **Primary Measurements**
 
