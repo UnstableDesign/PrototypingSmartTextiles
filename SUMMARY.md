@@ -2,24 +2,44 @@
 
 * [Prototyping Smart Textiles](README.md)
 
-## Structures <a id="structures-1"></a>
+## Structure
 
-* [StrTest](structures-1/strtest/README.md)
-  * [Textile Friendly Object](structures-1/strtest/textile-friendly-object.md)
-  * [Non-Woven](structures-1/strtest/non-woven.md)
-  * [Woven](structures-1/strtest/woven.md)
-  * [Knit](structures-1/strtest/knit.md)
-  * [Braid](structures-1/strtest/braid.md)
-  * [Core Spun Yarn](structures-1/strtest/core-spun-yarn.md)
-  * [Plied Yarn](structures-1/strtest/plied-yarn.md)
-  * [Singles](structures-1/strtest/singles.md)
-  * [Roving and Top](structures-1/strtest/roving-and-top.md)
-  * [Filament](structures-1/strtest/filament.md)
-  * [Staple Fiber](structures-1/strtest/staple-fiber.md)
+* [Staple Fiber](structure/staple-fiber.md)
+* [Filament](structure/filament.md)
+* [Roving and Top](structure/roving-and-top.md)
+* [Singles](structure/singles.md)
+* [Plied Yarn](structure/plied-yarn.md)
+* [Core Spun Yarn](structure/core-spun-yarn.md)
+* [Braid](structure/braid.md)
+* [Knit](structure/knit.md)
+* [Woven](structure/woven.md)
+* [Non-Woven](structure/non-woven.md)
+* [Textile Friendly Object](structure/textile-friendly-object.md)
+
+## Process
+
+* [Combing and Carding](process/combing-and-carding.md)
+* [Spinning](process/spinning.md)
+* [Extruding / 3D Printing](process/extruding-3d-printing.md)
+* [Plying](process/plying.md)
+* [Braiding](process/braiding.md)
+* [Paper-Making](process/paper-making.md)
+* [Growing](process/growing.md)
+* [Knitting](process/knitting.md)
+* [Weaving](process/weaving.md)
+* [Embroidering](process/embroidering.md)
+* [Felting](process/felting.md)
+* [Coating](process/coating.md)
+* [Dying / Resists](process/dying-resists.md)
+* [Electroplating](process/electroplating.md)
+* [Bonding](process/bonding.md)
+* [Etching](process/etching.md)
+* [Pleating](process/pleating.md)
+* [Electrospinning](process/electrospinning.md)
+* [Sewing](process/sewing.md)
 
 ---
 
-* [Processes](processes.md)
 * [Materials](materials.md)
 * [Dynamics](dynamics.md)
 * [Documenting](documenting.md)

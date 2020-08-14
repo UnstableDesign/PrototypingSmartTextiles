@@ -38,7 +38,7 @@ This is a draft that I created for my frame loom that shows the primary units th
 
 ![](.gitbook/assets/61375229703__193e5c94-3e8b-458d-acd7-723925605427.jpg)
 
-Yet, above I cropped the most important part out of the picture, which is the part of the draft that represents how to thread the frames, tie up the frames to the treadles, and shows the treadling pattern. If you need a refresher on how the loom works, you can reread the process section for [weaving on heddle-based looms](processes.md#weaving-on-heddle-based-looms). So now here is the full picture: 
+Yet, above I cropped the most important part out of the picture, which is the part of the draft that represents how to thread the frames, tie up the frames to the treadles, and shows the treadling pattern. If you need a refresher on how the loom works, you can reread the process section for [weaving on heddle-based looms](). So now here is the full picture: 
 
 ![](.gitbook/assets/screen-shot-2020-08-13-at-9.08.15-pm.png)
 

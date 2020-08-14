@@ -1,10 +1,10 @@
 # Knit
 
-![stockinette knit, front side. Credit: Breibeest on Flickr](../../.gitbook/assets/894699057_fa53545e5c_k.jpg)
+![stockinette knit, front side. Credit: Breibeest on Flickr](../.gitbook/assets/894699057_fa53545e5c_k.jpg)
 
-![stockinette knit, back side. ](../../.gitbook/assets/895544896_40ac55081f_k.jpg)
+![stockinette knit, back side. ](../.gitbook/assets/895544896_40ac55081f_k.jpg)
 
-A knit is a textile structure created by arranging material \(most often [plied yarn]() and[ filaments]()\) into a series of interconnecting loops. These interconnecting loops can create a flat-\(ish\) textile with the ability to stretch in all directions as well as tubular or flat circular structures that strength along their length and width. The amount of stretch for a given knit depends on the materials, density, and stitches used. A stitch describes a specific combination of yarn manipulations in the fabrication process that imbue the knit with a particular structure \([we cover this more in our process section](../../processes.md#knitting)\).
+A knit is a textile structure created by arranging material \(most often [plied yarn]() and[ filaments]()\) into a series of interconnecting loops. These interconnecting loops can create a flat-\(ish\) textile with the ability to stretch in all directions as well as tubular or flat circular structures that strength along their length and width. The amount of stretch for a given knit depends on the materials, density, and stitches used. A stitch describes a specific combination of yarn manipulations in the fabrication process that imbue the knit with a particular structure \([we cover this more in our process section]()\).
 
 Knitting is.often used for the creation of soft and stretchy textile items such as sweaters, blankets, plush toys as well as athletic garments or other garments that require a skin-tight fit.
 
@@ -12,13 +12,13 @@ Choices of material, stitch and density can vary across the surface of a knitted
 
 Knitting allows for the construction of shapes without textile waste. One works with different patterns, structures, increasing and decreasing stitches to create shape. The structure of knits varies by the stitches used in their production, which make the knit more or less stretchy, more or less open in various regions of the overall structure.
 
-![](../../.gitbook/assets/img_9162.jpg)
+![](../.gitbook/assets/img_9162.jpg)
 
 An image showing the stretchiness of a knit swatch
 
 The knotted nature of knits means that the materials used in knitting tend to be very flexible with a high bending radius. The inherent stretchiness of the knit structure means that materials integrated into a knit structure need to maintain their ability to stretch to avoid breaking.
 
-Knits are described by the materials, equipment \(e.g. needle size\) and stitches used expressed in the form of [knitting patterns](../../documenting.md#knitting).
+Knits are described by the materials, equipment \(e.g. needle size\) and stitches used expressed in the form of [knitting patterns](../documenting.md#knitting).
 
 **Knit Structure Inspirations:**
 
@@ -31,5 +31,5 @@ Knits are described by the materials, equipment \(e.g. needle size\) and stitche
 
 ### Primary Measurements:
 
-* knitted objects are best expressed as [patterns](../../documenting.md#knitting), but collections of particular stitches are at times described by describing materials, needle size, yarn size and gauge used within construction. 
+* knitted objects are best expressed as [patterns](../documenting.md#knitting), but collections of particular stitches are at times described by describing materials, needle size, yarn size and gauge used within construction. 
 

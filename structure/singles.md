@@ -1,8 +1,8 @@
 # Singles
 
-![](../../.gitbook/assets/3299380830_e09f66db1c_k%20%281%29.jpg)
+![](../.gitbook/assets/3299380830_e09f66db1c_k%20%281%29.jpg)
 
-Singles are produced when roving or top are twisted in the process of [spinning](../../processes.md#spinning), turning into a longer yarn-like structure. All yarns are created through one or more singles together, in a process called [plying](../../processes.md#plying) which adds additional structure and texture to yarn.
+Singles are produced when roving or top are twisted in the process of [spinning](), turning into a longer yarn-like structure. All yarns are created through one or more singles together, in a process called [plying]() which adds additional structure and texture to yarn.
 
 ### **Primary Measurements**
 

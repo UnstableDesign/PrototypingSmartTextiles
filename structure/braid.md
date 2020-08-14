@@ -2,7 +2,7 @@
 
 ## **Braid**
 
-![a close up of a braided cord. nylon roving was directly braided into this structure. ](../../.gitbook/assets/screen-shot-2020-07-23-at-4.55.02-pm.png)
+![a close up of a braided cord. nylon roving was directly braided into this structure. ](../.gitbook/assets/screen-shot-2020-07-23-at-4.55.02-pm.png)
 
 A braid is a structure that is created by interlacing singles, plied yarns and/or filaments in a flat, but more often, tubular structure. The most noticeable difference between a plied structure and a braided one is that the braid requires materials to travel in two directions around a center point. A tubular braid is a hollow structure and can be left hollow for particular applications and has particularly good mechanical properties for [artificial muscles](https://softroboticstoolkit.com/book/pneumatic-artificial-muscles). These are created because, with slippery materials, the braid will increase its cross-sectional diameter when compressed, and narrow when stretched \(a tubular scissor linkage\).
 
@@ -10,7 +10,7 @@ Yet, we often find braiding as a method of adding strength around a core, for in
 
 Braiding can be performed with in spun yarn, filament, or even more complex structures such as knitted cord, as I found when I was disassembling some old shoelaces:
 
-![the red and green cords are the braided outer sheaths and the multi-colored strands were knitted insides of the lace. ](../../.gitbook/assets/screen-shot-2020-07-27-at-4.47.43-pm.png)
+![the red and green cords are the braided outer sheaths and the multi-colored strands were knitted insides of the lace. ](../.gitbook/assets/screen-shot-2020-07-27-at-4.47.43-pm.png)
 
 ### Primary Measurements:
 
