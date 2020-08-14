@@ -1,8 +1,8 @@
-# Wovens
+# Woven
 
 ![](../.gitbook/assets/tei_front_back_detail_2.jpg)
 
-A woven textile structure is created by interlacing material \(most often [plied yarn](./#plied-yarn) and[ filaments](./#filament)\) in two directions: the _warp_ \(threads running along the length\), and _weft_ \(threads running along the width\). These structures are created by stretching or "warping" a set of parallel yarns \(or radical yarns in circular weaving\), and then interweaving the weft yarns in a perpendicular direction to bind the textile together. The specific patterning of "overs" and "unders" gives the woven textile different thicknesses, ability to sheer, and durability, etc.
+A woven textile structure is created by interlacing material \(most often [plied yarn](structures.md#plied-yarn) and[ filaments](structures.md#filament)\) in two directions: the _warp_ \(threads running along the length\), and _weft_ \(threads running along the width\). These structures are created by stretching or "warping" a set of parallel yarns \(or radical yarns in circular weaving\), and then interweaving the weft yarns in a perpendicular direction to bind the textile together. The specific patterning of "overs" and "unders" gives the woven textile different thicknesses, ability to sheer, and durability, etc.
 
 ![figures repressenting different structural possibilities](../.gitbook/assets/weave_details.jpg)
 

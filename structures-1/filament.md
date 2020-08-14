@@ -1,9 +1,5 @@
 # Filament
 
-
-
-## **Filament**
-
 ![Bundles of silk filament. National Archives and Records Administration / Public domain](../.gitbook/assets/1600px-industries_of_war_-_silk_-_manufacture_of_silk_for_balloons-_cartridge_belt_cloth-_parachutes-_et_cetera_-_nara_-_45489601.jpg)
 
 A filament is a fiber of unlimited or very long length. Filaments are typically produced through [extrusion](../processes.md#extruding), are of uniform length and quality. \_\*\*\_Silk is said to be a natural filament because it can be harvested in single lengths that are very long. Other common filaments include copper magnet wire, nylon, and rayon.
