@@ -37,3 +37,7 @@ Braiding machines have yet to enter the DIY marketplace \([and this one is out o
 
 * TBD
 
+### Documenting Braiding
+
+Set convention unknown. The materials of each constituent material and the order in which you braided them. Often represented as a series of crosses and steps such as: [https://prumihimo.com/resources/braiding-patterns/round-braid/](https://prumihimo.com/resources/braiding-patterns/round-braid/)
+

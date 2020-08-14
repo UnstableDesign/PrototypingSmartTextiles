@@ -12,6 +12,8 @@ When beginning to weave, the materials and equipment are usually considered in t
 
 The weaving density depends on the number of warp yarns per inch across the width of the loom. This is measured in "ends per inch" or epi. Weaving yarns are often soft with a suggestion of ends per inch which ought to match to your equipment. Some looms, like tapestry, rigid heddle looms, or jacquard looms, have fixed positions for you to stretch the warp into or heddles fixed at predetermined position and thus, you must find yarns to match your set up. Alternatively, you can always use less than the maximum density, so long as it still maintains the correct ratios and settings of your equipment. Other looms, like frame looms allow you to vary the density \(though you typically need to find a "reed" for beating that matches your desired density\). Most of the woven clothing you wear will be of a density that far exceeds what is possible on consumer grade equipment \(e.g. 100 epi\). Most craft weaving will consist of something around \(6-20 epi\)
 
+## Process
+
 ### Warping 
 
 Warping is the process of threading your loom and ensuring warp yarns are of even tension. The procedures for warping depend on the specific type of loom. 
@@ -20,11 +22,11 @@ Warping is the process of threading your loom and ensuring warp yarns are of eve
 
 The diagram below shows the general process of weaving, particularly on a heddle based loom. An understanding of this process aids in explaining the differences in stitches and patterns. 
 
-![](../.gitbook/assets/simple_weaving_diagram.jpg)
+![](../../.gitbook/assets/simple_weaving_diagram.jpg)
 
-All woven structures are created from the selection of "unders" and "overs" on any given pic. These patterns are represented by [drafts](../documenting.md#wovens) that represent the minimal repeating unit that characterizes the fabric structure. If the weft travels UNDER the warp \(same as: a heddle lifting that warp \), the draft square is colored solid or black. If the weft travels OVER the warp \(same as: the heddle not being lifted at that warp\), the draft square is colored in white or transparent. Namely, if you repeat these drafts across the weft \(width\) and warp \(length\) of your fabric, you would create a fabric made entirely of that stitch. Stitches can also be alternated or shifted arbitrarily across the length or width, depending on the loom you are using. 
+All woven structures are created from the selection of "unders" and "overs" on any given pic. These patterns are represented by [drafts](../../documenting.md#wovens) that represent the minimal repeating unit that characterizes the fabric structure. If the weft travels UNDER the warp \(same as: a heddle lifting that warp \), the draft square is colored solid or black. If the weft travels OVER the warp \(same as: the heddle not being lifted at that warp\), the draft square is colored in white or transparent. Namely, if you repeat these drafts across the weft \(width\) and warp \(length\) of your fabric, you would create a fabric made entirely of that stitch. Stitches can also be alternated or shifted arbitrarily across the length or width, depending on the loom you are using. 
 
-![](../.gitbook/assets/loomstructure_updated.jpg)
+![](../../.gitbook/assets/loomstructure_updated.jpg)
 
 The ordering of these selections has infinite possibilities, but the three most basic structures are: 
 
@@ -40,31 +42,15 @@ The ordering of these selections has infinite possibilities, but the three most 
 
 Finishing is the process of removing the woven fabric from the loom and fastening the ends so it does not easily unravel. The easiest finishing method \(in my opinion\) is quickly running the ends of the fabric through a sewing machine. Typically, long ends of the warp are exposed on the front and back ends of the fabric, and can be left as fringe,  twisted into tassels, or cut off entirely. 
 
-### Weaving on a Tapestry Loom
+## Documenting & Patterning
 
-[Tapestry looms](https://www.schachtspindle.com/product/tapestry-loom/) are typically frames that allow for yarns to be stretched across their length, and in a fixed length. A weaver can freely weave in and out of the yarns creating more freeform structures and pushing down yarns with a comb. Tapestry looms \(and the resulting tapestries\) can range in size. This video shows an example of [tapestry weaving on a large loom](https://vimeo.com/120200005). Tapestry weaving tends to be the most free-hand weaving processes, and tapestry weavers often freely integrate different materials, colors, etc in non-rectangular shapes. These tapestries often exist as artful wall hangings and rugs. Sheila Hick's collection of tapestries in the book [Weaving as Metaphor](https://yalebooks.yale.edu/book/9780300237221/sheila-hicks) show a large extend of the possibilities of working in this way. Tapestry looms can also be made from ad-hoc materials such as sticks or even eyelashes. The Met offers a nice tutorial on [how historical tapestries were made](https://www.metmuseum.org/blogs/now-at-the-met/2014/making-a-tapestry). 
+Woven patterns are described by drafts, which are made using a grid structure with each cell of the grid representing the location of a warp and weft crossing each other. As such, these often describe the structure, but not the materials. A black cell denotes that the weft travels UNDER the warp at this location and a white cell denotes that the weft travels OVER the warp at this location.  So if you were going to draft an entire fabric, the number of cells in the width of the draft would  total number of warps in the fabric. The number of cells in the height would represent the number of pics. The convention in weaving is to represent your fabric in the smallest amount of units. Thus, if your entire fabric is made of repeating a series of pics over the width and length of the fabric, then you would represent only the repeating unit with a note at how many times it should be repeated \(or let the weaver decide for themselves\). 
 
-### Weaving on Heddle-Based Looms
+![](../../.gitbook/assets/loomstructure_updated.jpg)
 
-As you might expect, hand threading a yarn over and under every row can be tedious, which has given rise to the development of horizontal looms with **heddles**, or, contraptions that lift the warps for you.  The heddles lift the yarn, and the weaver throws the yarn through the opening, or **shed**, lowers the heddles and beats the row they just laid to meet the fabric. The particular selection of heddles on any given row are called the **pic**. If you are looking to learn, [Peggy Osterkamp is the go to source for learning](https://woolery.com/weaving-for-beginners-an-illustrated-guide.html?nosto=categorypage-nosto-1). Many heddle based looms consist of the use of frames \(which contain sets of heddles\) and treadles which easily allow different frames to be lifted in combination with one another. 
+Conventions in drafting have to do with the hardware that one is using for weaving. Often, jacquard looms require each instruction to be specified \(so the draft will represent the entire weave pattern\). Most looms use frames to support quick weaving of repeating patterns, and thus, these drafts often represent those patterns instead of the fabric overall. The draft represents corresponds to actions on a loom and how it relates to a given structure. 
 
-![](../.gitbook/assets/loomstructure.jpg)
 
-#### Weaving on a Rigid Heddle Looms
-
-Rigid heddle looms often have one frame, making it easy to quickly weaving tabby and inviting the weaver to play with other hand techniques integrated with the tabby. 
-
-**Frame/Shaft Looms**
-
-Frame or Shaft looms are made to fit on table tops or floors and can have 2 to as many as 24 frames, depending on the loom. Frame looms also come in a variety of widths. When warping, the weaver threads each frame with a particular sequence of warps \(most simply, a "straight draw" which takes every 1st warp and puts it on frame one, every 2nd on frame two, every 3rd on frame three \(and so on\). To create a pattern, then, one "lifts" the frames that give them their desired pic. The lifting is done by hand or by the use of treadles, foot pedals that attach to different sets of frames allowing you to select them. Frame looms make it easier and faster to produce repeating patterns. Some frame looms are computer controlled, allowing motors to lift the frame rather than pedals. These are often called dobby looms. The loom shown in the image above is a 8-shaft Floor Loom. Further specifications \(e.g. jack loom, countermarch\) describe the mechanisms that raise and lower the heddles \(and often make it physically easier to do so, especially with large numbers of shafts and or wide widths\). 
-
-#### Jacquard Looms
-
-A jacquard-style loom is one where every heddle can be individually controlled. Originally, they were selected by punch cards \(which inspired the earliest forms of computing\) and today, they are computer controlled with small motors, electromagnets, and or pneumatics. Jacquard style looms fix the position of each heddle, so they typically have a set density they will weave. Jacquard style looms are best for creating non-repeating patterns and more complex woven structures. Most consumer obtainable jacquard looms still require the weaver to remain present at the loom while weaving and to throw the weft yarn \(held on a shuttle\) between the ends of the fabric.
-
-#### Industrial Weaving 
-
-While the looms listed above are common in prototyping and developing and testing structures, Industrial looms produce most woven fabrics on earth today. These looms include mechanisms \(such as a "rapier mechanism"\) that automatically pass the weft yarns through the shed without any human involvement. These machines are incredibly fast and have very high epi's. I have no idea how they warp these machines but it must be wild.  
 
 | Structure | Ability to be Woven |
 | :--- | :--- |
