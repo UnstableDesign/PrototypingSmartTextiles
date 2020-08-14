@@ -46,7 +46,7 @@ The first method can be simply knotting materials together. In soft-to-soft, thi
 
 When you have conductive materials integrated into your textile structure, one simple possibility is to simply integrate traditional wires into the structure so that the structure, itself, holds the materials in close contact. This is what I did in this project, [essentially twisting soft and more sturdy wires together at weaving time](http://artfordorks.com/2020/04/a-fabric-that-remembers/). In a different project, we soldered silicone coated wires directly to an arduino pro mini and then integrated the arduino into a [pocket within the woven structure, then wound the edges of the wire and yarn together within the fabric itself](http://unstable.design/some-teaser-images-from-our-experimental-weaving-residency/). You can see the FTDI connector pocking out of the fabric below, with the black wires routing through the structure. 
 
-![](.gitbook/assets/img_6837-1024x768.jpg)
+![](../.gitbook/assets/img_6837-1024x768.jpg)
 
 ### Soldering
 

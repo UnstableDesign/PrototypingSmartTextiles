@@ -21,7 +21,9 @@
 ## Process
 
 * [Combing and Carding](process/combing-and-carding.md)
-* [Spinning](process/spinning.md)
+* [Spinning](process/spinning/README.md)
+  * [Drop Spindle Spinning](process/spinning/drop-spindle-spinning.md)
+  * [Spinning Wheel Spinning](process/spinning/spinning-wheel-spinning.md)
 * [Extruding / 3D Printing](process/extruding-3d-printing.md)
 * [Plying](process/plying.md)
 * [Braiding](process/braiding.md)
@@ -45,12 +47,6 @@
 * [Electrospinning](process/electrospinning.md)
 * [Sewing](process/sewing.md)
 
----
-
-* [Dynamics](dynamics.md)
-* [Documenting](documenting.md)
-* [Histories](histories.md)
-
 ## Materials <a id="materials-1"></a>
 
 * [Wool](materials-1/wool.md)
@@ -65,6 +61,11 @@
 * [Stainless Steel](materials-1/stainless-steel.md)
 * [Copper](materials-1/copper.md)
 * [Experimental Materials](materials-1/experimental-materials.md)
+
+## Dynamics
+
+* [Dynamics](dynamics/dynamics.md)
+* [Traces](dynamics/untitled.md)
 
 ## Resources
 

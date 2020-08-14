@@ -24,7 +24,7 @@ An image showing the stretchiness of a knit swatch
 
 The knotted nature of knits means that the materials used in knitting tend to be very flexible with a high bending radius. The inherent stretchiness of the knit structure means that materials integrated into a knit structure need to maintain their ability to stretch to avoid breaking.
 
-Knits are described by the materials, equipment \(e.g. needle size\) and stitches used expressed in the form of [knitting patterns](../documenting.md#knitting).
+Knits are described by the materials, equipment \(e.g. needle size\) and stitches used expressed in the form of [knitting patterns]().
 
 **Knit Structure Inspirations:**
 
@@ -37,5 +37,5 @@ Knits are described by the materials, equipment \(e.g. needle size\) and stitche
 
 ### Primary Measurements:
 
-* knitted objects are best expressed as [patterns](../documenting.md#knitting), but collections of particular stitches are at times described by describing materials, needle size, yarn size and gauge used within construction. 
+* knitted objects are best expressed as [patterns](), but collections of particular stitches are at times described by describing materials, needle size, yarn size and gauge used within construction. 
 

@@ -24,7 +24,7 @@ The diagram below shows the general process of weaving, particularly on a heddle
 
 ![](../../.gitbook/assets/simple_weaving_diagram.jpg)
 
-All woven structures are created from the selection of "unders" and "overs" on any given pic. These patterns are represented by [drafts](../../documenting.md#wovens) that represent the minimal repeating unit that characterizes the fabric structure. If the weft travels UNDER the warp \(same as: a heddle lifting that warp \), the draft square is colored solid or black. If the weft travels OVER the warp \(same as: the heddle not being lifted at that warp\), the draft square is colored in white or transparent. Namely, if you repeat these drafts across the weft \(width\) and warp \(length\) of your fabric, you would create a fabric made entirely of that stitch. Stitches can also be alternated or shifted arbitrarily across the length or width, depending on the loom you are using. 
+All woven structures are created from the selection of "unders" and "overs" on any given pic. These patterns are represented by [drafts]() that represent the minimal repeating unit that characterizes the fabric structure. If the weft travels UNDER the warp \(same as: a heddle lifting that warp \), the draft square is colored solid or black. If the weft travels OVER the warp \(same as: the heddle not being lifted at that warp\), the draft square is colored in white or transparent. Namely, if you repeat these drafts across the weft \(width\) and warp \(length\) of your fabric, you would create a fabric made entirely of that stitch. Stitches can also be alternated or shifted arbitrarily across the length or width, depending on the loom you are using. 
 
 ![](../../.gitbook/assets/loomstructure_updated.jpg)
 
@@ -42,16 +42,6 @@ The ordering of these selections has infinite possibilities, but the three most 
 
 Finishing is the process of removing the woven fabric from the loom and fastening the ends so it does not easily unravel. The easiest finishing method \(in my opinion\) is quickly running the ends of the fabric through a sewing machine. Typically, long ends of the warp are exposed on the front and back ends of the fabric, and can be left as fringe,  twisted into tassels, or cut off entirely. 
 
-## Documenting & Patterning
-
-Woven patterns are described by drafts, which are made using a grid structure with each cell of the grid representing the location of a warp and weft crossing each other. As such, these often describe the structure, but not the materials. A black cell denotes that the weft travels UNDER the warp at this location and a white cell denotes that the weft travels OVER the warp at this location.  So if you were going to draft an entire fabric, the number of cells in the width of the draft would  total number of warps in the fabric. The number of cells in the height would represent the number of pics. The convention in weaving is to represent your fabric in the smallest amount of units. Thus, if your entire fabric is made of repeating a series of pics over the width and length of the fabric, then you would represent only the repeating unit with a note at how many times it should be repeated \(or let the weaver decide for themselves\). 
-
-![](../../.gitbook/assets/loomstructure_updated.jpg)
-
-Conventions in drafting have to do with the hardware that one is using for weaving. Often, jacquard looms require each instruction to be specified \(so the draft will represent the entire weave pattern\). Most looms use frames to support quick weaving of repeating patterns, and thus, these drafts often represent those patterns instead of the fabric overall. The draft represents corresponds to actions on a loom and how it relates to a given structure. 
-
-
-
 | Structure | Ability to be Woven |
 | :--- | :--- |
 | Raw Fiber | yes, if integrated into short regions of the weft, difficult |
@@ -64,4 +54,34 @@ Conventions in drafting have to do with the hardware that one is using for weavi
 | Woven | yes for narrow, flat, or tubular weaves or rolled wovens into the weft  |
 | Non-Wovens | yes, if sliced or rolled into thin long pieces or rolled and placed in the weft |
 | Solid Objects | yes, especially if they are long and narrow, if they can be threaded through the weft, or otherwise integrated at weave time into the  pockets of a multi-layered structure. |
+
+## Documenting & Patterning
+
+Woven patterns are described by drafts, which are made using a grid structure with each cell of the grid representing the location of a warp and weft crossing each other. As such, these often describe the structure, but not the materials. A black cell denotes that the weft travels UNDER the warp at this location and a white cell denotes that the weft travels OVER the warp at this location.  So if you were going to draft an entire fabric, the number of cells in the width of the draft would  total number of warps in the fabric. The number of cells in the height would represent the number of pics. The convention in weaving is to represent your fabric in the smallest amount of units. Thus, if your entire fabric is made of repeating a series of pics over the width and length of the fabric, then you would represent only the repeating unit with a note at how many times it should be repeated \(or let the weaver decide for themselves\). 
+
+![](../../.gitbook/assets/loomstructure_updated.jpg)
+
+Conventions in drafting have to do with the hardware that one is using for weaving. Often, jacquard looms require each instruction to be specified \(so the draft will represent the entire weave pattern\). Most looms use frames to support quick weaving of repeating patterns, and thus, these drafts often represent those patterns instead of the fabric overall. The draft represents corresponds to actions on a loom and how it relates to a given structure. 
+
+## Historical Connections
+
+Weaver \(1974\),  A Portrait of Margaret Carr  
+[https://www.folkstreams.net/film-detail.php?id=407](https://www.folkstreams.net/film-detail.php?id=407)  
+1800-1900 American Hand-weaving Industry and Child Labor
+
+Tradition Bearers \(1983\)  
+[https://www.folkstreams.net/film-detail.php?id=281](https://www.folkstreams.net/film-detail.php?id=281)  
+Finish-American Craft History, focusing on Great Lakes Region
+
+### Navajo Weaving
+
+**The story of Spider Woman**  
+Beauty Before Me: Navajo Weavers  
+[https://www.youtube.com/watch?v=c\_Tj4lr8i\_k](https://www.youtube.com/watch?v=c_Tj4lr8i_k)  
+  
+**A Loom with a View: Modern Navajo Weavers**  
+2004 - Produced by Sierra Ornelas and Justin Thomas  
+[https://www.youtube.com/watch?v=HkAggO4D8Og](https://www.youtube.com/watch?v=HkAggO4D8Og)
+
+
 

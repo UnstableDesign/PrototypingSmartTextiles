@@ -19,7 +19,7 @@ One of the strengths of weaving is its ability to easily create multi-layered st
 
 Because woven tend not to be stretchy and require less knotting or looping of materials \(in most cases\), weaving is often preferable for brittle materials or materials that do not bend well. Furthermore, the process of weaving makes it easy to integrate a wide variety of materials with a wide variety of widths into the structure, creating interesting textures and methods for integrating "hard" materials into their soft structure.
 
-Wovens are described by the materials, equipment \(e.g.yarn density represent\) and stitches used expressed in the form of [weaving patterns](../documenting.md#wovens).
+Wovens are described by the materials, equipment \(e.g.yarn density represent\) and stitches used expressed in the form of [weaving patterns]().
 
 **Woven Structure Inspirations:**
 
@@ -32,5 +32,5 @@ Wovens are described by the materials, equipment \(e.g.yarn density represent\) 
 
 ### Primary Measurements:
 
-* woven fabrics are best expressed as [patterns](../documenting.md#wovens) or "drafts". Often, the draft is accompanied by details about the specific loom and materials used. These include "epi"  \(the number of warps/ends per inch\), as well as the materials used within each pic of the construction. 
+* woven fabrics are best expressed as [patterns]() or "drafts". Often, the draft is accompanied by details about the specific loom and materials used. These include "epi"  \(the number of warps/ends per inch\), as well as the materials used within each pic of the construction. 
 
