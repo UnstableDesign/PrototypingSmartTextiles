@@ -29,7 +29,7 @@
 * [Weaving](process/weaving.md)
 * [Embroidering](process/embroidering.md)
 * [Felting](process/felting.md)
-* [Coating](process/coating.md)
+* [Coating / Painting / Printing](process/coating.md)
 * [Dying / Resists](process/dying-resists.md)
 * [Electroplating](process/electroplating.md)
 * [Bonding](process/bonding.md)

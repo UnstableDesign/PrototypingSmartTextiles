@@ -1,3 +1,9 @@
+---
+description: >-
+  a process of doping a material or guiding a material as it grows over time. A
+  typical process for non-woven preparations.
+---
+
 # Growing
 
 ## Non-Woven Preparations \(Growing, Felting, **Papermaking**, 3D printing\)

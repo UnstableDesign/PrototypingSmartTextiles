@@ -1,3 +1,9 @@
+---
+description: >-
+  a process of pushing a liquid-y material through a tube with an opening to lay
+  material in an arrangement.
+---
+
 # Extruding / 3D Printing
 
 

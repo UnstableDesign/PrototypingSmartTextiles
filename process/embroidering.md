@@ -1,3 +1,7 @@
+---
+description: a surface application technique applied to existing fabrics.
+---
+
 # Embroidering
 
 ## Hand embroidery

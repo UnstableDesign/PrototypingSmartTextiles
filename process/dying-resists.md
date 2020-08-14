@@ -1,3 +1,10 @@
+---
+description: >-
+  a surface application for structures that imbues them with particular color
+  patterns and characteristics. Dying requires a chemical bond to form between a
+  fiber and the dye compound.
+---
+
 # Dying / Resists
 
 Dying / Resists

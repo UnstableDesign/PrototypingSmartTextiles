@@ -1,3 +1,9 @@
+---
+description: >-
+  a process of twisting multiple singles and/or other string-like materials
+  together.
+---
+
 # Plying
 
 Plying consists of twisting multiple singles together. You can make cores and core-spun yarns using plying, but you cannot make hollow structures. You can ply with 2, 3, or however the hell many yarns you like, but its probably best to stay on the small side \(under 6\) to keep structure if you are doing this somewhat freehand. 

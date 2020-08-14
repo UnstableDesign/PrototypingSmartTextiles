@@ -1,3 +1,9 @@
+---
+description: >-
+  a subtractive process for creating structural changes and pathways for
+  electricity within metallic structures.
+---
+
 # Etching
 
 ## Etching
