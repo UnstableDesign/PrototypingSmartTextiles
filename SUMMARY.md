@@ -15,7 +15,6 @@
 * [Woven](structures-1/woven.md)
 * [Non-Woven](structures-1/non-woven.md)
 * [Textile Friendly Object](structures-1/textile-friendly-object.md)
-* [Structures](structures-1/structures.md)
 
 ---
 
