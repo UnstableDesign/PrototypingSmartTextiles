@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Prototyping Smart Textiles](README.md)
+* [How to Contribute](untitled.md)
 
 ## Structure
 
@@ -28,7 +29,7 @@
 * [Growing](process/growing.md)
 * [Knitting](process/knitting.md)
 * [Weaving](process/weaving.md)
-* [Embroidering](process/embroidering.md)
+* [Embroidery](process/embroidery.md)
 * [Felting](process/felting.md)
 * [Coating / Painting / Printing](process/coating.md)
 * [Dying / Resists](process/dying-resists.md)
@@ -50,8 +51,4 @@
 
 * [Suppliers of  Prepared Thread, Yarn and Filament](resources/suppliers-of-prepared-thread-yarn-and-filament.md)
 * [Collections of Techniques and Examples](resources/collections-of-techniques-and-examples.md)
-
----
-
-* [Untitled](untitled.md)
 
