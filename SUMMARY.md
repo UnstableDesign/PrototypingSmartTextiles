@@ -5,6 +5,7 @@
 ## Structures <a id="structures-1"></a>
 
 * [Staple Fiber](structures-1/staple-fiber.md)
+* [Filament](structures-1/filament.md)
 * [Roving and Top](structures-1/roving-and-top.md)
 * [Singles](structures-1/singles.md)
 * [Plied Yarn](structures-1/plied-yarn.md)
@@ -14,7 +15,6 @@
 * [Woven](structures-1/woven.md)
 * [Non-Woven](structures-1/non-woven.md)
 * [Textile Friendly Object](structures-1/textile-friendly-object.md)
-* [Filament](structures-1/filament.md)
 * [Structures](structures-1/structures.md)
 
 ---
