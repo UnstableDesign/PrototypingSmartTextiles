@@ -1,4 +1,4 @@
-# On a Frame Loom
+# Frame Loom Weaving
 
 As you might expect, hand threading a yarn over and under every row can be tedious, which has given rise to the development of horizontal looms with **heddles**, or, contraptions that lift the warps for you.  The heddles lift the yarn, and the weaver throws the yarn through the opening, or **shed**, lowers the heddles and beats the row they just laid to meet the fabric. The particular selection of heddles on any given row are called the **pic**. If you are looking to learn, [Peggy Osterkamp is the go to source for learning](https://woolery.com/weaving-for-beginners-an-illustrated-guide.html?nosto=categorypage-nosto-1). Many heddle based looms consist of the use of frames \(which contain sets of heddles\) and treadles which easily allow different frames to be lifted in combination with one another. 
 

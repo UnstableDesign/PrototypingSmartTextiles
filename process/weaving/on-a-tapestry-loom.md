@@ -1,4 +1,4 @@
-# On a Tapestry Loom
+# Tapestry Loom Weaving
 
 ### Weaving on a Tapestry Loom
 
