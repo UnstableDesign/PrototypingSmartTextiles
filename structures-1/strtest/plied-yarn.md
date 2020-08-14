@@ -1,14 +1,14 @@
 # Plied Yarn
 
-![2-ply yarn. If you look closely, you can see the two individual singles strands twisted together. Image Credit: Natalia Wilson on Flickr.](../.gitbook/assets/1516150719_9b653cf1e3_k.jpg)
+![2-ply yarn. If you look closely, you can see the two individual singles strands twisted together. Image Credit: Natalia Wilson on Flickr.](../../.gitbook/assets/1516150719_9b653cf1e3_k.jpg)
 
-The yarn or thread that you purchase for projects just as knitting, sewing or weaving is plied meaning that it has been created through a process of [plying](../processes.md#plying) several [singles]() yarns and/or [filaments]() together. A 2-ply yarn is made of 2 singles, a 3-ply is made of three singles and so on. In some cases, yarns that have already been plied together can then be plied together another time to create "cabled" yarn structures. So, to make a yarn with 4 plys, one has the option to either ply four singles together at once or make 2, 2-ply yarns and later ply them again into a single 4-ply yarn. The first is called 4-ply, the second 2x2ply. The cabled yarns will be more durable than the 4-ply yarns.
+The yarn or thread that you purchase for projects just as knitting, sewing or weaving is plied meaning that it has been created through a process of [plying](../../processes.md#plying) several [singles]() yarns and/or [filaments]() together. A 2-ply yarn is made of 2 singles, a 3-ply is made of three singles and so on. In some cases, yarns that have already been plied together can then be plied together another time to create "cabled" yarn structures. So, to make a yarn with 4 plys, one has the option to either ply four singles together at once or make 2, 2-ply yarns and later ply them again into a single 4-ply yarn. The first is called 4-ply, the second 2x2ply. The cabled yarns will be more durable than the 4-ply yarns.
 
-![This photo that I took of a conductive silver yarn reveals a cabled structure where filaments are loosely twisted and then again twisted again into a more complex structure.](../.gitbook/assets/screen-shot-2020-07-23-at-5.12.34-pm.png)
+![This photo that I took of a conductive silver yarn reveals a cabled structure where filaments are loosely twisted and then again twisted again into a more complex structure.](../../.gitbook/assets/screen-shot-2020-07-23-at-5.12.34-pm.png)
 
 You can find another description of plied structures [here](https://www.thesprucecrafts.com/what-is-plied-yarn-2116148#:~:text=Plies%20are%20the%20individual%20strands,doesn%27t%20make%20much%20sense.) and a description of [cabling](https://knitty.com/ISSUEdf10/KSFEATdf10glossary.php) [here](https://knitty.com/ISSUEdf10/KSFEATdf10glossary.php).
 
-![This structure contains two linen singles that are plied with a stainless silver strand](../.gitbook/assets/screen-shot-2020-07-23-at-5.09.48-pm%20%281%29.png)
+![This structure contains two linen singles that are plied with a stainless silver strand](../../.gitbook/assets/screen-shot-2020-07-23-at-5.09.48-pm%20%281%29.png)
 
 ### **Primary Measurements**
 

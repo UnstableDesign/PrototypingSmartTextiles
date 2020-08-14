@@ -4,17 +4,18 @@
 
 ## Structures <a id="structures-1"></a>
 
-* [Staple Fiber](structures-1/staple-fiber.md)
-* [Filament](structures-1/filament.md)
-* [Roving and Top](structures-1/roving-and-top.md)
-* [Singles](structures-1/singles.md)
-* [Plied Yarn](structures-1/plied-yarn.md)
-* [Core Spun Yarn](structures-1/core-spun-yarn.md)
-* [Braid](structures-1/braid.md)
-* [Knit](structures-1/knit.md)
-* [Woven](structures-1/woven.md)
-* [Non-Woven](structures-1/non-woven.md)
-* [Textile Friendly Object](structures-1/textile-friendly-object.md)
+* [StrTest](structures-1/strtest/README.md)
+  * [Textile Friendly Object](structures-1/strtest/textile-friendly-object.md)
+  * [Non-Woven](structures-1/strtest/non-woven.md)
+  * [Woven](structures-1/strtest/woven.md)
+  * [Knit](structures-1/strtest/knit.md)
+  * [Braid](structures-1/strtest/braid.md)
+  * [Core Spun Yarn](structures-1/strtest/core-spun-yarn.md)
+  * [Plied Yarn](structures-1/strtest/plied-yarn.md)
+  * [Singles](structures-1/strtest/singles.md)
+  * [Roving and Top](structures-1/strtest/roving-and-top.md)
+  * [Filament](structures-1/strtest/filament.md)
+  * [Staple Fiber](structures-1/strtest/staple-fiber.md)
 
 ---
 
