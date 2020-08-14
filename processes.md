@@ -37,7 +37,7 @@ Combing fibers allows them to all align in the same direction.  This is used on 
 
 ## Spinning 
 
-Spinning is a process of adding twist to fibers \(in the form of top or roving\) such that they form into a more structured and "balanced" yarn, which means that it won't un-spin easily. Spinning top or roving  produces [singles](structures.md#singles), a single strand of twisted yarn. Singles are unbalanced \(their twist is only in one direction\) and their are not very durable. It is also possible to spin raw fibers around other structures, such as wires or filaments in a process of [core spinning](https://www.youtube.com/watch?v=7nAfv3O_Qrk). 
+Spinning is a process of adding twist to fibers \(in the form of top or roving\) such that they form into a more structured and "balanced" yarn, which means that it won't un-spin easily. Spinning top or roving  produces [singles](structures/#singles), a single strand of twisted yarn. Singles are unbalanced \(their twist is only in one direction\) and their are not very durable. It is also possible to spin raw fibers around other structures, such as wires or filaments in a process of [core spinning](https://www.youtube.com/watch?v=7nAfv3O_Qrk). 
 
 To spin, a spinner drafts, or feeds, a collection of fibers into their spinning devices \(wheel or spindle\). The spinner users their hands \(or otherwise\) to control the propagation of the spin up the length of the unspun fiber. As the spin propagates along the length of the fiber, it is wound onto a spool. The final step in spinning is called finishing, by which the yarn can be washed, steamed, lassoed, whacked, menaced, and a whole host of other hilarious words, to help the yarn achieve is final state. This is essentially a process of making the yarn resemble the state you want it to stay in and you really don't know much until you've washed and laundered a textile project \(which is always frightening to me\).
 
@@ -85,7 +85,7 @@ A more accessible method of spinning can be accomplished using a drop spindle. A
 
 ## Extruding
 
-A second common process uses processes of extrusion. In these cases, materials are processed into a liquid like goo \(think play-doh\) and pressed through narrow openings named after a spider's "spinneret." The single streams of material emerging from the spinneret are either spun directly into fiber or deposited into liquid chemical baths as part of their structural formation. Often, extruding gives rise to filaments, where long continuous fibers are created. In other cases, the streams can be kept at deliberately short lengths to simulate more staple fiber like qualities \(think steel wool\).  
+A second common process uses processes of extrusion. In these cases, materials are processed into a liquid like goo \(think play-doh\) and pressed through narrow openings named after a spider's "spinneret." The single streams of material emerging from the spinneret are either spun directly into fiber or deposited into liquid chemical baths as part of their structural formation. Often, extruding gives rise to filaments, where long continuous fibers are created. In other cases, the streams can be kept at deliberately short lengths to simulate more[ staple fiber](structures/staple-fiber.md) like qualities \(think steel wool\).  
 
 | Structure | Ability to be Extruded |
 | :--- | :--- |

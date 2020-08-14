@@ -9,9 +9,9 @@ description: >-
 
 ## Staple **Fiber**
 
-![](.gitbook/assets/cotton-1188323_1280.jpg)
+![](../.gitbook/assets/cotton-1188323_1280.jpg)
 
-Staple fiber is the name given to one of the primary structures of textile, a material with a high length to width ratio. Some staple fibers are harvested from animals \(sheep, goats, alpaca\), insects \(spiders, caterpillars\), and plants \(linen, cotton, etc\). Others fibers are produced synthetically through the [extrusion](processes.md#extruding) of solutions containing metals or polymers.
+Staple fiber is the name given to one of the primary structures of textile, a material with a high length to width ratio. Some staple fibers are harvested from animals \(sheep, goats, alpaca\), insects \(spiders, caterpillars\), and plants \(linen, cotton, etc\). Others fibers are produced synthetically through the [extrusion](../processes.md#extruding) of solutions containing metals or polymers.
 
 ### **Primary Measurements**
 
@@ -22,22 +22,22 @@ Staple fiber is the name given to one of the primary structures of textile, a ma
 
 ## **Filament**
 
-![Bundles of silk filament. National Archives and Records Administration / Public domain](.gitbook/assets/1600px-industries_of_war_-_silk_-_manufacture_of_silk_for_balloons-_cartridge_belt_cloth-_parachutes-_et_cetera_-_nara_-_45489601.jpg)
+![Bundles of silk filament. National Archives and Records Administration / Public domain](../.gitbook/assets/1600px-industries_of_war_-_silk_-_manufacture_of_silk_for_balloons-_cartridge_belt_cloth-_parachutes-_et_cetera_-_nara_-_45489601.jpg)
 
-A filament is a fiber of unlimited or very long length. Filaments are typically produced through [extrusion](processes.md#extruding), are of uniform length and quality. \_\*\*\_Silk is said to be a natural filament because it can be harvested in single lengths that are very long. Other common filaments include copper magnet wire, nylon, and rayon.
+A filament is a fiber of unlimited or very long length. Filaments are typically produced through [extrusion](../processes.md#extruding), are of uniform length and quality. \_\*\*\_Silk is said to be a natural filament because it can be harvested in single lengths that are very long. Other common filaments include copper magnet wire, nylon, and rayon.
 
 ### **Primary Measurements**
 
 * **type:** the source of the filament
 * **fiber diameter:** the cross-sectional diameter of the fiber, measured in µm or [AWG](https://en.wikipedia.org/wiki/American_wire_gauge)
 
-  filaments are available as monofilaments or multifilaments. Monofilaments refer to a single continuous length of filament where multifilaments consist of several filaments [twisted](processes.md#plying) or [braided](processes.md#braiding) together.
+  filaments are available as monofilaments or multifilaments. Monofilaments refer to a single continuous length of filament where multifilaments consist of several filaments [twisted](../processes.md#plying) or [braided](../processes.md#braiding) together.
 
 ## **Roving and Top**
 
-![Roving \(the form shown on the right\). Credit: Lisa Dusseault on Flickr](.gitbook/assets/5482951525_d1d8b5cf5d_k.jpg)
+![Roving \(the form shown on the right\). Credit: Lisa Dusseault on Flickr](../.gitbook/assets/5482951525_d1d8b5cf5d_k.jpg)
 
-Roving and or Top describe fibers that have been given and initial structure to hold them together, but have not yet been given any twist. These are produced by processes of [combing or carding](processes.md#combing-and-carding) individual fibers into into a common direction prior to [spinning](processes.md#spinning). Typically, [carding](processes.md#combing-and-carding) fibers entangling them in multiple directions \(think a dreadlock\). Collections of fibers prepared in this fashion referred to as "woolen" and sold under the name **roving**. Thus, roving adds a springy and airy quality to a yarn when it is spun. Alternatively, some fibers are prepared through combing \(like a pony tail\) which aligns the individual fibers in a single direction and often removes fibers of unusual length. Fibers prepared by [combing](processes.md#combing-and-carding) are called "worsted" and sold as **top**. Worsted preparations tend to produce stronger and denser yarns when they are spun.
+Roving and or Top describe fibers that have been given and initial structure to hold them together, but have not yet been given any twist. These are produced by processes of [combing or carding](../processes.md#combing-and-carding) individual fibers into into a common direction prior to [spinning](../processes.md#spinning). Typically, [carding](../processes.md#combing-and-carding) fibers entangling them in multiple directions \(think a dreadlock\). Collections of fibers prepared in this fashion referred to as "woolen" and sold under the name **roving**. Thus, roving adds a springy and airy quality to a yarn when it is spun. Alternatively, some fibers are prepared through combing \(like a pony tail\) which aligns the individual fibers in a single direction and often removes fibers of unusual length. Fibers prepared by [combing](../processes.md#combing-and-carding) are called "worsted" and sold as **top**. Worsted preparations tend to produce stronger and denser yarns when they are spun.
 
 There are several products sold on the market such as "[carbon roving](https://www.compositeshop.de/xoshop/lng/en/fibers/carbon-fiber/carbon-roving-tenax-sts40-24k.html)" or "[glass roving](https://www.compositeshop.de/xoshop/lng/en/fibers/carbon-fiber/glass-roving-vetrotex-ec14-2400tex-p185.html)" that describe strands of continuous filaments laying mostly parallel to each other. These are structurally very different than roving made from staple fibers but share the quality of being the preparation before twist is added.
 
@@ -51,9 +51,9 @@ _because roving and top can easily be pulled to cut or twisted back into their s
 
 ## **Singles**
 
-![](.gitbook/assets/3299380830_e09f66db1c_k%20%281%29.jpg)
+![](../.gitbook/assets/3299380830_e09f66db1c_k%20%281%29.jpg)
 
-Singles are produced when roving or top are twisted in the process of [spinning](processes.md#spinning), turning into a longer yarn-like structure. All yarns are created through one or more singles together, in a process called [plying](processes.md#plying) which adds additional structure and texture to yarn.
+Singles are produced when roving or top are twisted in the process of [spinning](../processes.md#spinning), turning into a longer yarn-like structure. All yarns are created through one or more singles together, in a process called [plying](../processes.md#plying) which adds additional structure and texture to yarn.
 
 ### **Primary Measurements**
 
@@ -63,15 +63,15 @@ Singles are produced when roving or top are twisted in the process of [spinning]
 
 ## **Plied Yarn**
 
-![2-ply yarn. If you look closely, you can see the two individual singles strands twisted together. Image Credit: Natalia Wilson on Flickr.](.gitbook/assets/1516150719_9b653cf1e3_k.jpg)
+![2-ply yarn. If you look closely, you can see the two individual singles strands twisted together. Image Credit: Natalia Wilson on Flickr.](../.gitbook/assets/1516150719_9b653cf1e3_k.jpg)
 
-The yarn or thread that you purchase for projects just as knitting, sewing or weaving is plied meaning that it has been created through a process of [plying](processes.md#plying) several [singles](structures.md#singles) yarns and/or [filaments](structures.md#filament) together. A 2-ply yarn is made of 2 singles, a 3-ply is made of three singles and so on. In some cases, yarns that have already been plied together can then be plied together another time to create "cabled" yarn structures. So, to make a yarn with 4 plys, one has the option to either ply four singles together at once or make 2, 2-ply yarns and later ply them again into a single 4-ply yarn. The first is called 4-ply, the second 2x2ply. The cabled yarns will be more durable than the 4-ply yarns.
+The yarn or thread that you purchase for projects just as knitting, sewing or weaving is plied meaning that it has been created through a process of [plying](../processes.md#plying) several [singles](./#singles) yarns and/or [filaments](./#filament) together. A 2-ply yarn is made of 2 singles, a 3-ply is made of three singles and so on. In some cases, yarns that have already been plied together can then be plied together another time to create "cabled" yarn structures. So, to make a yarn with 4 plys, one has the option to either ply four singles together at once or make 2, 2-ply yarns and later ply them again into a single 4-ply yarn. The first is called 4-ply, the second 2x2ply. The cabled yarns will be more durable than the 4-ply yarns.
 
-![This photo that I took of a conductive silver yarn reveals a cabled structure where filaments are loosely twisted and then again twisted again into a more complex structure.](.gitbook/assets/screen-shot-2020-07-23-at-5.12.34-pm.png)
+![This photo that I took of a conductive silver yarn reveals a cabled structure where filaments are loosely twisted and then again twisted again into a more complex structure.](../.gitbook/assets/screen-shot-2020-07-23-at-5.12.34-pm.png)
 
 You can find another description of plied structures [here](https://www.thesprucecrafts.com/what-is-plied-yarn-2116148#:~:text=Plies%20are%20the%20individual%20strands,doesn%27t%20make%20much%20sense.) and a description of [cabling](https://knitty.com/ISSUEdf10/KSFEATdf10glossary.php) [here](https://knitty.com/ISSUEdf10/KSFEATdf10glossary.php).
 
-![This structure contains two linen singles that are plied with a stainless silver strand](.gitbook/assets/screen-shot-2020-07-23-at-5.09.48-pm%20%281%29.png)
+![This structure contains two linen singles that are plied with a stainless silver strand](../.gitbook/assets/screen-shot-2020-07-23-at-5.09.48-pm%20%281%29.png)
 
 ### **Primary Measurements**
 
@@ -86,15 +86,15 @@ Note, yarns tend to be described differently by their suppliers and the applicat
 
 ## **Core Spun Yarns**
 
-![A close up of the end of a core spun thread. The core consists of uninsulated copper, and the sheath was a synthetic fiber.](.gitbook/assets/screen-shot-2020-07-27-at-1.42.12-pm.png)
+![A close up of the end of a core spun thread. The core consists of uninsulated copper, and the sheath was a synthetic fiber.](../.gitbook/assets/screen-shot-2020-07-27-at-1.42.12-pm.png)
 
-![closeup of the synthetic sheath spun around the core.](.gitbook/assets/screen-shot-2020-07-27-at-1.55.11-pm.png)
+![closeup of the synthetic sheath spun around the core.](../.gitbook/assets/screen-shot-2020-07-27-at-1.55.11-pm.png)
 
 Core spun yarns describe a multi-layered yarn structure where fiber is spun around a single continuous filament in the core. This is a common technique for creating conductive yarns. The internal material is referred to as the core, and the outer is referred to as the sheath. There is a seemingly endless combination and set of techniques for constructing core spun yarns, which you can find [here](https://www.sciencedirect.com/topics/engineering/core-spun-yarn).
 
 ## **Braid**
 
-![a close up of a braided cord. nylon roving was directly braided into this structure. ](.gitbook/assets/screen-shot-2020-07-23-at-4.55.02-pm.png)
+![a close up of a braided cord. nylon roving was directly braided into this structure. ](../.gitbook/assets/screen-shot-2020-07-23-at-4.55.02-pm.png)
 
 A braid is a structure that is created by interlacing singles, plied yarns and/or filaments in a flat, but more often, tubular structure. The most noticeable difference between a plied structure and a braided one is that the braid requires materials to travel in two directions around a center point. A tubular braid is a hollow structure and can be left hollow for particular applications and has particularly good mechanical properties for [artificial muscles](https://softroboticstoolkit.com/book/pneumatic-artificial-muscles). These are created because, with slippery materials, the braid will increase its cross-sectional diameter when compressed, and narrow when stretched \(a tubular scissor linkage\).
 
@@ -102,7 +102,7 @@ Yet, we often find braiding as a method of adding strength around a core, for in
 
 Braiding can be performed with in spun yarn, filament, or even more complex structures such as knitted cord, as I found when I was disassembling some old shoelaces:
 
-![the red and green cords are the braided outer sheaths and the multi-colored strands were knitted insides of the lace. ](.gitbook/assets/screen-shot-2020-07-27-at-4.47.43-pm.png)
+![the red and green cords are the braided outer sheaths and the multi-colored strands were knitted insides of the lace. ](../.gitbook/assets/screen-shot-2020-07-27-at-4.47.43-pm.png)
 
 ### Primary Measurements:
 
@@ -116,11 +116,11 @@ This tells me inside of the braid there are 7 individual nylon strands each havi
 
 ## **Knits**
 
-![stockinette knit, front side. Credit: Breibeest on Flickr](.gitbook/assets/894699057_fa53545e5c_k.jpg)
+![stockinette knit, front side. Credit: Breibeest on Flickr](../.gitbook/assets/894699057_fa53545e5c_k.jpg)
 
-![stockinette knit, back side. ](.gitbook/assets/895544896_40ac55081f_k.jpg)
+![stockinette knit, back side. ](../.gitbook/assets/895544896_40ac55081f_k.jpg)
 
-A knit is a textile structure created by arranging material \(most often [plied yarn](structures.md#plied-yarn) and[ filaments](structures.md#filament)\) into a series of interconnecting loops. These interconnecting loops can create a flat-\(ish\) textile with the ability to stretch in all directions as well as tubular or flat circular structures that strength along their length and width. The amount of stretch for a given knit depends on the materials, density, and stitches used. A stitch describes a specific combination of yarn manipulations in the fabrication process that imbue the knit with a particular structure \([we cover this more in our process section](processes.md#knitting)\).
+A knit is a textile structure created by arranging material \(most often [plied yarn](./#plied-yarn) and[ filaments](./#filament)\) into a series of interconnecting loops. These interconnecting loops can create a flat-\(ish\) textile with the ability to stretch in all directions as well as tubular or flat circular structures that strength along their length and width. The amount of stretch for a given knit depends on the materials, density, and stitches used. A stitch describes a specific combination of yarn manipulations in the fabrication process that imbue the knit with a particular structure \([we cover this more in our process section](../processes.md#knitting)\).
 
 Knitting is.often used for the creation of soft and stretchy textile items such as sweaters, blankets, plush toys as well as athletic garments or other garments that require a skin-tight fit.
 
@@ -128,13 +128,13 @@ Choices of material, stitch and density can vary across the surface of a knitted
 
 Knitting allows for the construction of shapes without textile waste. One works with different patterns, structures, increasing and decreasing stitches to create shape. The structure of knits varies by the stitches used in their production, which make the knit more or less stretchy, more or less open in various regions of the overall structure.
 
-![](.gitbook/assets/img_9162.jpg)
+![](../.gitbook/assets/img_9162.jpg)
 
 An image showing the stretchiness of a knit swatch
 
 The knotted nature of knits means that the materials used in knitting tend to be very flexible with a high bending radius. The inherent stretchiness of the knit structure means that materials integrated into a knit structure need to maintain their ability to stretch to avoid breaking.
 
-Knits are described by the materials, equipment \(e.g. needle size\) and stitches used expressed in the form of [knitting patterns](documenting.md#knitting).
+Knits are described by the materials, equipment \(e.g. needle size\) and stitches used expressed in the form of [knitting patterns](../documenting.md#knitting).
 
 **Knit Structure Inspirations:**
 
@@ -147,39 +147,9 @@ Knits are described by the materials, equipment \(e.g. needle size\) and stitche
 
 ### Primary Measurements:
 
-* knitted objects are best expressed as [patterns](documenting.md#knitting), but collections of particular stitches are at times described by describing materials, needle size, yarn size and gauge used within construction. 
+* knitted objects are best expressed as [patterns](../documenting.md#knitting), but collections of particular stitches are at times described by describing materials, needle size, yarn size and gauge used within construction. 
 
-## Wovens
 
-![](.gitbook/assets/tei_front_back_detail_2.jpg)
-
-A woven textile structure is created by interlacing material \(most often [plied yarn](structures.md#plied-yarn) and[ filaments](structures.md#filament)\) in two directions: the _warp_ \(threads running along the length\), and _weft_ \(threads running along the width\). These structures are created by stretching or "warping" a set of parallel yarns \(or radical yarns in circular weaving\), and then interweaving the weft yarns in a perpendicular direction to bind the textile together. The specific patterning of "overs" and "unders" gives the woven textile different thicknesses, ability to sheer, and durability, etc.
-
-![figures repressenting different structural possibilities](.gitbook/assets/weave_details.jpg)
-
-Because of their durability and less stretchy structure, woven fabrics are commonly used in upholstery, denim, and tailored garments like suits. They are also used in industrial applications to create composite materials or abrasion resistant pads or architectural materials \(e.g. wire meshes, etc\).
-
-Woven structures are not inherently as stretchy as knits and the structure of weaving equipment makes working with stretchy materials challenging. Yet, like knitting, woven structure can be varied across the surface of a fabric giving rise to materials that have different mechanical properties in various regions.  
-One of the strengths of weaving is its ability to easily create multi-layered structures, where multiple layers and interlacements of layers can be woven at one time. This allows for pockets and tubes to be easily embedded into the structure of a woven fabric, a technique that is often used for the creation of quilted fabrics but can also be used for multi-layered woven circuits.
-
-![](.gitbook/assets/double_weave_tests_3-01.jpg)
-
-Because woven tend not to be stretchy and require less knotting or looping of materials \(in most cases\), weaving is often preferable for brittle materials or materials that do not bend well. Furthermore, the process of weaving makes it easy to integrate a wide variety of materials with a wide variety of widths into the structure, creating interesting textures and methods for integrating "hard" materials into their soft structure.
-
-Wovens are described by the materials, equipment \(e.g.yarn density represent\) and stitches used expressed in the form of [weaving patterns](documenting.md#wovens).
-
-**Woven Structure Inspirations:**
-
-* Sheila Hicks [https://www.sheilahicks.com/](https://www.sheilahicks.com/)
-* Lenore Tawney [https://lenoretawney.org/](https://lenoretawney.org/)
-* Annie Albers [https://albersfoundation.org/](https://albersfoundation.org/)
-* Gunta Stolzl [https://www.guntastolzl.org/Works](https://www.guntastolzl.org/Works)
-* Beryl Korot [https://art21.org/artist/beryl-korot/?gclid=EAIaIQobChMIs7bzqa-E6wIVjYbACh0\_NAPCEAAYASAAEgKVMfD\_BwE](https://art21.org/artist/beryl-korot/?gclid=EAIaIQobChMIs7bzqa-E6wIVjYbACh0_NAPCEAAYASAAEgKVMfD_BwE)
-* Textiel Lab Sample Studio: [https://samplestudio.textiellab.nl/samples/](https://samplestudio.textiellab.nl/samples/)
-
-### Primary Measurements:
-
-* woven fabrics are best expressed as [patterns](documenting.md#wovens) or "drafts". Often, the draft is accompanied by details about the specific loom and materials used. These include "epi"  \(the number of warps/ends per inch\), as well as the materials used within each pic of the construction. 
 
 ## Non-Wovens
 

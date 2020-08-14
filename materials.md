@@ -9,6 +9,12 @@ description: >-
 
 For the sake of our explanation of fibers and their properties, we will also describe particular qualities that contribute to a materials conductivity, resistance, and thermal conductance. **Conductivity** refers to how easily electricity can move through the fiber. If it conducts electricity relatively easily, it is colloquially called a conductive fiber. If electricity has a difficult time moving through the fiber, it is colloquially called an **insulator**. Similarly, at times you will hear the terms conductive or resistive used to describe conductive fibers. This generally applies only the the fibers that are easily conductive and basically differentiates how conductive they are. A conductive yarn means it is very conductive \(meaning it has low resistance\), or less conductive \(meaning it has more resistance\). 
 
+[Test Link to Wovens in old structure](structures/#wovens). 
+
+[Test Link to Woven's in new structure](structures/wovens.md)
+
+
+
 
 
 ## **Wool \(Sheep's\)**
