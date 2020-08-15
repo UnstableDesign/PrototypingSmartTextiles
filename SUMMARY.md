@@ -65,7 +65,20 @@
 ## Dynamics
 
 * [Dynamics](dynamics/dynamics.md)
+* [Circuit Basics](dynamics/circuit-basics.md)
 * [Traces](dynamics/untitled.md)
+* [Connections](dynamics/connections.md)
+* [Insulation](dynamics/insulation.md)
+* [Resistors](dynamics/resistors.md)
+* [Capacitors](dynamics/capacitors.md)
+* [Electromagnet](dynamics/electromagnet.md)
+* [Buttons & Switching](dynamics/buttons-and-switching.md)
+* [Resistive Sensors](dynamics/resistive-sensors.md)
+* [Capacitive Sensors](dynamics/capacitive-sensors.md)
+* [Speakers / Microphones](dynamics/speakers-microphones.md)
+* [Power & RF Harvesting](dynamics/power-and-rf-harvesting.md)
+* [Aentennas](dynamics/aentennas.md)
+* [Physical State Change](dynamics/physical-state-change.md)
 
 ## Resources
 
