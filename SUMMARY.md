@@ -53,8 +53,8 @@
 
 ## Materials
 
-* [Protein Fibers](materials/protein-fibers.md)
 * [Comparing Materials](materials/comparing-materials.md)
+* [Protein Fibers](materials/protein-fibers.md)
 * [Cellulose Fibers](materials/cellulose-fibers.md)
 * [Synthetic Fibers](materials/synthetic-fibers.md)
 * [Metallic Fibers](materials/metallic-fibers.md)

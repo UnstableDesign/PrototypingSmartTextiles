@@ -1,12 +1,14 @@
 # Comparing Materials
 
-
+[https://docs.google.com/spreadsheets/d/1YEAAxypWbwPctBzfyNWZ6mH-7f-Pn4piLHHMTRpUJpQ/edit\#gid=0](https://docs.google.com/spreadsheets/d/1YEAAxypWbwPctBzfyNWZ6mH-7f-Pn4piLHHMTRpUJpQ/edit?usp=sharing)
 
 ## Comparing Natural Fibers
 
 ![](../.gitbook/assets/minimum-fiber-diameter-in-microns-.png)
 
 ![](../.gitbook/assets/minimum-staple-length-in-mm-.png)
+
+![](../.gitbook/assets/moisture-regain-.png)
 
 ## Comparing Natural Fibers
 
