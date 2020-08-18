@@ -6,13 +6,26 @@ description: a process of interlacing yarns in multiple directions to produce a 
 
 The basic structure of weaving, no matter the type of loom, is the interlacing of yarns. You begin by preparing your warp yarns, or the series of tensioned that you will interlace. These are most often stretched parallel to each other but can also be arranged in other radial or triaxial patterns \(more common in basket weaving\). After these are stretched and of uniform tension, you weave a long thread in and out, or over and under, the warp yarns. The combination of overs and unders and the sequencing will determine the visual and structural nature of your fabric. After adding a row over and under the weft, you can beat or comb it down to form the fabric.  The structure that supports weaving is called a **loom** and techniques vary by the class and type of loom. As Annie Albers writes in her wonderful book "On Weaving",  any woven structure can be realized on any type of loom. The different looms, thus, just make particular actions more or less efficient or allow for different lengths of yarn. I've listed looms and techniques below by complexity. This is not an exhaustive list, but ones that are more common. 
 
+| Structure | Ability to be Woven |
+| :--- | :--- |
+| Raw Fiber | yes, if integrated into short regions of the weft, difficult |
+| Filament | yes \(for warp and weft\) |
+| Roving & Top | yes, if integrated into the weft  |
+| Singles | yes \(only in weft\) |
+| Plied Yarn | yes \(warp and weft\) |
+| Braided Rope | yes \(warp and weft\) |
+| Knits | yes for tubular knits,  narrow flat knits, or knits rolled and/or layed flat as weft |
+| Woven | yes for narrow, flat, or tubular weaves or rolled wovens into the weft  |
+| Non-Wovens | yes, if sliced or rolled into thin long pieces or rolled and placed in the weft |
+| Solid Objects | yes, especially if they are long and narrow, if they can be threaded through the weft, or otherwise integrated at weave time into the  pockets of a multi-layered structure. |
+
+## Process
+
 ### Selecting Yarn and Looms
 
 When beginning to weave, the materials and equipment are usually considered in tandem. Yarns for warping need to be durable and strong because they are placed under tension during the weaving process. Weft yarns can be just about anything, yet, for most beginning weavers, its good to start with warps and wefts that are of comparable size and materials. 
 
 The weaving density depends on the number of warp yarns per inch across the width of the loom. This is measured in "ends per inch" or epi. Weaving yarns are often soft with a suggestion of ends per inch which ought to match to your equipment. Some looms, like tapestry, rigid heddle looms, or jacquard looms, have fixed positions for you to stretch the warp into or heddles fixed at predetermined position and thus, you must find yarns to match your set up. Alternatively, you can always use less than the maximum density, so long as it still maintains the correct ratios and settings of your equipment. Other looms, like frame looms allow you to vary the density \(though you typically need to find a "reed" for beating that matches your desired density\). Most of the woven clothing you wear will be of a density that far exceeds what is possible on consumer grade equipment \(e.g. 100 epi\). Most craft weaving will consist of something around \(6-20 epi\)
-
-## Process
 
 ### Warping 
 
@@ -24,7 +37,7 @@ The diagram below shows the general process of weaving, particularly on a heddle
 
 ![](../../.gitbook/assets/simple_weaving_diagram.jpg)
 
-All woven structures are created from the selection of "unders" and "overs" on any given pic. These patterns are represented by [drafts]() that represent the minimal repeating unit that characterizes the fabric structure. If the weft travels UNDER the warp \(same as: a heddle lifting that warp \), the draft square is colored solid or black. If the weft travels OVER the warp \(same as: the heddle not being lifted at that warp\), the draft square is colored in white or transparent. Namely, if you repeat these drafts across the weft \(width\) and warp \(length\) of your fabric, you would create a fabric made entirely of that stitch. Stitches can also be alternated or shifted arbitrarily across the length or width, depending on the loom you are using. 
+All woven structures are created from the selection of "unders" and "overs" on any given pic. These patterns are represented by [drafts](./#documenting-and-patterning) that represent the minimal repeating unit that characterizes the fabric structure. If the weft travels UNDER the warp \(same as: a heddle lifting that warp \), the draft square is colored solid or black. If the weft travels OVER the warp \(same as: the heddle not being lifted at that warp\), the draft square is colored in white or transparent. Namely, if you repeat these drafts across the weft \(width\) and warp \(length\) of your fabric, you would create a fabric made entirely of that stitch. Stitches can also be alternated or shifted arbitrarily across the length or width, depending on the loom you are using. 
 
 ![](../../.gitbook/assets/loomstructure_updated.jpg)
 
@@ -42,26 +55,13 @@ The ordering of these selections has infinite possibilities, but the three most 
 
 Finishing is the process of removing the woven fabric from the loom and fastening the ends so it does not easily unravel. The easiest finishing method \(in my opinion\) is quickly running the ends of the fabric through a sewing machine. Typically, long ends of the warp are exposed on the front and back ends of the fabric, and can be left as fringe,  twisted into tassels, or cut off entirely. 
 
-| Structure | Ability to be Woven |
-| :--- | :--- |
-| Raw Fiber | yes, if integrated into short regions of the weft, difficult |
-| Filament | yes \(for warp and weft\) |
-| Roving & Top | yes, if integrated into the weft  |
-| Singles | yes \(only in weft\) |
-| Plied Yarn | yes \(warp and weft\) |
-| Braided Rope | yes \(warp and weft\) |
-| Knits | yes for tubular knits,  narrow flat knits, or knits rolled and/or layed flat as weft |
-| Woven | yes for narrow, flat, or tubular weaves or rolled wovens into the weft  |
-| Non-Wovens | yes, if sliced or rolled into thin long pieces or rolled and placed in the weft |
-| Solid Objects | yes, especially if they are long and narrow, if they can be threaded through the weft, or otherwise integrated at weave time into the  pockets of a multi-layered structure. |
-
 ## Documenting & Patterning
 
 Woven patterns are described by drafts, which are made using a grid structure with each cell of the grid representing the location of a warp and weft crossing each other. As such, these often describe the structure, but not the materials. A black cell denotes that the weft travels UNDER the warp at this location and a white cell denotes that the weft travels OVER the warp at this location.  So if you were going to draft an entire fabric, the number of cells in the width of the draft would  total number of warps in the fabric. The number of cells in the height would represent the number of pics. The convention in weaving is to represent your fabric in the smallest amount of units. Thus, if your entire fabric is made of repeating a series of pics over the width and length of the fabric, then you would represent only the repeating unit with a note at how many times it should be repeated \(or let the weaver decide for themselves\). 
 
 ![](../../.gitbook/assets/loomstructure_updated.jpg)
 
-Conventions in drafting have to do with the hardware that one is using for weaving. Often, jacquard looms require each instruction to be specified \(so the draft will represent the entire weave pattern\). Most looms use frames to support quick weaving of repeating patterns, and thus, these drafts often represent those patterns instead of the fabric overall. The draft represents corresponds to actions on a loom and how it relates to a given structure. 
+Conventions in drafting have to do with the hardware that one is using for weaving. Often, jacquard looms require each instruction to be specified \(so the draft will represent the entire weave pattern\). Most looms use frames to support quick weaving of repeating patterns, and thus, these drafts often represent those patterns instead of the fabric overall. The draft represents corresponds to actions on a loom and how it relates to a given structure.
 
 ## Historical Connections
 

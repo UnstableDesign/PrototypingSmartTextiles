@@ -1,14 +1,12 @@
----
-description: a woven structure has yarns that are interlaced in multiple directions.
----
-
 # Woven
 
 ![](../.gitbook/assets/tei_front_back_detail_2.jpg)
 
 A woven textile structure is created by interlacing material \(most often [plied yarn](plied-yarn.md) and[ filaments](filament.md)\) in two directions: the _warp_ \(threads running along the length\), and _weft_ \(threads running along the width\). These structures are created by stretching or "warping" a set of parallel yarns \(or radical yarns in circular weaving\), and then interweaving the weft yarns in a perpendicular direction to bind the textile together. The specific patterning of "overs" and "unders" gives the woven textile different thicknesses, ability to sheer, and durability, etc.
 
-![figures repressenting different structural possibilities](../.gitbook/assets/weave_details.jpg)
+![](../.gitbook/assets/weave_details.jpg)
+
+_figures representing different structural possibilities for woven fabrics_
 
 Because of their durability and less stretchy structure, woven fabrics are commonly used in upholstery, denim, and tailored garments like suits. They are also used in industrial applications to create composite materials or abrasion resistant pads or architectural materials \(e.g. wire meshes, etc\).
 
@@ -19,7 +17,7 @@ One of the strengths of weaving is its ability to easily create multi-layered st
 
 Because woven tend not to be stretchy and require less knotting or looping of materials \(in most cases\), weaving is often preferable for brittle materials or materials that do not bend well. Furthermore, the process of weaving makes it easy to integrate a wide variety of materials with a wide variety of widths into the structure, creating interesting textures and methods for integrating "hard" materials into their soft structure.
 
-Wovens are described by the materials, equipment \(e.g.yarn density represent\) and stitches used expressed in the form of [weaving patterns]().
+Wovens are described by the materials, equipment \(e.g.yarn density represent\) and stitches used expressed in the form of [weaving patterns](../process/weaving/#documenting-and-patterning).
 
 **Woven Structure Inspirations:**
 
@@ -32,5 +30,5 @@ Wovens are described by the materials, equipment \(e.g.yarn density represent\) 
 
 ### Primary Measurements:
 
-* woven fabrics are best expressed as [patterns]() or "drafts". Often, the draft is accompanied by details about the specific loom and materials used. These include "epi"  \(the number of warps/ends per inch\), as well as the materials used within each pic of the construction. 
+* woven fabrics are best expressed as [patterns](../process/weaving/#documenting-and-patterning) or "drafts". Often, the draft is accompanied by details about the specific loom and materials used. These include "epi"  \(the number of warps/ends per inch\), as well as the materials used within each pic of the construction. 
 

@@ -6,8 +6,6 @@ description: >-
 
 # Extruding / 3D Printing
 
-
-
 ## Extruding
 
 A second common process uses processes of extrusion. In these cases, materials are processed into a liquid like goo \(think play-doh\) and pressed through narrow openings named after a spider's "spinneret." The single streams of material emerging from the spinneret are either spun directly into fiber or deposited into liquid chemical baths as part of their structural formation. Often, extruding gives rise to filaments, where long continuous fibers are created. In other cases, the streams can be kept at deliberately short lengths to simulate more[ staple fiber](../structure/staple-fiber.md) like qualities \(think steel wool\).  

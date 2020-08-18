@@ -1,9 +1,3 @@
----
-description: >-
-  a process of adding twist to collections of fiber, thereby turning them into
-  singles and/or yarn.
----
-
 # Spinning
 
 Spinning is a process of adding twist to fibers \(in the form of top or roving\) such that they form into a more structured and "balanced" yarn, which means that it won't un-spin easily. Spinning top or roving  produces [singles](../../structure/singles.md), a single strand of twisted yarn. Singles are unbalanced \(their twist is only in one direction\) and their are not very durable. It is also possible to spin raw fibers around other structures, such as wires or filaments in a process of [core spinning](https://www.youtube.com/watch?v=7nAfv3O_Qrk). 
@@ -22,8 +16,6 @@ To spin, a spinner drafts, or feeds, a collection of fibers into their spinning 
 | Woven | no |
 | Non-Wovens | no |
 | Solid Objects | no |
-
-
 
 ## Historical Connections
 

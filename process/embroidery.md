@@ -12,7 +12,7 @@ Stabilizers
 
 
 
-| Structure | Ability to be Emboidered or Embroidered Upon by Hand | By Machine |
+| Structure | Ability to be Emboiderd or Embroidered Upon by Hand | By Machine |
 | :--- | :--- | :--- |
 | Raw Fiber | no | no |
 | Filament | yes? \(perhaps through laying? or by hand.  | no? |

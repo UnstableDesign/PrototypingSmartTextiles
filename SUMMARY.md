@@ -25,7 +25,11 @@
   * [Drop Spindle Spinning](process/spinning/drop-spindle-spinning.md)
   * [Spinning Wheel Spinning](process/spinning/spinning-wheel-spinning.md)
 * [Extruding / 3D Printing](process/extruding-3d-printing.md)
-* [Plying](process/plying.md)
+* [Plying](process/plying/README.md)
+  * [Ad Hoc Plying](process/plying/ad-hoc-plying.md)
+  * [Plying with a Rope Machine](process/plying/plying-with-a-rope-machine.md)
+  * [Plying with a Drop Spindle](process/plying/plying-with-a-drop-spindle.md)
+  * [Plying on a Spinning Wheel](process/plying/plying-on-a-spinning-wheel.md)
 * [Braiding](process/braiding.md)
 * [Paper-Making](process/paper-making.md)
 * [Growing](process/growing.md)
@@ -64,7 +68,6 @@
 
 ## Dynamics
 
-* [Dynamics](dynamics/dynamics.md)
 * [Circuit Basics](dynamics/circuit-basics.md)
 * [Traces](dynamics/untitled.md)
 * [Connections](dynamics/connections.md)
