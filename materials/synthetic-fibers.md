@@ -28,5 +28,31 @@ Nylon was invented by DuPont chemical and is created using a coal and crude oil 
 
 Rayon is a synthetic fiber that a form of "regenerated cotton." Specifically, it is processed from wood pulp.  
 
+* A campy old film about Nylon and Rayon \(nylon at 7:00\) [https://www.youtube.com/watch?v=8JEpSeDobpo](https://www.youtube.com/watch?v=8JEpSeDobpo)
 
+| Structure | Possibility to Source in this Structure |
+| :--- | :--- |
+| Fiber | Easy \(cut filament\) |
+| Roving | Easy |
+| Plied Yarn | Easy  |
+| Braided Rope | Easy  |
+| Filament | Easy |
+| Knit | Easy |
+| Woven | Easy  |
+| Non-Woven | Easy \(e.g. [http://www.yaolongnonwoven.com/en/PA6/](http://www.yaolongnonwoven.com/en/PA6/)\) |
+
+## Acrylic
+
+Acrylic is another polymer based yarn that contains at least 85% [acrylonitrile](https://en.wikipedia.org/wiki/Acrylonitrile) [monomer](https://en.wikipedia.org/wiki/Monomer). It is commonly found in fabric shops in a wide range of bright colors and textures. 
+
+| Structure | Possibility to Source in this Structure |
+| :--- | :--- |
+| Fiber | Easy \(cut filament\) |
+| Roving | Easy |
+| Plied Yarn | Easy  |
+| Braided Rope | Not Sure |
+| Filament | Easy |
+| Knit | Easy |
+| Woven | Easy  |
+| Non-Woven | Yes? |
 

@@ -56,7 +56,7 @@
 * [Protein Fibers](materials/protein-fibers.md)
 * [Cellulose Fibers](materials/cellulose-fibers.md)
 * [Synthetic Fibers](materials/synthetic-fibers.md)
-* [Nylon](materials/nylon.md)
+* [Metallic Fibers](materials/metallic-fibers.md)
 * [Rayon](materials/rayon.md)
 * [Acrylic](materials/acrylic.md)
 * [Silver](materials/silver.md)
