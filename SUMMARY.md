@@ -51,20 +51,19 @@
 * [Electrospinning](process/electrospinning.md)
 * [Sewing](process/sewing.md)
 
-## Materials <a id="materials-1"></a>
+## Materials
 
-* [Wool](materials-1/wool.md)
-* [Cotton](materials-1/cotton.md)
-* [Linen / Flax](materials-1/linen-flax.md)
-* [Silk](materials-1/silk.md)
-* [Nylon](materials-1/nylon.md)
-* [Rayon](materials-1/rayon.md)
-* [Acrylic](materials-1/acrylic.md)
-* [Silver](materials-1/silver.md)
-* [Nickel](materials-1/nickel.md)
-* [Stainless Steel](materials-1/stainless-steel.md)
-* [Copper](materials-1/copper.md)
-* [Experimental Materials](materials-1/experimental-materials.md)
+* [Protein Fibers](materials/protein-fibers.md)
+* [Cellulose Fibers](materials/cellulose-fibers.md)
+* [Synthetic Fibers](materials/synthetic-fibers.md)
+* [Nylon](materials/nylon.md)
+* [Rayon](materials/rayon.md)
+* [Acrylic](materials/acrylic.md)
+* [Silver](materials/silver.md)
+* [Nickel](materials/nickel.md)
+* [Stainless Steel](materials/stainless-steel.md)
+* [Copper](materials/copper.md)
+* [Experimental Materials](materials/experimental-materials.md)
 
 ## Dynamics
 
