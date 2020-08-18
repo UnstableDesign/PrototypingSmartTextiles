@@ -46,27 +46,7 @@ Flax is grown in fields and processed by hand or machines as shown [here](https:
 | Woven | Easy \(more common\) |
 | Non-Woven | unsure of any non-woven linen products |
 
-## \*\*\*\*
-
-
-
-
-
 \*\*\*\*
-
-\*\*\*\*
-
-{% embed url="https://www.linenfabrics.co.uk/linen-fabrics-wholesaler-properties-of-linen" %}
-
-### Linen
-
-| General  |
-| :--- |
-| Staple Length: 25-150 mm |
-| Fiber Diameter: 12-16 microns |
-| Moisture Regain: 12%  |
-| Elasticity: Not Great |
-| Conductivity: OK |
 
 
 

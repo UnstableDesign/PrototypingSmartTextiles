@@ -54,15 +54,10 @@
 ## Materials
 
 * [Protein Fibers](materials/protein-fibers.md)
+* [Comparing Materials](materials/comparing-materials.md)
 * [Cellulose Fibers](materials/cellulose-fibers.md)
 * [Synthetic Fibers](materials/synthetic-fibers.md)
 * [Metallic Fibers](materials/metallic-fibers.md)
-* [Rayon](materials/rayon.md)
-* [Acrylic](materials/acrylic.md)
-* [Silver](materials/silver.md)
-* [Nickel](materials/nickel.md)
-* [Stainless Steel](materials/stainless-steel.md)
-* [Copper](materials/copper.md)
 * [Experimental Materials](materials/experimental-materials.md)
 
 ## Dynamics
