@@ -55,11 +55,23 @@ Is the inverse of conductivity and expresses how resistive a material is \(gener
 
 Static refers to the ability for the material to build up a charge and seem to correlate to how thermally conductive the material is. Wool is said to be naturally anti-static where silk can build up a charge. This depends on the chemical makeup as well as the moisture holding ability of each fiber. Metals are anti-static in that they are highly conductive, moving charges readily through their structure instead of allowing electrons to collect on the surface. Static also causes clothing to "cling."
 
+ 
 
+|  | Superfine Wool | Worsted Wool | Cotton | Linen | Silk | Nylon | Rayon \(Viscose\) | Acrylic | Silver | Copper | Stainless |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Anti-Static | Yes | Yes | ? | ? | Poor in Dry Conditions, Good in Wet | unsure | unsure | Good | Good | Good | Good |
+
+### 
 
 ### Thermal Conductivity
 
 Thermal conductivity describes how easily heat moves through the material. Wool has low thermal conductivity because it can hold heat within its structure \(radiating warmth in cold weather or keeping you cool in hot weather\). A material with low thermal conductivity will feel warm to the touch \(like wool\). A material with high conductivity will keep you cool and may feel cool to the touch \(like linen\). 
+
+  
+
+|  | Superfine Wool | Worsted Wool | Cotton | Linen | Silk | Nylon | Rayon \(Viscose\) | Acrylic | Silver | Copper |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Thermal Conductivity | Poor - 0.04 \(W/m K\) | Poor - 0.04 \(W/m K\) | Good | Higest \(heat resistant - feels cool to touch, does not melt\) | Poor |  |  | OK | 406 \(W/m K\) | 385 \(W/m K\) |
 
 ## **Other Measures**
 
@@ -87,9 +99,30 @@ This refers to how much moisture the fiber can absorb. Its mostly related to wei
 
 Some fibers perform differently wet than dry. For instance, wool if very strong when dry and very weak when wet \(hence no machine washing\). Cotton, on the other hand, is stronger when its wet than dry. We include these as general measures and they most closely correspond to machine-washability. 
 
+
+
+|  | Superfine Wool | Worsted Wool | Cotton | Linen | Silk | Nylon | Rayon \(Viscose\) | Acrylic | Silver | Copper | Stainless |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Fire Resistance | Good | Good |  | Very Poor |  | OK \(but melts\) |  | Poor, Burns |  |  |  |
+| UV Resistance | Good | Good | Poor | Poor | UV Weakens Fibers |  |  | Great |  |  |  |
+| Anti-Microbial | Good | Good | Poor | Good |  |  |  | ? |  |  |  |
+| Moisture Wicking | Good | Good | Poor | Good | Good |  |  |  |  |  |  |
+| Moisture Absorbant | Good | Good |  | Good |  |  |  | Poor |  |  |  |
+| Dry Strength | Good | Good | Good | Great | Good | Great | Poor |  |  |  |  |
+| Wet Strength | Poor | Poor | Better | Better |  | Great | Poor |  |  |  |  |
+
 ## **Sustainability Measures**
 
 There were so many measures we could have included here but we found it difficult to find comparative information across the ones we included. Other factors that affect sustainability are the region of growth, the need for pesticides, the water use for growing, as well as the water and chemical use often used to process the fibers into a usable form. Another factor are the sourcing of the materials. For instance, bamboo from "managed forests" can be seen as more sustainable than bamboo that is harvested \(and not replanted\). In the chart, we include general measures about renewability and biodegradability \(and all measures assume the material is undyed, untreated with coating or chemical treatments\). The general trend shows that natural fibers are renewable and biodegradable in shorter spans than synthetic materials. However all these features depend on the particular environmental factors affecting the biodegrading. My my personal opinion, I tend to hold wools and linens in my mind as more sustainable due to their availability and yield. For linen especially, the low water use is a bonus. 
+
+
+
+ 
+
+|  | Superfine Wool | Worsted Wool | Cotton | Linen | Silk | Nylon | Rayon \(Viscose\) | Acrylic | Silver | Copper | Stainless |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Renewable Resource | Yes | Yes | Yes | Yes | Yes | No | ? | No | No | No | No |
+| Biodegrades | 100%, 3-4 months | 100%, 3-4 months | 100% 1week - 1 year | 100%, 2 weeks | Ok, 4 years | Poor | ? | ? | ? | ? | ? |
 
 ## Sources
 
