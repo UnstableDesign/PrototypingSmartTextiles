@@ -8,7 +8,7 @@ We have organized this information within fiber groups and across fiber groups w
 
 ## General Measures
 
-#### **Staple Length**: 
+### **Staple Length**: 
 
 for staple fibers, this describes the range of lengths available for each fiber. Measured in millimeters. Staple length is usually given in a range. In the chart below, we plotted the minimum possible staple length - showing linen to be the shortest and silk, by far, to be the longest. Longer staple length fibers require less individual fibers in spinning \(allowing them to be finer\). This measure is somewhat irrelevant for synthetic fibers, which are extruded and cut into any length. 
 
@@ -16,7 +16,7 @@ for staple fibers, this describes the range of lengths available for each fiber.
 
 
 
-#### **Fiber Diameter:** 
+### **Fiber Diameter:** 
 
 For staple fibers, this describes the range of widths for each fiber type and its measured in microns. The chart below shows the minimum diameter possible for each fiber, with silk being the finest and worsted wool being the most coarse. The finer the fiber, the lighter and finer the yarn. This number is somewhat irrelevant for filaments, which can be extruded at different diameters depending on the equipment used. 
 
@@ -29,29 +29,33 @@ For staple fibers, this describes the range of widths for each fiber type and it
 
 ![](../.gitbook/assets/moisture-regain-.png)
 
-### **Elasticity** 
 
-a general measure of how elastic the fiber is, from good to poor.  Wool tends to be very elastic, linen and silk are not \(meaning that if you stretch them, they remain stretched and don't return to previous state\). 
 
 ### **Crimp**
 
-The level of crimp in staple fibers imbues them with the ability to be spun easily and hold air. To indicate if the fiber is crimped or not, we simply indicate yes or no. Wool is naturally crimped and some synthetics are given a crimp to aid in different textures. 
+The level of crimp in staple fibers imbues them with the ability to be spun easily and hold air. To indicate if the fiber is crimped or not, we simply indicate yes or no. Wool is naturally crimped and some synthetics are given a crimp to aid in different textures. For metallics, it was harder to find out but in working with stainless I find the texture \(of stainless fibers\) to be very "grabby" or barbed, which indicates to me that it might bend and hold a kind of crimped structure.  
+
+|  | Superfine Wool | Worsted Wool | Cotton | Linen | Silk | Nylon | Rayon \(Viscose\) | Acrylic | Silver | Copper | Stainless |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Crimp: | Yes | Yes | No | No | No | can be added | can be added | can be added | no? | no? | yes? |
 
 ## Electrical Measures
-
-### **Conductivity**
-
-We use it as a general term to describe if it is a good or bad conductor compared to the other fibers in the category. All natural fibers are terrible conductors \(compared to metallics\) but some are more conductive than others. This depends largely on the moisture of the fiber at the time of measuring. 
 
 ### **Resistivity** 
 
 Is the inverse of conductivity and expresses how resistive a material is \(generally\). The specific resistance of your material will always depend on its preparation \(e.g. width, length, temperature, humidity, etc. so these are only to be considered in comparison to each-other. The chart below shows resistivity across all materials in our collection. The log scale on the y-axis should be noted and was used to keep very large values on the same graph. Metallic materials has much more consistent measures of resistivity where natural fibers like cotton and linen did not \(or I made up a number based on information that it was 'more' or 'less" resistive than another\). Because natural fibers absorb water and hold more air in their structures, they have exhibit dramatic changes in resistivity. 
+
+|  | Superfine Wool | Worsted Wool | Cotton | Linen | Silk | Nylon | Rayon \(Viscose\) | Acrylic | Silver | Copper | Stainless |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Resistivity | \(2.0 ± 0.1\)x10^6 | \(2.0 ± 0.1\)x10^6 | [9.53×10^9](http://composites.utk.edu/papers%20in%20pdf/Fibers-polymer_2016.pdf) |  | said to be higher than cotton and wool | insulator when dry | [3.6\*10^11](https://link.springer.com/article/10.1007/s10570-016-1107-7) |  | 1.59x10^-8 | 1.68×10^−8 | 6.9×^10−7 |
 
 ![](../.gitbook/assets/resistivity-by-fiber-generally-.png)
 
 ### **Anti-Static**
 
 Static refers to the ability for the material to build up a charge and seem to correlate to how thermally conductive the material is. Wool is said to be naturally anti-static where silk can build up a charge. This depends on the chemical makeup as well as the moisture holding ability of each fiber. Metals are anti-static in that they are highly conductive, moving charges readily through their structure instead of allowing electrons to collect on the surface. Static also causes clothing to "cling."
+
+
 
 ### Thermal Conductivity
 
