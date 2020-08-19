@@ -28,7 +28,7 @@ Silver is said to have anti-odor and anti-bacterial properties that make it popu
 
 Below we show several ways that silver is integrated into yarn below: 
 
-![](../.gitbook/assets/img_9235.jpg)
+![](../.gitbook/assets/img_9236.jpg)
 
 In this "[Silver Spun"  product](https://www.jimmybeanswool.com/knitting/yarn/FeelGoodYarn/SilverSpunreg.asp?showLarge=true&specPCVID=89997), silver \(5%\) is plied with combed cotton \(87%\), Nylon \(5%\) and Spandex \(3%\). It is very soft and stretchy. 
 
@@ -105,7 +105,7 @@ Stainless is not quite as conductive as copper and silver. It is more often made
 Conductive Materials, like stainless steel, can be purchased as roving and hand spun:  
 [https://www.mielkesfiberarts.com/product/stainless-steel-conductive-fiber/](https://www.mielkesfiberarts.com/product/stainless-steel-conductive-fiber/)
 
-I was able to pur
 
 
+![](../.gitbook/assets/img_9243.jpg)
 
