@@ -1,10 +1,6 @@
----
-description: commonly used umbrella terms that can be used many ways.
----
-
 # Yarn / Thread
 
-The terms yarn and thread typically means any material that is super long and thin. However, they are not indicative of a particular structure. 
+The terms yarn and thread typically describe any material that is long and thin. However, they are not indicative of a particular structure. 
 
 A thread describes a very thin yarn, so "yarn" is the broader term. Both threads and yarns can take the form of [filament](filament.md), [singles](singles.md), [plied yarn](plied-yarn.md), [core-spun yarn](core-spun-yarn.md), or [braids](braid.md). 
 
