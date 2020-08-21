@@ -33,3 +33,28 @@ Irene Posch's Collection of Handmade Connectors for Soft Electronics:
 Adapted Seem Ripper:  
 [https://www.plusea.at/?p=2220](https://www.plusea.at/?p=2220) 
 
+
+
+
+
+| Process | Example |
+| :--- | :--- |
+| Combing and Carding |  |
+| Spinning |  |
+| Extruding/3D printing |  |
+| Plying | Plying the connecting materials together or plying one material around another |
+| Braiding  | Braiding the connecting materials together in sheath or connecting core and sheather |
+| Paper-Making |  |
+| Growing |  |
+| Knitting |  |
+| Weaving |  |
+| Embroidery | Embroidering directly into the through-holes of hardware.  |
+| Felting | Connecting with needle or wet felting? |
+| Coating  |  |
+| Dying |  |
+| Bonding |  |
+| Etching |  |
+| Pleating |  |
+| Electrospinning |  |
+| Sewing | Sewing and knotting is most common or sewing onto snaps and snapping together.  |
+

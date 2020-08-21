@@ -11,6 +11,11 @@ description: >-
 a collection of how to's, resources, and inspirations for all kinds of soft making. Compiled from examples created by Hannah Perner Wilson and Mika Satomi.    
 [https://www.kobakant.at/DIY/](https://www.kobakant.at/DIY/)
 
+### Stitching Worlds
+
+Stitching Worlds "connects the shared artistic research territory between arts, design, open culture, digital fabrication, information technology and electronics to the engineering and scientific methodologies of textile technology." Their website contains a series of publications and well documented examples of techniques.   
+[https://www.stitchingworlds.net/category/experimentation/](https://www.stitchingworlds.net/category/experimentation/)
+
 ### Chimera Wearables Database
 
 a collection of research articles and industry wearables projects organized by metrics such as patents and/or application areas.     
