@@ -2,7 +2,7 @@
 
 In some projects, you may want to select fibers based on the properties you need and its useful to be able to look at them side by side and see which you might prefer. To help this, we have attempted to put information about each fiber in a common space. These, however, are incredibly general as some measurements \(e.g. resistivity\) will vary greatly on the specific preparation of the material for use in a textile. 
 
-If you would like to review all the data in one common location, you can visit this [Google Spreadsheet we put together](https://docs.google.com/spreadsheets/d/1YEAAxypWbwPctBzfyNWZ6mH-7f-Pn4piLHHMTRpUJpQ/edit#gid=0). 
+If you would like to review all the data in one common location, you can visit this [Google Spreadsheet we put together](https://docs.google.com/spreadsheets/d/1YEAAxypWbwPctBzfyNWZ6mH-7f-Pn4piLHHMTRpUJpQ/edit#gid=0). Kobakant also has an amazing resource about the different constructions and comparisons for materials and yarns as well: [https://www.kobakant.at/DIY/?p=8012](https://www.kobakant.at/DIY/?p=8012)
 
 We have organized this information within fiber groups and across fiber groups where it makes sense. Because of the different sourcing traditions of textile fibers and things like conductive materials, it was not always possible to find information that was comparable across cases. The specific qualities I included are as follows: 
 
