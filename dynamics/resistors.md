@@ -8,7 +8,13 @@ In traditional electronics, you typically purchase resistors of set values that 
 
 ### Weaving Resistors
 
+For weaving resistors, its common to simply throw a conductive/resistive yarn every so many pics so that it is sure not to touch. I find throwing every 2 pics is typically good enough to prevent shorts. 
+
 ### Knitting Resistors
 
- \(knitted radio examples\)
+Knitting resistors can be accomplished by carrying-along a resistive yarn with the knitted structure or replacing certain rows with a resistive material. Ebru Kurbak provides a nice detail on how knitted resistors were accomplished in the Knitted Radio project: [https://ebrukurbak.net/the-knitted-radio/](https://ebrukurbak.net/the-knitted-radio/)
+
+
+
+
 
