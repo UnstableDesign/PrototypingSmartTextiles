@@ -14,8 +14,15 @@ Lets start with a [McKibben artificial muscle](https://softroboticstoolkit.com/b
 
 pleating, folding, switch
 
-auxetic structures \(jifei, benhaz\)
+auxetic structures \(jifei, benhaz\)  
+  
+Mechanical Characterization   
+[https://www.youtube.com/watch?v=Fbqn-swwf-Q](https://www.youtube.com/watch?v=Fbqn-swwf-Q)  
+  
+Sample Auxetic structures:   
+[https://www.youtube.com/watch?v=dVge8FHcIbI](https://www.youtube.com/watch?v=dVge8FHcIbI)
 
+  
 tendons \(lea's paper\)  
   
 biologic \(lining\)  
