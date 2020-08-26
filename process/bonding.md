@@ -6,3 +6,5 @@ description: >-
 
 # Bonding
 
+[https://wikifactory.com/+ctc/stories/laser-welding-and-cutting-synthetic-non-woven-fabrics](https://wikifactory.com/+ctc/stories/laser-welding-and-cutting-synthetic-non-woven-fabrics)
+

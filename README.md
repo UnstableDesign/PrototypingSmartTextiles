@@ -63,7 +63,18 @@ The 2020 report from the [Global E-Waste Monitor](https://globalewaste.org/) rep
 
 ### Confronting of Cultural Appropriation 
 
-@steven to write this section 
+In the world of textiles and fashion, people often learn through making. They see a textile they respond to and then learn the techniques that helped create that object. The digital loom is the result of one a long history of trade, colonization, and industrialization. In Anni Albers’ seminal text, On Weaving, she points out that in contemporary digital looms each part can be traced to the different cultures that build on the knowledge of another to improve the loom’s function \(Albers, 24\). Albers proceeds to outline how each part of the loom is important to the creation of textile but she fails to acknowledge many of the people and cultures that contributed to this incredible tool. This lack of acknowledgment and the purely formal description of the technology that was developed as part of long-standing cultural traditions is an example of appropriation.
+
+In 2016 the Navajo Nation received an undisclosed amount of money from Urban Outfitters because a court found their use of the word Navajo in their “Navajo hipster panties” and a “Navajo print flask” were violations of the Navajo Nation’s 1943 copyright on the word. The prints themselves were not protected under copyright. Urban outfitters also famously popularized the trend of wearing Palestinian-style keffiyehs and marked them as “anti-war woven scarfs” in the early 00’s. They turned textile traditions into fast fashion trends because copyright does not pertain to fabric designs. That does not mean it wasn’t appropriation. 
+
+Appropriation occurs when techniques and motifs and removed from their original context and used in ways that flatten original meaning. It can be a violent act. In the Urban Outfitter case the “Navajo print flask” was tone-deaf to the ways the Navajo people have suffered disproportionately from alcoholism since being murdered, raped, and forced from their traditional lands by white settlers.
+
+Does this mean that non-Navajo people can’t be inspired by their designs and unique techniques? No, but textile designers should avoid copying culturally specific designs and they need to acknowledge indigenously derived techniques when they become part of their own practices. Appropriation as an act is connected to centuries of colonization, where a dominant cultural group adopts another group’s technology into their own. Colonizers may see appropriation as a compliment but the people whose culture they’ve decontextualized receive little to nothing from this act and intern they been transformed into a cultural commodity.
+
+The field of textiles is particularly guilty of cultural appropriation. From fast fashion to weaving workshops on YouTube, it is not hard to spot. Like all scholars, designers need to acknowledge the source of work, the ways they came to their knowledge, and people who developed the techniques they use. 
+
+_Cite: Albers, A. \(1965\). Chapter 2 the loom. In Anni Albers: On weaving. Studio Vista: London._  
+
 
 ### Confronting Socio-Cultural Legacies of Textiles and Electronics Labor
 

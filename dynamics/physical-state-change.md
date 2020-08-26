@@ -2,6 +2,8 @@
 
 ## Shape Change
 
+[https://parametrichouse.com/responsive-textiles/](https://parametrichouse.com/responsive-textiles/)
+
 pneumatics / jamming
 
 artificial muscles
