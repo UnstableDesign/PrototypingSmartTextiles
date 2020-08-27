@@ -29,11 +29,20 @@ History of E-Textiles written by Hannah Perner Wilson and Irene Posch \(German\)
 ### e-textile swatch exchange
 
 a digital/physical collection of inspirations and techniques created at e-textiles summer camp.     
-[http://etextile-summercamp.org/swatch-exchange/](http://etextile-summercamp.org/swatch-exchange/)  
-
+[http://etextile-summercamp.org/swatch-exchange/](http://etextile-summercamp.org/swatch-exchange/)
 
 ### Design Research Lab Database
 
 A knit sensor & actuator database created by folks at the Design Research Lab  
 [interactex.de/](http://interactex.de/)
+
+### WEAR Sustain Knowledge Platform
+
+To quote their about page, this resource "provides guidelines and best practices for design, materials circularity, and product life-cycle development**"**  
+[https://wearsustain.eu/dashboards/home](https://wearsustain.eu/dashboards/home)
+
+### Textiel Lab Sample Studio
+
+A collection of new fabrication techniques and outcomes for woven and knitted textiles.  
+[https://samplestudio.textiellab.nl/](https://samplestudio.textiellab.nl/)
 
