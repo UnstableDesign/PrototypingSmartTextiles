@@ -10,6 +10,7 @@ The kinds of yarns that we have ordered and have in the lab recently come from v
 | [Less EMF](https://www.lessemf.com/fabric.html) | Random offerings of shielding materials, such as conductive yarn. | Pretty simple for US folk. | Neither. |
 | [Elektrisola](https://www.elektrisola.com/en/hf-litz-wire-litz.html) | Wide range of insulated copper wires that can get VERY thin | Simple, often accessible through suppliers like Amazon. | Wire |
 | [Craft Wires](https://www.wires.co.uk/) | Some interesting offerings of textile covered wires that look and feel like thread | Simple though online shop, labeling makes it difficult to know exactly what you are getting | Wire |
+| [Giovannia Imperia](https://giovannaimperia.com/) | Interesting experimental yarns ranging from thin wires to thermoplastics | Online shop available, never used | Yarn |
 
 Lovely community members have also contributed amazing reviews of different yarns and their ability to withstand different machine processes.
 

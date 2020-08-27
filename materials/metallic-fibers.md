@@ -113,7 +113,7 @@ Stainless steel is an alloy made from[ iron and chromium](https://en.wikipedia.o
       <td style="text-align:left">Filament</td>
       <td style="text-align:left">Available (via <a href="https://www.swicofil.com/commerce/products/stainlesssteel/495/filament">Swico</a>,
         <a
-        href="https://www.bart-francis.be/index.php?item=--150-meter_cone&amp;action=article&amp;group_id=50&amp;aid=4288&amp;lang=EN">multifilament via Bart &amp; Francis</a>)</td>
+        href="https://www.bart-francis.be/index.php?item=--150-meter_cone&amp;action=article&amp;group_id=50&amp;aid=4288&amp;lang=EN">multifilament via Bart &amp; Francis</a>, <a href="https://giovannaimperia.com/metal/wire/extra-fine-stainless-steel.html">Thin Strands</a>)</td>
     </tr>
     <tr>
       <td style="text-align:left">Knit</td>
