@@ -16,5 +16,5 @@ Lovely community members have also contributed amazing reviews of different yarn
 * [https://www.kobakant.at/DIY/?p=379](https://www.kobakant.at/DIY/?p=379)
 * [https://fashioningtech.com/2009/02/25/conductive-thread-overview/](https://fashioningtech.com/2009/02/25/conductive-thread-overview/)
 
-If you are making your own hybrid yarns, then you will also need to combine them with materials like linen, cotton, wool, silk etc. For those kinds of supplies, we typically order from [Halcyon Yarns](https://halcyonyarn.com/) or the [Woolery](https://woolery.com/). If you just want to be inspired by the glory of fiber and yarn, you can shop [Habu Yarns](https://www.habutextiles.com/collections/yarn?page=4) to source things like horse hair and paper yarns.
+If you are making your own hybrid yarns, then you will also need to combine them with materials like linen, cotton, wool, silk etc. For those kinds of supplies, we typically order from [Halcyon Yarns](https://halcyonyarn.com/) or the [Woolery](https://woolery.com/). If you just want to be inspired by the glory of fiber and yarn, you can shop [Habu Yarns](https://www.habutextiles.com/collections/yarn?page=4) or [Weaver House](https://www.weaverhouseco.com/fiber-yarn) to source things like horse hair, banana, and paper yarns.
 

@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/5482951525_d1d8b5cf5d_k.jpg)
 
-Image Caption: Roving \(the form shown on the right\) pictured alongside [singles](singles.md) and spun yarn on a [drop spindle](../process/spinning/drop-spindle-spinning.md). Credit: Lisa Dusseault on Flickr
+_Image Caption: Roving \(the form shown on the right\) pictured alongside_ [_singles_](singles.md) _and spun yarn on a_ [_drop spindle_](../process/spinning/drop-spindle-spinning.md)_. Credit: Lisa Dusseault on Flickr_
 
 Roving and or Top describe fibers that have been given and initial structure to hold them together, but have not yet been given any twist. These are produced by processes of [combing or carding](../process/combing-and-carding.md) individual fibers into into a common direction prior to [spinning](../process/spinning/). Typically, [carding](../process/combing-and-carding.md) fibers entangling them in multiple directions \(think a dreadlock\). Collections of fibers prepared in this fashion referred to as "woolen" and sold under the name **roving**. Thus, roving adds a springy and airy quality to a yarn when it is spun. Alternatively, some fibers are prepared through combing \(like a pony tail\) which aligns the individual fibers in a single direction and often removes fibers of unusual length. Fibers prepared by [combing](../process/combing-and-carding.md) are called "worsted" and sold as **top**. Worsted preparations tend to produce stronger and denser yarns when they are spun.
 

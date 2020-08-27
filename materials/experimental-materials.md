@@ -4,7 +4,15 @@
 
 [https://www.youtube.com/watch?v=4XDJC64tDR0](https://www.youtube.com/watch?v=4XDJC64tDR0)
 
-[https://www.youtube.com/watch?v=Lt2vGlC4uRc](https://www.youtube.com/watch?v=Lt2vGlC4uRc)
+
+
+Other Carbon yarns
+
+[https://resistex.com/en/carbon/](https://resistex.com/en/carbon/)
+
+## Bio-Ceramic
+
+[https://resistex.com/en/bioceramic/](https://resistex.com/en/bioceramic/)
 
 ## Recent Synthetic Yarns
 
