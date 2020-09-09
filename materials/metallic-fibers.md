@@ -140,9 +140,7 @@ Conductive Materials, like stainless steel, can be purchased as roving and hand 
 
 ![](../.gitbook/assets/img_9243.jpg)
 
-Plusea demonstrates the various reactions of stainless blends with magnets. 
-
-{% embed url="https://www.youtube.com/watch?v=In212gmWD-4" %}
+Plusea d[emonstrates the various reactions of stainless blends with magnets](https://www.youtube.com/watch?time_continue=2&v=In212gmWD-4&feature=emb_title). 
 
 ## Nichrome
 
