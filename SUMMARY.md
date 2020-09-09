@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Prototyping Smart Textiles](README.md)
-* [How to Contribute](untitled.md)
+* [How to Contribute](contribute.md)
 
 ## Structure
 
@@ -63,7 +63,7 @@
 ## Dynamics
 
 * [Circuit Basics](dynamics/circuit-basics.md)
-* [Traces](dynamics/untitled.md)
+* [Traces](dynamics/traces.md)
 * [Connections](dynamics/connections.md)
 * [Insulation](dynamics/insulation.md)
 * [Resistors](dynamics/resistors.md)
