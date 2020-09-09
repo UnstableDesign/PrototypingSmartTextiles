@@ -5,7 +5,7 @@
   
 singles describes the first structure that emerges after roving or top are given spin. Most yarns are often made from several strands of singles. 
 
-Singles are produced when [roving or top](roving-and-top.md) are twisted in the process of [spinning](../process/spinning/), turning into a longer yarn-like structure. Most yarns are created through one or more singles joined together, in a process called [plying](../process/plying/) which adds additional structure and texture to yarn. The amount of twist within singles is said to imbue it with a certain amount of "energy." This energy can be harnessed in knitting and weaving to create different[ elastic or dimensional shapes and structures](https://www.amazon.com/Weaving-Textiles-That-Shape-Themselves/dp/1847973191).  
+Singles are produced when [roving or top](roving-and-top.md) are twisted in the process of [spinning](../process/spinning/), turning into a longer yarn-like structure. Most yarns are created through one or more singles joined together, in a process called [plying](../process/plying/) which adds additional structure and texture to yarn. The amount of twist within singles is said to imbue it with a certain amount of "[energy](https://www.interweave.com/article/knitting/what-is-energized-yarn/)". This energy can be harnessed in knitting and weaving to create different[ elastic or dimensional shapes and structures](https://www.amazon.com/Weaving-Textiles-That-Shape-Themselves/dp/1847973191), or to create a form of weaving known as "[collapse weaving](https://www.youtube.com/watch?v=SwmMujRY_Dc)".  
 
 ### **Primary Measurements**
 
