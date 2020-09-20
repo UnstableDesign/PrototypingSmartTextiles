@@ -35,6 +35,8 @@ Electricity flows from power \(often from a battery, wall outlet, or [microcontr
 
 Traces are another way that electricity gets from one place to another. It is a particular path of for electricity to follow and are made from conductive materials. We catalog several method for textile based traces on the [Traces](traces.md) page. [Insulation](insulation.md) describes materials that do not allow electricity to flow through them. When paired with traces, insulation allows you to block electricity from flowing in particular directions. The flow of electricity can be turned on or off, or routed in different directions through [buttons and switches](buttons-and-switching.md). To flow electricity through various components in a circuit, you will need to explore different methods for [connecting](connections.md) things together. This can be as simple as a knot or more complicated if you need to connect you soft textile circuit to a hard material. 
 
+
+
 ## Sensors
 
 A sensor describes an arrangement of materials that changes its electrical properties in response to some external stimulus \(light, pressure, proximity, electromagnetic fields\). These changes in the electrical properties can be measured by multimeter, micro-controller, and/or computer, and thus, can be used to trigger certain computational processes.  Sensors are sometimes classified by the property that is tracked for changes. In this book we have sections devoted to [resistive sensors](resistive-sensors.md), [capacitive sensors](capacitive-sensors.md), and sensors that detect electromagnetic fields \([microphones](speakers-microphones.md)\) and/or radio waves \([antennas](aentennas.md)\). 
