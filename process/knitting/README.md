@@ -6,7 +6,7 @@ description: >-
 
 # Knitting
 
-Knitted structures are produced through combinations of two primary stitches. Those stitches, used in particular combinations and will particular equipment, give rise to all knitted fabrics and can be used to make flat surfaces or shapes of an arbitrary volume.  These structured are most often achieved through the use of needles or hooks manipulated by hand or machine, as each stitch is essentially a method of pulling one loop through another loop. Knits and an inherently stretchy structure that can easily unravel.
+Knitted structures are produced through combinations of two primary stitches \(knit and purl\). Those stitches, used in particular combinations and will particular equipment, give rise to all knitted fabrics and can be used to make flat surfaces or shapes of an arbitrary volume.  These structured are most often achieved through the use of needles or hooks manipulated by hand or machine, as each stitch is essentially a method of pulling one loop through another loop. Knits and an inherently stretchy structure that can easily unravel.
 
 | Structure | Ability to be Knitted |
 | :--- | :--- |

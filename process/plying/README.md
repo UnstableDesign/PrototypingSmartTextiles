@@ -12,7 +12,7 @@ Plying is most often used to make a yarn "balanced." Meaning that the yarn conta
 
 ![describing twist direction: PKM / Public domain](../../.gitbook/assets/yarn_twist-1.png)
 
-If you want to ply yarns together, here is what you do. Each of the singles strands is already contains a twist \(lets say Z-twist\) in one direction. Align all your singles so they are oriented in the same direction \(all Z-twist\) and then join them together by twisting them together in the opposite direction \(the S-direction\). If plying already plied yarns, add twist in one direction  to each strand independently and then, starting from their shared end, twist them in the opposite direction to allow them to form onto each-other. 
+If you want to ply yarns together, here is what you do. Each of the singles strands is already contains a twist \(lets say Z-twist\) in one direction. Align all your singles so they are oriented in the same direction \(all Z-twist\) and then join them together by twisting them together in the opposite direction \(the S-direction\). If plying already plied yarns, add twist in one direction to each strand independently and then, starting from their shared end, twist them in the opposite direction to allow them to form onto each-other. 
 
 | Structure | Ability to be Plied |
 | :--- | :--- |

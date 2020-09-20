@@ -31,6 +31,10 @@ History of E-Textiles written by Hannah Perner Wilson and Irene Posch \(German\)
 a digital/physical collection of inspirations and techniques created at e-textiles summer camp.     
 [http://etextile-summercamp.org/swatch-exchange/](http://etextile-summercamp.org/swatch-exchange/)
 
+### e-Textile Lounge
+
+a collection of techniques and material reviews with a focus on sewing. [https://lbruning.com/etextilelounge/](https://lbruning.com/etextilelounge/)
+
 ### Design Research Lab Database
 
 A knit sensor & actuator database created by folks at the Design Research Lab  

@@ -10,7 +10,7 @@ Here, the power leaves the battery on the + side, travels across the black lines
 
 A conductive material is one through which electricity can flow, and they most often include some metallic component. [Lynne Bruning gives an excellent intro into testing your yarns for conductivity](https://www.youtube.com/watch?v=SwiaXMpoy-o). To test, you'll need a [multimeter and SparkFun offers a nice tutorial for how to use a multimeter](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter/all). For testing conductive threads and yarns, I recommend buying "[minigrabber](https://www.digikey.com/product-detail/en/pomona-electronics/3782-24-02/501-1458-ND/736648?utm_adgroup=Test%20Leads%20-%20Banana%2C%20Meter%20Interface&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Test%20and%20Measurement_NEW&utm_term=&utm_content=Test%20Leads%20-%20Banana%2C%20Meter%20Interface&gclid=CjwKCAjw2Jb7BRBHEiwAXTR4jYPu0rJsKwnSFFHZf3t3u9UcSv2Ebu5TrewrD8XqVc0xIEi2fsIh1RoC2J0QAvD_BwE)" leads for your multimeter, which make it easier to hold the yarns during testing. 
 
-SparkFun also offers great lessons on this topic as well: 
+[SparkFun](https://www.sparkfun.com/?gclid=CjwKCAjw2Jb7BRBHEiwAXTR4jV1vDM50CJQN6W0JDZvkK222x-WAjj5FLbif2daxkJdnIra-RqvXbBoCHXAQAvD_BwE) also offers great lessons on this topic as well: 
 
 * [What is Electricity?](https://learn.sparkfun.com/tutorials/what-is-electricity)
 * [Voltage, Current, Resistance, and Ohm's Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
@@ -34,15 +34,11 @@ Capacitance is a second principle that is important for smart textiles. Capacita
 
 A sensor describes an arrangement of materials that changes its electrical properties in response to some external stimulus \(light, pressure, proximity, electromagnetic fields\). These changes in the electrical properties can be measured by multimeter, micro-controller, and/or computer, and thus, can be used to trigger certain computational processes.  
 
-### Resistive Sensors
+### 
 
-Resistive sensors describe a class of sensors who work because of changes in their resistance. These resistance changes often come from a structural change in the materials. Resistive sensing works many times because  electricity will always follow the shortest path from power to ground \(+ to -\). Thus, if a structural change changes the path electricity takes, the measure of resistance will change proportional to the length of the path. 
+## Actuators  
 
-Consider the example of a conductive thread. Lets imagine we have a staple fiber yarn made of a conductive material, where each little staple fiber conducts electricity and contains a particular amount of resistance.   
+Actuator s 
 
 
-
-![](../.gitbook/assets/lecture-4.jpg)
-
-## \*\*\*\*
 
