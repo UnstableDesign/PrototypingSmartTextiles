@@ -4,7 +4,7 @@ Insulation is a method for preventing the flow of electricity to areas neighbori
 
 ### Coatings
 
-the most frequent way that materials are insulated when you purchase them from suppliers is with a a coating. For instance, magnet wire often comes with a thin enamel coating. In order to connect directly to the metal wire, you have to burn \(with a lighter\) or use sandpaper to scratch the enamel. In other wires, the coating is more easily spotted as a thicker and/or colored flexible silicone. These coatings can affect the performance of your circuit. For instance, in tests of heating wire, we found that even a thin layer of enamel coating limited the heat transfer between the conductive element and materials.
+the most frequent way that materials are insulated when you purchase them from suppliers is with a a coating. For instance, [magnet wire ](../materials/metallic-fibers.md#copper)often comes with a thin enamel coating. In order to connect directly to the metal wire, you have to burn \(with a lighter\) or use sandpaper to scratch the enamel. In other wires, the coating is more easily spotted as a thicker and/or colored flexible silicone. These coatings can affect the performance of your circuit. For instance, in tests of heating wire, we found that even a thin layer of enamel coating limited the heat transfer between the conductive element and materials.
 
 ### Covering/Layering
 
