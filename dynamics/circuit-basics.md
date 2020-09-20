@@ -21,8 +21,7 @@ A conductive material is one through which electricity can flow, and they most o
 
 ### Resistance
 
-One of the most critical points to understand for learning smart textile, or when beginning, is a deep understanding of resistance and how it varies \(by shape, temperature, material and cross-sectional area\). This helps us understand how we can use resistance as a way to measure changes to our soft structures and whether or not those changes mean what we think they mean. It will also help in determining your material choice of any conductive materials. I found Khan Academy to be an excellent resource for me to brush up on my understanding of circuitry and resistance in general. Its also worth noting that most circuits we will be describing operate on direct current \(or DC\).       
-[https://www.khanacademy.org/science/ap-physics-1/ap-circuits-topic/current-ap/v/circuits-part-1](https://www.khanacademy.org/science/ap-physics-1/ap-circuits-topic/current-ap/v/circuits-part-1)
+One of the most critical points to understand for learning smart textile, or when beginning, is a deep understanding of resistance and how it varies \(by shape, temperature, material and cross-sectional area\). This helps us understand how we can use resistance as a way to measure changes to our soft structures and whether or not those changes mean what we think they mean. It will also help in determining your material choice of any conductive materials. I found [Khan Academy](https://www.khanacademy.org/science/ap-physics-1/ap-circuits-topic/current-ap/v/circuits-) to be an excellent resource for me to brush up on my understanding of circuitry and resistance in general. Its also worth noting that most circuits we will be describing operate on direct current \(or DC\).     
 
 Resistance is a measure of how easily the electric current as it flows through a length of material. It is measured in Ohms \(Ω\). Materials that carry lots of electricity have low resistance and are called conductive materials. Materials that don't carry electricity easily \(but still move it from A to B\) have high resistance and are called resistive materials. The amount of resistance you measure will be proportional to the length you are measuring \(short lengths of a given material will have a lower resistance than long lengths of a given material -- assuming the materials you are measuring has the same diameter/area and is at the same temperature\). 
 
@@ -30,15 +29,27 @@ Resistance is a measure of how easily the electric current as it flows through a
 
 Capacitance is a second principle that is important for smart textiles. Capacitance describes the amount of charge that builds up between conductive objects that are not touching--most often represented as conductive plates. Changes in capacitance tell you how close or far another conductive/grounded object is from your circuit. 
 
+## Controlling the Flow of Electricity
+
+Electricity flows from power \(often from a battery, wall outlet, or [microcontroller](circuit-basics.md#microcontrollers)\) to ground. 
+
+Traces are another way that electricity gets from one place to another. It is a particular path of for electricity to follow and are made from conductive materials. We catalog several method for textile based traces on the [Traces](traces.md) page. [Insulation](insulation.md) describes materials that do not allow electricity to flow through them. When paired with traces, insulation allows you to block electricity from flowing in particular directions. The flow of electricity can be turned on or off, or routed in different directions through [buttons and switches](buttons-and-switching.md). To flow electricity through various components in a circuit, you will need to explore different methods for [connecting](connections.md) things together. This can be as simple as a knot or more complicated if you need to connect you soft textile circuit to a hard material. 
+
 ## Sensors
 
-A sensor describes an arrangement of materials that changes its electrical properties in response to some external stimulus \(light, pressure, proximity, electromagnetic fields\). These changes in the electrical properties can be measured by multimeter, micro-controller, and/or computer, and thus, can be used to trigger certain computational processes.  
-
-### 
+A sensor describes an arrangement of materials that changes its electrical properties in response to some external stimulus \(light, pressure, proximity, electromagnetic fields\). These changes in the electrical properties can be measured by multimeter, micro-controller, and/or computer, and thus, can be used to trigger certain computational processes.  Sensors are sometimes classified by the property that is tracked for changes. In this book we have sections devoted to [resistive sensors](resistive-sensors.md), [capacitive sensors](capacitive-sensors.md), and sensors that detect electromagnetic fields \([microphones](speakers-microphones.md)\) and/or radio waves \([antennas](aentennas.md)\). 
 
 ## Actuators  
 
-Actuator s 
+Actuators describe arrangements of materials where some change in their state is triggered by electrical stimulus. These include motors \([electromagnets](electromagnet.md)\), [speakers](speakers-microphones.md), and [state-changing materials](physical-state-change.md)
+
+## Harvesters
+
+This is a category that I hear people use, and assume its meaningful, but it describes arrangements of materials where physical stimuli induce electrical power into the circuit. These include solar cells, piezoelectric materials and structures that can generate energy from electromagnetic waves. 
+
+## Microcontrollers
+
+A [microcontroller](https://www.youtube.com/watch?v=RmD7UgKvUnY) is a tiny computer designed specially to make sense of the electrical changes coming from your circuit. An Arduino,  is a very common microcontroller for hobby projects and a great general purpose board with tons of tutorials. I have found Teensy great for audio projects and Raspberry Pi is great for projects that need more processing power. 
 
 
 
