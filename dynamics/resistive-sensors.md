@@ -4,15 +4,17 @@ Resistive sensors describe a class of sensors who work because of changes in the
 
 I will explain the principles of resistive sensing using these pipe-cleaners as an example.
 
-![](../.gitbook/assets/so_yarn_examples.011.jpeg)
-
 ![](../.gitbook/assets/so_yarn_examples.012.jpeg)
+
+![](../.gitbook/assets/reformats.001.jpeg)
 
 ![](../.gitbook/assets/so_yarn_examples.013.jpeg)
 
 ![](../.gitbook/assets/so_yarn_examples.014.jpeg)
 
 ![](../.gitbook/assets/so_yarn_examples.015.jpeg)
+
+![](../.gitbook/assets/so_yarn_examples.016.jpeg)
 
 ![](../.gitbook/assets/so_yarn_examples.017.jpeg)
 
