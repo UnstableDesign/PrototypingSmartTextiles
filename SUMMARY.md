@@ -40,16 +40,17 @@
   * [Tapestry Loom Weaving](process/weaving/on-a-tapestry-loom.md)
   * [Frame Loom Weaving](process/weaving/on-a-frame-loom.md)
   * [Industrial/Jacquard Loom Weaving](process/weaving/on-an-industrial-jacquard-loom.md)
-* [Embroidery](process/embroidery.md)
 * [Felting](process/felting.md)
 * [Coating / Painting / Printing](process/coating.md)
 * [Dying / Resists](process/dying-resists.md)
 * [Electroplating](process/electroplating.md)
 * [Bonding](process/bonding.md)
 * [Etching](process/etching.md)
-* [Pleating](process/pleating.md)
 * [Electrospinning](process/electrospinning.md)
-* [Sewing](process/sewing.md)
+* [Embroidery](process/embroidery.md)
+* [Sewing, Quilting, & Fabric Manipulation](process/sewing/README.md)
+  * [Hand Sewing](process/sewing/hand-sewing.md)
+  * [Machine Sewing](process/sewing/machine-sewing.md)
 
 ## Materials
 
@@ -62,7 +63,6 @@
 
 ## Dynamics
 
-* [Circuit Basics](dynamics/circuit-basics.md)
 * [Traces](dynamics/traces.md)
 * [Connections](dynamics/connections.md)
 * [Insulation](dynamics/insulation.md)
@@ -79,6 +79,8 @@
 
 ## Resources
 
+* [Circuitry Basics](resources/circuit-basics.md)
+* [How to Use a Multimeter](resources/how-to-use-a-multimeter.md)
 * [Suppliers of  Prepared Thread, Yarn and Filament](resources/suppliers-of-prepared-thread-yarn-and-filament.md)
 * [Collections of Techniques and Examples](resources/collections-of-techniques-and-examples.md)
 
