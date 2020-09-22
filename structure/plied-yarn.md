@@ -12,9 +12,15 @@ The yarn or thread that you purchase for projects just as knitting, sewing or we
 
 A 2-ply yarn is made of 2 singles, a 3-ply is made of three singles and so on. In some cases, yarns that have already been plied together can then be plied together another time to create "cabled" yarn structures. 
 
+![](../.gitbook/assets/so_yarn_examples.001.jpeg)
+
+![](../.gitbook/assets/so_yarn_examples.002.jpeg)
+
 ​
 
 So, to make a yarn with 4 plys, one has the option to either ply four singles together at once or make 2, 2-ply yarns and later ply them again into a single 4-ply yarn. The first is called 4-ply, the second 2x2ply. The cabled yarns will be more durable than the 4-ply yarns.
+
+![](../.gitbook/assets/so_yarn_examples.009.jpeg)
 
 ![](../.gitbook/assets/screen-shot-2020-07-23-at-5.12.34-pm.png)
 
