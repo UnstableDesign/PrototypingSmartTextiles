@@ -39,7 +39,11 @@ The first step in knitting casting on, which means creating the first row struct
 
 ### Knitting
 
-Knitted structures are created through combinations and patterning of two knitted stitches: **knit** and **purl**. A stitch that appears on one side of the fabric as a "knit" will be read as a "purl" from the back of the fabric. When looking at the front face of a fabric, the knit stitches are those that have their "arms" or sides of the loop on the surface \(and their "necks" on the backside\). Purls are those with their arms on the back side of the fabric and their necks on the front \(as shown in b\). 
+Knitted structures are created through combinations and patterning of two knitted stitches: **knit** and **purl**.
+
+![](../../.gitbook/assets/so_yarn_examples.039.jpeg)
+
+ A stitch that appears on one side of the fabric as a "knit" will be read as a "purl" from the back of the fabric. When looking at the front face of a fabric, the knit stitches are those that have their "arms" or sides of the loop on the surface \(and their "necks" on the backside\). Purls are those with their arms on the back side of the fabric and their necks on the front \(as shown in b\). 
 
 \*\*\*\*
 
