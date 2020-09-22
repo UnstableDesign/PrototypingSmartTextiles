@@ -8,6 +8,8 @@ description: Plied yarn is created by spinning multiple singles together.
 
 2-ply yarn. If you look closely, you can see the two individual singles strands twisted together. Image Credit: Natalia Wilson on Flickr.
 
+
+
 The yarn or thread that you purchase for projects just as knitting, sewing or weaving is plied meaning that it has been created through a process of [plying](../process/plying/) several [singles](singles.md) yarns and/or [filaments](filament.md) together. A 2-ply yarn is made of 2 singles, a 3-ply is made of three singles and so on. In some cases, yarns that have already been plied together can then be plied together another time to create "cabled" yarn structures. So, to make a yarn with 4 plys, one has the option to either ply four singles together at once or make 2, 2-ply yarns and later ply them again into a single 4-ply yarn. The first is called 4-ply, the second 2x2ply. The cabled yarns will be more durable than the 4-ply yarns.
 
 ![](../.gitbook/assets/screen-shot-2020-07-23-at-5.12.34-pm.png)
