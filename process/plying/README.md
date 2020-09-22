@@ -27,6 +27,42 @@ If you want to ply yarns together, here is what you do. Each of the singles stra
 | Non-Wovens | yes, if sliced or rolled into thin long pieces |
 | Solid Objects | yes, often if integrated as a core and plied around |
 
+## Process
+
+Start with singles:
+
+![](../../.gitbook/assets/so_yarn_examples.001.jpeg)
+
+Ply them together in the direction opposite of their twist \(since our pipe-cleaners don't have twist, we'll discuss twist next step\). 
+
+![](../../.gitbook/assets/so_yarn_examples.002.jpeg)
+
+This image above shows two singles that have been twisted \(plied\) into a 2-ply yarn. 
+
+![](../../.gitbook/assets/so_yarn_examples.003.jpeg)
+
+The image above shows what this might look like if we exploded it's structure to see it more clearly. In a well formed yarn, the two strands will always coil nicely around each-other, here shown as regularly alternating color. If you did a 3-ply, you would see the three colors repeated regularly, meaning that the yarns do not intersect each-other perpendicularly within a ply. In some cases, this feature can be exploited for [insulation](../../dynamics/insulation.md).
+
+![](../../.gitbook/assets/so_yarn_examples.004.jpeg)
+
+If you are spinning two ply, and you find that as you relax the yarn, it curls up on itself, that is called "ply-back" and it creates a plied structure of your already plied yarn - turning a 2-ply into a 2x2 ply or cabled structure from a continuous yarn.
+
+![](../../.gitbook/assets/so_yarn_examples.005.jpeg)
+
+ If we look closely at our 2-ply, you can see that the twist goes in the direction of an "S" twist. When we ply those 2-plys on each other again \(shown in right\), we twist them in the "Z" direction to form a balanced yarn that is stronger and holds its structure.  
+
+![](../../.gitbook/assets/so_yarn_examples.006.jpeg)
+
+This produces a 2x2 cabled yarn, as you see in the right. Here you can see that the structure looks like a braid \(as we have plied in materials again in the other direction\). This puts all the materials in contact with each other. 
+
+![](../../.gitbook/assets/so_yarn_examples.007.jpeg)
+
+This image is to note that the 2x2 structure you get from ply-back is the same as if you plied two singles into two 2-ply yarns, and then plied them together. 
+
+![](../../.gitbook/assets/so_yarn_examples.008.jpeg)
+
+And if we want to take it one step further, we can ply-back on our 2x2 ply and add another 2 to the equation for a 2x2x2 yarn with 8 ends. 
+
 ## Historical Connections
 
 Sections of the transatlantic cable photographed at the Henry Ford Museum
