@@ -6,7 +6,7 @@ description: >-
 
 # Knitting
 
-Knitted structures are produced through combinations of two primary stitches \(knit and purl\). Those stitches, used in particular combinations and will particular equipment, give rise to all knitted fabrics and can be used to make flat surfaces or shapes of an arbitrary volume.  These structured are most often achieved through the use of needles or hooks manipulated by hand or machine, as each stitch is essentially a method of pulling one loop through another loop. Knits and an inherently stretchy structure that can easily unravel.
+Knitted structures are produced through combinations of two primary stitches \(knit and purl\). Those stitches, used in particular combinations and will particular equipment, give rise to all knitted fabrics and can be used to make flat surfaces or shapes of an arbitrary volume.  These structured are most often achieved through the use of [needles or hooks manipulated by hand](hand-knitting.md) or [machine](machine-knitting.md), as each stitch is essentially a method of pulling one loop through another loop. Knits and an inherently stretchy structure that can easily unravel.
 
 | Structure | Ability to be Knitted |
 | :--- | :--- |
@@ -21,25 +21,19 @@ Knitted structures are produced through combinations of two primary stitches \(k
 | Non-Wovens | yes, if sliced or rolled into thin long pieces |
 | Solid Objects | yes, if its something you can thread through  |
 
-## Process
+## General Process
 
 ### **Selecting Yarn and Needle Size**
 
-The relationship between the gauge of your yarn \(e.g. how thick it is\) and the size of your knitting needle determines the drape or hand of your knitted textile. Most skeins of yarn will recommend a knitting needle size, but there are ways to play around with knits to create textiles that have multiple properties. For instance, you can use multiple needles when knitting, and change the tension of the knit as you are working. One could use a chunky yarn with a small needle to create a dense knitted textile. Or a lace weight yarn with large needles to create a very loose, soft textile. One fabric can change from densely knitted to and large open knit just by changing needle size. 
-
-![](../../.gitbook/assets/img_9207.jpg)
-
-For instance, I knitting a small 10 stitch x 10 stitch stockinette swatch using three different US needle sizes, 19, 8 and 4 and the image below shows the results. The \(poorly knit\) swatch on the left had the largest needles \(at 19\) and resulted in the loosest structure. The center swatch was knit with the recommended needle size \(8\) and the swatch on the right was size 4. All swatches were stretchy with the most open structure stretching the most radically. 
-
-![](../../.gitbook/assets/img_9200.jpg)
+This process will vary if you are working by [hand](hand-knitting.md) or [machine](machine-knitting.md) as hand knitters have more flexibility to adjust these parameters than machine knitting, which often have them fixed. 
 
 ### Casting On
 
-The first step in knitting casting on, which means creating the first row structure that you will build your stitches upon. We will show these techniques as they are associated with each link below. 
+The first step in knitting casting on, which means creating the first row structure that you will build your stitches upon. 
 
 ### Knitting
 
-Knitted structures are created through combinations and patterning of two knitted stitches: **knit** and **purl**.
+Knitted structures, whether made by hand or machine,  are created through combinations and patterning of two knitted stitches: **knit** and **purl**.
 
 ![](../../.gitbook/assets/so_yarn_examples.039.jpeg)
 
@@ -55,15 +49,7 @@ Knitted structures are created through combinations and patterning of two knitte
 
 **Stockinette Stitch**: Another common structure is a **stockinette**, which is creating by alternating knit and purl along each row.  So, one entire row is knit purl across its length, the next knit, the next purl etc. 
 
-#### Additional Stitches
-
-A useful collection of beginner-level knitting structures  
-[https://www.studioknitsf.com/stitch-patterns-beginner/](https://www.studioknitsf.com/stitch-patterns-beginner/)
-
-Stitchionaries: Compendia of many types of stitches and techniques:   
-[https://store.vogueknitting.com/p-126-vogue-knitting-stitchionary-vol-1-knit-purl.aspx](https://store.vogueknitting.com/p-126-vogue-knitting-stitchionary-vol-1-knit-purl.aspx)
-
-### Bind Off
+### Cast Off
 
 The last step in knitting is the bind off, which secures the structure from unraveling. 
 
