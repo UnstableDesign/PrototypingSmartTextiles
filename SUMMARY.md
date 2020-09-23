@@ -80,7 +80,6 @@
 ## Resources
 
 * [Circuitry Basics](resources/circuit-basics.md)
-* [How to Use a Multimeter](resources/how-to-use-a-multimeter.md)
 * [Suppliers of  Prepared Thread, Yarn and Filament](resources/suppliers-of-prepared-thread-yarn-and-filament.md)
 * [Collections of Techniques and Examples](resources/collections-of-techniques-and-examples.md)
 
