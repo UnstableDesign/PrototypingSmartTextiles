@@ -44,7 +44,7 @@
 * [Coating / Painting / Printing](process/coating.md)
 * [Dying / Resists](process/dying-resists.md)
 * [Electroplating](process/electroplating.md)
-* [Bonding](process/bonding.md)
+* [Bonding / Laser Welding](process/bonding.md)
 * [Etching](process/etching.md)
 * [Electrospinning](process/electrospinning.md)
 * [Embroidery](process/embroidery.md)

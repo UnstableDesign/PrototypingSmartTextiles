@@ -36,8 +36,12 @@ temperature and twist
 
 ## Color Change 
 
-Thermochromic  
+### Thermochromic
+
  [Maggie Orth](http://www.maggieorth.com/art_100EAYears.html) and others beginning in 2009 and we played around with integrating the yarns in various stitches to see what kinds of effects we could come up with.
+
+[https://cwandt.com/products/slow-resolution-display](https://cwandt.com/products/slow-resolution-display)  
+[https://cwandt.com/products/thermochromic-clock](https://cwandt.com/products/thermochromic-clock)
 
 Photochromic  
 Moisture   

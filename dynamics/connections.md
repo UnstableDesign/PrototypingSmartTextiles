@@ -6,15 +6,15 @@ There are two primary modes of connecting: soft-to-soft, where both things being
 
 There are already really great online resources that show a variety of techniques such as Kobakant's [overview of connection techniques](https://www.kobakant.at/DIY/?p=1272) and detailed descriptions of many methods in their "[Connections" category.](https://www.kobakant.at/DIY/?p=7077) There are [also many techniques in this summary produced by e-textiles summer camp 2017](http://etextile-summercamp.org/2017/summercamp/hardsoft-connections/). 
 
-### Knots
+## Hard-to-Hard Connections
 
-The first method can be simply knotting materials together. In soft-to-soft, this can be as simple as typing a weavers knot, ensuring it will remain tight, and then trimming long ends to ensure against shorting. In soft to hard connections, one typically can knot around the through-hole of a hard component. In this case, it can be wise to coil the material through the hole a few times to ensure good contact between the metal fibers in your soft material and the metal connections on the component you are connecting to. Frequent method of using knots include knotting conductive material around a metal snap and on the other side of the metal snap, soldering on a wire. 
+## Hard-to-Soft
 
-### Structural Integration
+### Metal Snaps
 
-When you have conductive materials integrated into your textile structure, one simple possibility is to simply integrate traditional wires into the structure so that the structure, itself, holds the materials in close contact. This is what I did in this project, [essentially twisting soft and more sturdy wires together at weaving time](http://artfordorks.com/2020/04/a-fabric-that-remembers/). In a different project, we soldered silicone coated wires directly to an arduino pro mini and then integrated the arduino into a [pocket within the woven structure, then wound the edges of the wire and yarn together within the fabric itself](http://unstable.design/some-teaser-images-from-our-experimental-weaving-residency/). You can see the FTDI connector pocking out of the fabric below, with the black wires routing through the structure. 
+[http://www.rachelfreire.com/second-skin](http://www.rachelfreire.com/second-skin)
 
-![](../.gitbook/assets/img_6837-1024x768.jpg)
+[https://www.flickr.com/photos/rachelfreirestudio/albums/72157686333010996](https://www.flickr.com/photos/rachelfreirestudio/albums/72157686333010996)
 
 ### Soldering
 
@@ -23,7 +23,19 @@ Some soft materials can be directly soldered to or soldered upon, allowing for m
 Soldering to headers from a fabric using a pocket structure:   
 [https://www.instructables.com/id/Simple-E-textile-Connector/](https://www.instructables.com/id/Simple-E-textile-Connector/)
 
-### Temporary Connection Methods
+### Structural Integration
+
+When you have conductive materials integrated into your textile structure, one simple possibility is to simply integrate traditional wires into the structure so that the structure, itself, holds the materials in close contact. This is what I did in this project, [essentially twisting soft and more sturdy wires together at weaving time](http://artfordorks.com/2020/04/a-fabric-that-remembers/). In a different project, we soldered silicone coated wires directly to an arduino pro mini and then integrated the arduino into a [pocket within the woven structure, then wound the edges of the wire and yarn together within the fabric itself](http://unstable.design/some-teaser-images-from-our-experimental-weaving-residency/). You can see the FTDI connector pocking out of the fabric below, with the black wires routing through the structure. 
+
+![](../.gitbook/assets/img_6837-1024x768.jpg)
+
+## Soft-to-Soft
+
+### Knots
+
+The first method can be simply knotting materials together. In soft-to-soft, this can be as simple as typing a weavers knot, ensuring it will remain tight, and then trimming long ends to ensure against shorting. In soft to hard connections, one typically can knot around the through-hole of a hard component. In this case, it can be wise to coil the material through the hole a few times to ensure good contact between the metal fibers in your soft material and the metal connections on the component you are connecting to. Frequent method of using knots include knotting conductive material around a metal snap and on the other side of the metal snap, soldering on a wire. 
+
+## Temporary Connection Methods
 
 There are also alternatives to using something like alligator clips when testing your circuit by using materials, like pins and clips, that have been designed to hold to textile structures.   
   

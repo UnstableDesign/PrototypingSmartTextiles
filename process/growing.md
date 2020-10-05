@@ -2,6 +2,13 @@
 
 a process of doping a material or guiding a material as it grows over time. A typical process for non-woven preparations.
 
+Growing Crystals:   
+[http://www.rachelfreire.com/etextile-crystallography](http://www.rachelfreire.com/etextile-crystallography)
+
+
+
+
+
 | Structure | Ability to be Grown | Ability to be initegrated into Growth Processes or Grown Upon? |
 | :--- | :--- | :--- |
 | Raw Fiber | sure | yes? |
