@@ -14,9 +14,9 @@ You are also welcome to email us at unstabledesignlab@gmail.com if you have smal
 
 ### **Founders**
 
-\*\*\*\*[**Laura Devendorf**](http://artfordorks.com/) is an Assistant Professor of Information Science and ATLAS Institute Fellow. She directs the [Unstable Design Lab](https://unstable.design) which is located within the ATLAS Institute.  
+[**Laura Devendorf**](http://artfordorks.com/) is an Assistant Professor of Information Science and ATLAS Institute Fellow. She directs the [Unstable Design Lab](https://unstable.design) which is located within the ATLAS Institute.  
 
-\*\*\*\*[**Sasha de Koninck**](https://studiosdk.net/About-Sasha-de-Koninck) is an artist and researcher from Santa Monica, CA. She decided to leave the west coast and all of its wonderful weather to explore the city of Baltimore and the greater east coast to complete her undergraduate education at the Maryland Institute College of Art. She graduated in 2013 with a B.F.A. in fibers, a minor in creative writing and a concentration in sound art. The next leg of her journey led her to the Windy City, where she graduated from the School of the Art Institute of Chicago with an MFA in Fiber and Material Studies. She currently teaches Conceptual Clothing at New Roads School.
+[**Sasha de Koninck**](https://studiosdk.net/About-Sasha-de-Koninck) is an artist and researcher from Santa Monica, CA. She decided to leave the west coast and all of its wonderful weather to explore the city of Baltimore and the greater east coast to complete her undergraduate education at the Maryland Institute College of Art. She graduated in 2013 with a B.F.A. in fibers, a minor in creative writing and a concentration in sound art. The next leg of her journey led her to the Windy City, where she graduated from the School of the Art Institute of Chicago with an MFA in Fiber and Material Studies. She currently teaches Conceptual Clothing at New Roads School.
 
-[**Steven Frost**](https://www.stevenfrost.com/) ****is a fiber and Performance Artist & Instructor, Department of Media Studies College of Media Communication & Information, University of Colorado Boulder.
+[**Steven Frost**](https://www.stevenfrost.com/) is a fiber and Performance Artist & Instructor, Department of Media Studies College of Media Communication & Information, University of Colorado Boulder.
 
