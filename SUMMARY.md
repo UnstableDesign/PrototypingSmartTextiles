@@ -6,7 +6,7 @@
 
 ## Quick Start Activities
 
-* [Programmable Color Changing Yarns](quickstart/thermochrmoics.md)
+* [Make Programmable Color-Changing Yarns](quickstart/thermochromics.md)
 
 # Reference Materials
 
