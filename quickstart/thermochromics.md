@@ -105,8 +105,13 @@ Alterantively, you can weave your heating wire directly into the fabric itself. 
 
 You can also integrate the heating wire and dyed yarn using a carry-along method in knitting or crochet. Here, you simply carry the magent wire along as you knit to integrate it. This creates some issues and complications with yarn tension and also may not create a tight coupling between yarn and wire, but it is possible. 
 
+## 3. Connect Heating Wires to Jumper Wires
 
-## 3. Connect to A Power Source
+Your heating wires have a thin insulated enamel coating that keeps their metal from shorting and conducting. To connect to the wire you need to either burn off the enamel coating with a lighter OR use sandpaper to scratch off the coating. You can use a multimeter to check that you can, in fact, make a direct connection with the wire. 
+
+Once you have exposed the metal in the heating wire, attach them to wires, aligator clips, or another type of connection using crimp beads. Namely, thread one end of your heating wire AND one end of the jumper wire through the crimp bead and then crimp the bead down to firmly attach the wires. 
+
+## 4. Connect to A Power Source
 
 To activate the color change, we need to power our heating wire and make it heat up. Resistive heating is a power hungry operation and requires quite a bit of current and voltage. The longer your heating wire, the more current and voltage you will need. Since your Arudino only offers 5V in a digital output pin, and at most 500 mA of current, sometimes it is neccessary to power your project with an external power supply and "switch" that power on and off using a transistor. We'll show you each way below: 
 
@@ -114,8 +119,41 @@ To activate the color change, we need to power our heating wire and make it heat
 
 In this schematic, I'm using the motor to stand in for our heating wire. I do this because motors and heating wires consume similar amounts of power....but really they didn't have a thermochromic wire I could choose from in TinkerCAD. Here, we just connect one end of our wire to a digital out pin (in this case, pin 8), and the other end to ground. 
 
-![Direct Connection Schematic](../.github/assets/thermo_schematica.png)
+![Direct Connection Schematic](../.gitbook/assets/thermo_schematica.png)
 
-# b.
+# b. Supplementing with an External Power Source
+
+In this schematic, we'll draw from an external power source like a bench power supply or perhaps a 9V battery or directly to wall power. Again, the motor is standing in for the heating wire. Here we use pin 8 as a switch. When a voltage is applied to pin 8, it opens a path between the "drain" and "source" of the MOSFET. So, we can connect our heating wire directly to the power source and then create a switch on the way to ground that is controlled by the MOSFET. 
+
+![MOSFET Connection Schematic](../.gitbook/assets/thermo_schematicb.png)
+
+Double check your MOSFET to find the correct positions of the Gate, Source and Drain. 
+
+![MOSFET Connection Detail](../.gitbook/assets/thermo_schematicb_detail.png)
+
+In this configuration, you can tinker with the voltage and current to determine an ideal running sceanrio (typically, supplying more voltage will reduce the amount of current consumed.)
+
+Note, that you can "burn out" your heating wire if you supply it too much voltage, so be sure to start with a low voltage and work up to your desired heat. In my experience, the magnet wire will burn before it gets to a temperature that could burn you badly. This is not the case with other heating metals, like nicrhome, so I find its best to use materials like magent wire that heat, but don't get too hot. 
+
+
+
+# Variations
+
+There are endless variations and space to play in these projects
+
+* Mixing thermochromics with different activation termperatures can allow for 3 color state transitions. 
+* Weave or knit the color changing yarn in with a non-thermochromic yarns of the same base color to create images that appear and disappear. 
+* Integrate multilple heating wires in different patterns to programmatically modify the patterns. 
+
+
+# Inspirations
+
+* [Devendorf et al, Ebb Thermochromic Textiles](https://vimeo.com/138025527)
+* [Anne-Marie Lavigne, Woven Signals](http://emeteuz.com/woven-signals)
+* [Jingwen Zhu, My Heart on my Dress](http://www.jingwen-zhu.com/#/my-heart-on-my-dress/)
+* [Emilia Pucci, Emerging Goddess](https://www.emiliapucci.com/emerginggoddessatlas)
+* [Maggie Orth, 100 Electronic Art Years](http://www.maggieorth.com/art_100EAYears.html)
+* [EJTech, Choromosonic](https://vimeo.com/91989013)
+
 
 
