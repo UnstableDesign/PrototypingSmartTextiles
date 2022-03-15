@@ -3,6 +3,13 @@
 * [Prototyping Smart Textiles](README.md)
 * [How to Contribute](contribute.md)
 
+
+## Quick Start Activities
+
+* [Programmable Color Changing Yarns](quickstart/thermochromics)
+
+# Reference Materials
+
 ## Structure
 
 * [Staple Fiber](structure/staple-fiber.md)
