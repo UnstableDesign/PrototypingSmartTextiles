@@ -85,7 +85,7 @@ Once you have prepared your fiber, you can integrate your heating wire using any
 
 [Hand sewing](../process/sewing/hand-sewing.md) is a quick and easy for you to integrate your heating wire into your cloth. In the example below by [Emilia Pucci](https://www.emiliapucci.com/crafttech-the-emerging-goddess), the heating wire is integrated by threading it into the surface every so often and otherwise, floating it along the back of the fabric. The heat, then, would appear in little spots as it radiated out from the wire on the surface of the cloth. You can read more on Emilia's [post about the project](https://www.emiliapucci.com/crafttech-the-emerging-goddess). The key when sewing is to keep the ends of the magnet wire long so you can connect to them later. Also, don't cut the magent wire or anypoint, as that would break the eventual electric connection and result in the inability for the magnet wire to transfer heat. 
 
-![Emerging Goddess by Emilia Pucci](../.gitbook/assets/thermo_sewing.JPG)
+![Emerging Goddess by Emilia Pucci](../.gitbook/assets/thermo_sewing.jpg)
 
 
 ### b. Plying Magnet wire with Yarn
