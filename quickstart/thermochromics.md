@@ -154,5 +154,3 @@ There are endless variations and space to play in these projects
 * [Emilia Pucci, Emerging Goddess](https://www.emiliapucci.com/emerginggoddessatlas)
 * [Maggie Orth, 100 Electronic Art Years](http://www.maggieorth.com/art_100EAYears.html)
 * [EJTech, Choromosonic](https://vimeo.com/91989013)
-
-test line
