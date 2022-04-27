@@ -4,7 +4,7 @@
 * [How to Contribute](contribute.md)
 
 
-## Quick Start Activities
+## Quick Start Projects
 
 * [Programmable Color Changing Yarns](quickstart/thermochromics)
 
