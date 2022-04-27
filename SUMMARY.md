@@ -6,7 +6,7 @@
 
 ## Quick Start Projects
 
-* [Programmable Color Changing Yarns](quickstart/thermochromics)
+* [Make Programmable Color-Changing Fabrics](quickstart/thermochromics.md)
 
 # Reference Materials
 
