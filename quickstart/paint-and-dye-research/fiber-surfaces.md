@@ -19,7 +19,12 @@ Alpaca
 Acrylic  
 
 ## Wool Yarn
-
+New Wool  
+Merino  
+Tapestry Wool (08000)  
+Tapestry Wool (08002)  
+Tapestry Wool (08004)  
+Tapestry Wool (08006)  
 
 ## Cotton
 
