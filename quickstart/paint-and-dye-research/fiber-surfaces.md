@@ -1,9 +1,9 @@
 # Fiber Surfaces
 
 ## Fabric
-Cotton
-Muslin
-Aida cloth
+Cotton  
+Muslin  
+Aida Cloth  
 
 ## Cotton Thread
 Aunt Lydia's Cotton Thread Size 10  
@@ -12,7 +12,11 @@ Daiso Cotton Lace Yarn Size #20
 Daiso Cotton Lace Yarn Size #40  
 
 ## Roving
-
+Wool  
+Flax  
+Cotton  
+Alpaca  
+Acrylic  
 
 ## Wool Yarn
 
