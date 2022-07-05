@@ -27,7 +27,7 @@ Tapestry Wool (08004)
 Tapestry Wool (08006)  
 
 ## Cotton
-
+![flexTest1](https://user-images.githubusercontent.com/70085102/177382772-0b46740f-56a2-45cf-b7b8-4334887ef5df.jpg)
 
 ## Synthetic
 
