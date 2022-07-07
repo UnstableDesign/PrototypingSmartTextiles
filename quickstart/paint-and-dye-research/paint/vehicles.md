@@ -4,9 +4,9 @@
 
 ## Gum Arabic
 
-## Airbrush medium
+## Airbrush Medium
 
-## Fabric medium
+## Fabric Medium
 
 ## Mod Podge
 
