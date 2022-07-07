@@ -1,9 +1,20 @@
 # Fiber Surfaces
 
+photo notes  
+light box with black background  
+close up with ruler?  
+remember to scale down photos
+
 ## Fabric
 Cotton  
+(Add photo)  
+(Add specs, found on card)  
 Muslin  
+(Add photo)  
+(Add specs, found on card)  
 Aida Cloth  
+(Add photo)  
+(Add specs, found on card)  
 
 ## Cotton Thread
 Aunt Lydia's Cotton Thread Size 10  
@@ -17,6 +28,8 @@ Flax
 Cotton  
 Alpaca  
 Acrylic  
+
+Get closeups of fiber (want to see the individual fibers)  
 
 ## Wool Yarn
 New Wool  
@@ -36,6 +49,6 @@ Acrylic
 85% Cotton 15% Polyester
 
 ## Other
-Alpaca
-Flax
-Conductive Thread
+Alpaca (handspun)
+Flax (handspun)
+Conductive Thread (get a closeup, very thin)
