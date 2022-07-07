@@ -9,16 +9,20 @@ remember to scale down photos
 Cotton  
 (Add photo)  
 (Add specs, found on card)  
+Notes:  
+Absorbs liquid quickly and efficiently  
 Muslin  
 (Add photo)  
 (Add specs, found on card)  
+Notes:  
+Absorbs liquid slowly and only with addtional effort  
 Aida Cloth  
 (Add photo)  
 (Add specs, found on card)  
 
 ## Cotton Thread
-Aunt Lydia's Cotton Thread Size 10  
-Aunt Lydia's Cotton Thread Size 3  
+Aunt Lydia's Cotton Thread Size 10 (Mercerized)  
+Aunt Lydia's Cotton Thread Size 3 (Mercerized)  
 Daiso Cotton Lace Yarn Size #20  
 Daiso Cotton Lace Yarn Size #40  
 
