@@ -1,6 +1,7 @@
-|Fiber Type|test2|test3|test4|
+|Fabric Type|test2|test3|test4|
 |:---:|:---:|:---:|:---:|
-|test |test |test |test |
-|test |test |test |test |
-|test |test |test |test |
-|test |test |test |test |
+|Felt |test |test |test |
+|Polyester|test |test |test |
+|Cotton|test |test |test |
+|Aida|test |test |test |
+|Muslin|test |test |test |
