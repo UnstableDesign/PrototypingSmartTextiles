@@ -11,7 +11,7 @@
 |[Acrylic](#Acrylic-Roving)|test |test |test |
 |[Alpaca](#Alpaca-Roving)|test |test |test |
 |[Cotton](#Cotton-Roving)|test |test |test |
-|[Cotton/rayon](#Cotton/rayon-Roving)|test |test |test |
+|[Cotton/rayon](#Cotton-Rayon-Roving)|test |test |test |
 |[Flax](#Flax-Roving)|test |test |test |
 |[Wool](#Wool-Roving)|test |test |test |
 
@@ -63,7 +63,7 @@
 ![alpaca-roving-control](https://user-images.githubusercontent.com/70085102/187257449-cac3a16d-b365-4098-9b21-6d24a3f903ca.jpeg)
 # Cotton Roving
 ![cotton-roving-control](https://user-images.githubusercontent.com/70085102/187257559-52c4d228-7523-4230-abad-8607226736ef.jpeg)
-# Cotton/rayon Roving
+# Cotton Rayon Roving
 ![cotton:rayon-roving-control](https://user-images.githubusercontent.com/70085102/187257690-a1b34aa0-f16d-42b6-b154-48059f3970e2.jpeg)
 # Flax Roving
 ![flax-roving-control](https://user-images.githubusercontent.com/70085102/187257811-6b13710e-b5a5-4bd8-b848-a9093a3849b3.jpeg)
