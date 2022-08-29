@@ -44,7 +44,7 @@
 |:---:|:---:|:---:|:---:|
 |Alpaca|test |test |test |
 |Conductive|test |test |test |
-|[Flax](#-Flax-Yarn)|test |test |test |
+|[Flax](#Flax-Yarn)|test |test |test |
 
 # Aida Cloth
 ![aida-fabric-control](https://user-images.githubusercontent.com/70085102/187255674-04019185-24b9-4706-b2d1-c5fd2cefa9a6.jpeg)
