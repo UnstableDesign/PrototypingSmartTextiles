@@ -84,8 +84,11 @@
 ![patons-wool-yarn-control](https://user-images.githubusercontent.com/70085102/187258928-ae678c9b-3d7c-4161-afbf-0f395fef6f23.jpeg)
 
 # Acrylic Yarn
+![acrylic-yarn-control](https://user-images.githubusercontent.com/70085102/187259320-7c3e050a-efb7-467e-9c38-72a8c4305ff1.jpeg)
 # Cotton Yarn
+![cotton-yarn-control](https://user-images.githubusercontent.com/70085102/187259424-bbeeca53-aaf2-42f6-b4f0-df0d93e8e643.jpeg)
 # Cotton/poly Yarn
+![cotton:poly-yarn-control](https://user-images.githubusercontent.com/70085102/187259546-ef30c531-cc71-4151-8dce-1a6e8881537c.jpeg)
 
 # Daiso 20
 # Daiso 40
