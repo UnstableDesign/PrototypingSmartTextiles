@@ -22,7 +22,7 @@
 |[Anchor 08004](#Anchor-08004)|test |test |test |
 |[Anchor 08006](#Anchor-08006)|test |test |test |
 |[Dyer Supplier](#Dyer-Supplier)|test |test |test |
-|[Paton's](#Paton's)|test |test |test |
+|[Paton's](#Patons)|test |test |test |
 
 |Cotton/Synthetic Yarn Type|test2|test3|test4|
 |:---:|:---:|:---:|:---:|
@@ -79,7 +79,7 @@
 ![anchor-08006-wool-yarn-control](https://user-images.githubusercontent.com/70085102/187258767-41e0b171-4458-4b2b-a048-bcadd1b03282.jpeg)
 # Dyer Supplier
 ![dyer-supplier-wool-yarn-control](https://user-images.githubusercontent.com/70085102/187258840-efb5527e-1412-4213-b603-66a65851605a.jpeg)
-# Paton's
+# Patons
 ![patons-wool-yarn-control](https://user-images.githubusercontent.com/70085102/187258928-ae678c9b-3d7c-4161-afbf-0f395fef6f23.jpeg)
 
 # Acrylic Yarn
