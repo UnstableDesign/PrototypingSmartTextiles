@@ -15,10 +15,9 @@
 |[Flax](#Flax-Roving)|test |test |test |
 |[Wool](#Wool-Roving)|test |test |test |
 
-
 |Wool Yarn Type|test2|test3|test4|
 |:---:|:---:|:---:|:---:|
-|Anchor 08000|test |test |test |
+|[Anchor 08000](#Anchor-08000)|test |test |test |
 |Anchor 08002|test |test |test |
 |Anchor 08004|test |test |test |
 |Anchor 08006|test |test |test |
