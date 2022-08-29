@@ -41,8 +41,8 @@
 
 |Other Type|test2|test3|test4|
 |:---:|:---:|:---:|:---:|
-|Alpaca|test |test |test |
-|Conductive|test |test |test |
+|[Alpaca](#Alpaca-Yarn)|test |test |test |
+|[Conductive](#Conductive-Thread)|test |test |test |
 |[Flax](#Flax-Yarn)|test |test |test |
 
 # Aida Cloth
