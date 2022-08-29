@@ -26,9 +26,9 @@
 
 |Cotton/Synthetic Yarn Type|test2|test3|test4|
 |:---:|:---:|:---:|:---:|
-|Cotton|test |test |test |
+|[Acrylic](#Acrylic-Yarn)|test |test |test |
+|[Cotton](#Cotton-Yarn)|test |test |test |
 |[Cotton/poly](#Cotton-Poly-Yarn)|test |test |test |
-|Acrylic|test |test |test |
 
 |Cotton Thread Type|test2|test3|test4|
 |:---:|:---:|:---:|:---:|
