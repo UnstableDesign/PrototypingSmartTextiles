@@ -32,12 +32,12 @@
 
 |Cotton Thread Type|test2|test3|test4|
 |:---:|:---:|:---:|:---:|
-|Daiso 20|test |test |test |
-|Daiso 40|test |test |test |
-|DMC Pearl|test |test |test |
-|Lydia 3|test |test |test |
-|Lydia 10|test |test |test |
-|Mouline|test |test |test |
+|[Daiso 20](#Daiso-20)|test |test |test |
+|[Daiso 40](#Daiso-40)|test |test |test |
+|[DMC Pearl](#DMC-Pearl)|test |test |test |
+|[Lydia 3](#Lydia-20)|test |test |test |
+|[Lydia 10](#Lydia-10)|test |test |test |
+|[Mouline](#Mouline)|test |test |test |
 
 |Other Type|test2|test3|test4|
 |:---:|:---:|:---:|:---:|
