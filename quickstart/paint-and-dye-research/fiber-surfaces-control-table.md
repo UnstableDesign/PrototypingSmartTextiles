@@ -71,11 +71,17 @@
 ![wool-roving-control](https://user-images.githubusercontent.com/70085102/187257946-0df04a19-49c2-4d68-880e-d9f26427adb0.jpeg)
 
 # Anchor 08000
+![anchor-08000-wool-yarn-control](https://user-images.githubusercontent.com/70085102/187258363-ad3ae3ba-a142-46ad-b656-15116b20617a.jpeg)
 # Anchor 08002
+![anchor-08002-wool-yarn-control](https://user-images.githubusercontent.com/70085102/187258521-14301ae8-bd42-4bc5-9f94-2fa6d657684e.jpeg)
 # Anchor 08004
+![anchor-08004-wool-yarn-control](https://user-images.githubusercontent.com/70085102/187258660-3c24686c-bd01-473f-a7e5-cc0503858380.jpeg)
 # Anchor 08006
+![anchor-08006-wool-yarn-control](https://user-images.githubusercontent.com/70085102/187258767-41e0b171-4458-4b2b-a048-bcadd1b03282.jpeg)
 # Dyer Supplier
+![dyer-supplier-wool-yarn-control](https://user-images.githubusercontent.com/70085102/187258840-efb5527e-1412-4213-b603-66a65851605a.jpeg)
 # Paton's
+![patons-wool-yarn-control](https://user-images.githubusercontent.com/70085102/187258928-ae678c9b-3d7c-4161-afbf-0f395fef6f23.jpeg)
 
 # Acrylic Yarn
 # Cotton Yarn
