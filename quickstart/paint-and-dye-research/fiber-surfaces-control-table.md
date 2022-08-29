@@ -76,3 +76,7 @@
 # Lydia 3
 # Lydia 10
 # Mouline
+
+# Alpaca Yarn
+# Conductive Thread
+# Flax Yarn
