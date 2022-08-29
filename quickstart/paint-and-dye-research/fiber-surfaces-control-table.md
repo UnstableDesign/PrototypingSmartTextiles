@@ -47,3 +47,5 @@
 |Flax|test |test |test |
 
 # Aida Cloth
+# Cotton Cloth
+# Felt
