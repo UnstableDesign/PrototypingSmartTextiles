@@ -53,3 +53,15 @@
 # Polyester Cloth
 
 # Acrylic Roving
+# Alpaca Roving
+# Cotton Roving
+# Cotton/rayon Roving
+# Flax Roving
+# Wool Roving
+
+# Anchor 08000
+# Anchor 08002
+# Anchor 08004
+# Anchor 08006
+# Dyer Supplier
+# Paton's
