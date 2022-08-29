@@ -65,3 +65,14 @@
 # Anchor 08006
 # Dyer Supplier
 # Paton's
+
+# Cotton Yarn
+# Cotton/poly Yarn
+# Acrylic Yarn
+
+# Daiso 20
+# Daiso 40
+# DMC Pearl
+# Lydia 3
+# Lydia 10
+# Mouline
