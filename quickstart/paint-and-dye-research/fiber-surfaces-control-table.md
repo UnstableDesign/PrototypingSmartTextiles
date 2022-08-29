@@ -18,11 +18,11 @@
 |Wool Yarn Type|test2|test3|test4|
 |:---:|:---:|:---:|:---:|
 |[Anchor 08000](#Anchor-08000)|test |test |test |
-|Anchor 08002|test |test |test |
-|Anchor 08004|test |test |test |
-|Anchor 08006|test |test |test |
-|Dyer Supplier|test |test |test |
-|Paton's|test |test |test |
+|[Anchor 08002](#Anchor-08002)|test |test |test |
+|[Anchor 08004](#Anchor-08004)|test |test |test |
+|[Anchor 08006](#Anchor-08006)|test |test |test |
+|[Dyer Supplier](#Dyer-Supplier)|test |test |test |
+|[Paton's](#Paton's)|test |test |test |
 
 |Cotton/Synthetic Yarn Type|test2|test3|test4|
 |:---:|:---:|:---:|:---:|
