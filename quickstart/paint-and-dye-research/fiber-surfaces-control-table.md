@@ -49,3 +49,7 @@
 # Aida Cloth
 # Cotton Cloth
 # Felt
+# Muslin
+# Polyester Cloth
+
+# Acrylic Roving
