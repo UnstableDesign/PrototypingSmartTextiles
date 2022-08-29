@@ -1,10 +1,10 @@
 |Fabric Type|test2|test3|test4|
 |:---:|:---:|:---:|:---:|
 |[Aida](#Aida-Cloth)|test |test |test |
-|Cotton|test |test |test |
-|Felt |test |test |test |
-|Muslin|test |test |test |
-|Polyester|test |test |test |
+|[Cotton](#Cotton-Cloth)|test |test |test |
+|[Felt](#Felt)|test |test |test |
+|[Muslin](#Muslin)|test |test |test |
+|[Polyester](#Polyester-Cloth)|test |test |test |
 
 |Roving Type|test2|test3|test4|
 |:---:|:---:|:---:|:---:|
