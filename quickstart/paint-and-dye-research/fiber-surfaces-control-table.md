@@ -91,12 +91,21 @@
 ![cotton:poly-yarn-control](https://user-images.githubusercontent.com/70085102/187259546-ef30c531-cc71-4151-8dce-1a6e8881537c.jpeg)
 
 # Daiso 20
+![daiso-20-cotton-thread-control](https://user-images.githubusercontent.com/70085102/187260242-9091daf2-57b6-42da-a23b-0af3575e9b84.jpeg)
 # Daiso 40
+![daiso-40-cotton-thread-control](https://user-images.githubusercontent.com/70085102/187260389-b661a971-276b-4f07-95d9-6ec47cf0cbe8.jpeg)
 # DMC Pearl
+![dmc-cotton-thread-control](https://user-images.githubusercontent.com/70085102/187260507-181008ec-2d13-4a1e-851e-8801517b5fd2.jpeg)
 # Lydia 3
+![lydia-3-cotton-thread-control](https://user-images.githubusercontent.com/70085102/187260646-eb74aa92-564d-4d8e-baf5-9b7b5de3899f.jpeg)
 # Lydia 10
+![lydia-10-cotton-thread-control](https://user-images.githubusercontent.com/70085102/187260760-30f6c8e9-b658-43f2-8473-1e2eff34439b.jpeg)
 # Mouline
+![mouline-cotton-thread-control](https://user-images.githubusercontent.com/70085102/187260870-00ea2ff6-8104-4f70-8ee5-d937653784b7.jpeg)
 
 # Alpaca Yarn
+![alpaca-yarn-control](https://user-images.githubusercontent.com/70085102/187260981-2541ecd3-c43e-414b-b66a-5b9ccd0d0cce.jpeg)
 # Conductive Thread
+![conductive-thread-control](https://user-images.githubusercontent.com/70085102/187261155-fbb82797-41b7-495c-8875-f2cefb1e0b38.jpeg)
 # Flax Yarn
+![flax-yarn-control](https://user-images.githubusercontent.com/70085102/187261243-a2cba4ef-18b4-40b6-b043-716bc2cf02e5.jpeg)
