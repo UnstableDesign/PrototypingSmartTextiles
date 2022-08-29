@@ -28,7 +28,7 @@
 |Cotton/Synthetic Yarn Type|test2|test3|test4|
 |:---:|:---:|:---:|:---:|
 |Cotton|test |test |test |
-|Cotton/poly|test |test |test |
+|[Cotton/poly](#Cotton-Poly-Yarn)|test |test |test |
 |Acrylic|test |test |test |
 
 |Cotton Thread Type|test2|test3|test4|
@@ -87,7 +87,7 @@
 ![acrylic-yarn-control](https://user-images.githubusercontent.com/70085102/187259320-7c3e050a-efb7-467e-9c38-72a8c4305ff1.jpeg)
 # Cotton Yarn
 ![cotton-yarn-control](https://user-images.githubusercontent.com/70085102/187259424-bbeeca53-aaf2-42f6-b4f0-df0d93e8e643.jpeg)
-# Cotton/poly Yarn
+# Cotton Poly Yarn
 ![cotton:poly-yarn-control](https://user-images.githubusercontent.com/70085102/187259546-ef30c531-cc71-4151-8dce-1a6e8881537c.jpeg)
 
 # Daiso 20
