@@ -6,4 +6,5 @@ Pallet
 Pallet knife  
 Brushes  
 
+## For Pigments
 Mortar and pestle  
