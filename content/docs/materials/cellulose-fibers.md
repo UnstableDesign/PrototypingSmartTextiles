@@ -1,4 +1,10 @@
-# Cellulose Fibers
+---
+title: Cellulose
+weight: 3
+---
+
+# Cellulose Based
+
 
 Cellulose fibers are obtained from plants such as cotton, flax \(linen\), bamboo, and hemp. 
 
@@ -6,7 +12,7 @@ Cellulose fibers are obtained from plants such as cotton, flax \(linen\), bamboo
 
 Cotton is the most commonly used material in garments. This is partly because it is soft and breathable but also because it is stronger when it is wet, making it easy to wash in conventional washing machine. Different cottons have different qualities and grades, but they are a bit more consistent between varieties than different kinds of wool, for instance. Cotton takes a lot of water to grow, is hard on soil and and is susceptible to pests so while it is biodegradable, some have second thoughts when considering it as truly sustainable.  
 
-![](../.gitbook/assets/screen-shot-2020-07-16-at-1.06.19-pm.png)
+![](/screen-shot-2020-07-16-at-1.06.19-pm.png)
 
 #### Harvesting
 

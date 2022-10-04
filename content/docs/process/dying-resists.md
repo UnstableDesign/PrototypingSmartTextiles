@@ -21,7 +21,7 @@ Bacteria
 
 Thermochromic
 
-![](../.gitbook/assets/img_9999-animation.gif)
+![](/img_9999-animation.gif)
 
 
 

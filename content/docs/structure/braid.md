@@ -1,6 +1,6 @@
 # Braid
 
-![](../.gitbook/assets/screen-shot-2020-07-23-at-4.55.02-pm.png)
+![](/screen-shot-2020-07-23-at-4.55.02-pm.png)
 
 _a close up of a braided cord. nylon roving was directly braided into this structure._
 
@@ -10,7 +10,7 @@ Yet, we often find braiding as a method of adding strength around a core, for in
 
 Braiding can be performed with in [spun](plied-yarn.md) yarn, [filament](filament.md), or even more complex structures such as knitted cord, as I found when I was disassembling some old shoelaces:
 
-![](../.gitbook/assets/screen-shot-2020-07-27-at-4.47.43-pm.png)
+![](/screen-shot-2020-07-27-at-4.47.43-pm.png)
 
 _A Deconstructed Shoe Lace: the red and green cords are the braided outer sheaths and the multi-colored strands were knitted insides of the lace._
 

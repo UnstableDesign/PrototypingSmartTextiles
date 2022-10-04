@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prototyping Experimental Textiles</title>
+    <link>https://unstable.design/books/prototyping-experimental-textiles/docs/process/weaving/</link>
+    <description>Recent content on Prototyping Experimental Textiles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://unstable.design/books/prototyping-experimental-textiles/docs/process/weaving/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/process/weaving/on-a-frame-loom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/process/weaving/on-a-frame-loom/</guid>
+      <description>Frame Loom Weaving # As you might expect, hand threading a yarn over and under every row can be tedious, which has given rise to the development of horizontal looms with heddles, or, contraptions that lift the warps for you. The heddles lift the yarn, and the weaver throws the yarn through the opening, or shed, lowers the heddles and beats the row they just laid to meet the fabric.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/process/weaving/on-a-tapestry-loom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/process/weaving/on-a-tapestry-loom/</guid>
+      <description>Tapestry Loom Weaving # Weaving on a Tapestry Loom # Tapestry looms are typically frames that allow for yarns to be stretched across their length, and in a fixed length. A weaver can freely weave in and out of the yarns creating more freeform structures and pushing down yarns with a comb. Tapestry looms (and the resulting tapestries) can range in size. This video shows an example of tapestry weaving on a large loom.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/process/weaving/on-an-industrial-jacquard-loom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/process/weaving/on-an-industrial-jacquard-loom/</guid>
+      <description>Industrial/Jacquard Loom Weaving # Jacquard Looms # A jacquard-style loom is one where every heddle can be individually controlled. Originally, they were selected by punch cards (which inspired the earliest forms of computing) and today, they are computer controlled with small motors, electromagnets, and or pneumatics. Jacquard style looms fix the position of each heddle, so they typically have a set density they will weave. Jacquard style looms are best for creating non-repeating patterns and more complex woven structures.</description>
+    </item>
+    
+  </channel>
+</rss>

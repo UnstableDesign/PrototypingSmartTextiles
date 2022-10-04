@@ -6,15 +6,15 @@ The table below represents the resistivity of metallic yarns in comparison to ot
 
 The table below shows that silver is the least resistive \(most conductive\), copper than stainless \(with some in between, but I just included these fibers since they are the most commonly sourced. 
 
-![](../.gitbook/assets/resistivity-by-fiber-generally-.png)
+![](/resistivity-by-fiber-generally-.png)
 
 ## **Copper**
 
 Copper is typically a good material that can be found in lots of form factors, in solid form or plated/wound, insulated and uninsulated and is generally cost effective. Most copper filament is sold as "magnet wire" and available in many diameters. I find 38 AWG magnet wire most workable in terms of strength and flexibility. Copper yarn is also a bit more cost effective than silver for roughly similar conductivity. People advertise copper as a material with wonder-benefits for [anti-aging and promoting health](https://resistex.com/en/copper/), but it is more commonly used as a shielding and grounding material with antibacterial, anti-viral, and anti-fungal properties.  
 
-![](../.gitbook/assets/screen-shot-2020-08-18-at-7.23.17-pm.png)
+![](/screen-shot-2020-08-18-at-7.23.17-pm.png)
 
-![](../.gitbook/assets/img_9233.jpg)
+![](/img_9233.jpg)
 
 These images show a detail of the Karl Grimm Kupfer Blanc 7x1 solderable copper yarn \(7 strands, 1 ply\). You can in the magnified structure that it is a thin sheet of cotton wound around 7 individual cores of a different material. 
 
@@ -40,25 +40,25 @@ Silver is said to have [anti-odor and anti-bacterial](https://www.thedailybeast.
 
 Below we show several ways that silver is integrated into yarn below: 
 
-![](../.gitbook/assets/img_9236.jpg)
+![](/img_9236.jpg)
 
 In this "[Silver Spun"  product](https://www.jimmybeanswool.com/knitting/yarn/FeelGoodYarn/SilverSpunreg.asp?showLarge=true&specPCVID=89997), silver \(5%\) is plied with combed cotton \(87%\), Nylon \(5%\) and Spandex \(3%\). It is very soft and stretchy. 
 
-![](../.gitbook/assets/screen-shot-2020-08-18-at-7.19.15-pm%20%281%29.png)
+![](/screen-shot-2020-08-18-at-7.19.15-pm%20%281%29.png)
 
 The microscope image and my guess from the percentages seems to suggest that a silver plated nylon is plied with cotton/spandex singles. 
 
 Karl Grimm also makes a solderable silver yarn in the same 7x1 configuration as the copper show above. It also looks as though a sheet of silver is wrapped around a core within each of the 7 singles that make up the yarn.
 
-![](../.gitbook/assets/img_9234.jpg)
+![](/img_9234.jpg)
 
 
 
 Silver also is the material used in this more resistive yarn provided by [V Technical Textiles](http://www.shopvtechtextiles.com/23534-dtex-2-ply-High-Conductive-Twisted-Yarn-B_p_139.html) shown below. 
 
-![](../.gitbook/assets/img_9232.jpg)
+![](/img_9232.jpg)
 
-![](../.gitbook/assets/screen-shot-2020-08-18-at-7.24.08-pm.png)
+![](/screen-shot-2020-08-18-at-7.24.08-pm.png)
 
 This image shows that many individual strands of silver plated nylon are plied together. Because there are so many small fibers and because of the ply, you might expect this yarn's resistance to lower when stretched, as the individual sheets of silver would be more closely touching. 
 
@@ -138,7 +138,7 @@ Conductive Materials, like stainless steel, can be purchased as roving and hand 
 
 
 
-![](../.gitbook/assets/img_9243.jpg)
+![](/img_9243.jpg)
 
 Plusea d[emonstrates the various reactions of stainless blends with magnets](https://www.youtube.com/watch?time_continue=2&v=In212gmWD-4&feature=emb_title). 
 
@@ -162,4 +162,8 @@ Silk Covered Aluminum
 ## Gold
 
 [https://www.swicofil.com/commerce/brands/swicogold](https://www.swicofil.com/commerce/brands/swicogold)
+
+## Nickel
+
+[https://en.wikipedia.org/wiki/Nickel](https://en.wikipedia.org/wiki/Nickel)
 

@@ -1,3 +1,8 @@
+---
+title: Resistors
+weight: 3
+---
+
 # Resistors
 
 Every conductive material imposes a certain amount of resistance per unit length. The amount of resistance can be measured by a multimeter and depends on a number of factors such as temperature, width, material, etc. A resistor, in traditional electronics, is used to limit the voltage provided to a particular part of your circuit \(because Voltage = current \* resistance\). 

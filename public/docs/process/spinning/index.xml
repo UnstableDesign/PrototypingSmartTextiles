@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prototyping Experimental Textiles</title>
+    <link>https://unstable.design/books/prototyping-experimental-textiles/docs/process/spinning/</link>
+    <description>Recent content on Prototyping Experimental Textiles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://unstable.design/books/prototyping-experimental-textiles/docs/process/spinning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/process/spinning/drop-spindle-spinning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/process/spinning/drop-spindle-spinning/</guid>
+      <description>Drop Spindle Spinning # An accessible method of spinning can be accomplished using a drop spindle. A drop spindle is a modified top that one manually spins in order to add twist to the fiber. This is an ancient practice that still largely resembles its process from 20,000 years ago. For those interested in how these techniques varied in medieval times by region, you may enjoy this demonstration of technique.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/process/spinning/spinning-wheel-spinning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/process/spinning/spinning-wheel-spinning/</guid>
+      <description>Spinning Wheel Spinning # The most common method of spinning requires a spinning wheel (yes, the machine of fairy tale lore), which requires a substantial amount of technique and know how to use it effectively. A spinning wheel requires the spinner to use their feet to spin the wheel at an even pace and both their hands to draw the fibers into the wheel. It is faster and produces higher quality yarn than the other techniques.</description>
+    </item>
+    
+  </channel>
+</rss>

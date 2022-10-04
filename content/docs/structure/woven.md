@@ -1,10 +1,16 @@
+---
+title: Woven
+weight: 9
+
+---
+
 # Woven
 
-![](../.gitbook/assets/tei_front_back_detail_2.jpg)
+![](/tei_front_back_detail_2.jpg)
 
 A woven textile structure is created by interlacing material \(most often [plied yarn](plied-yarn.md) and[ filaments](filament.md)\) in two directions: the _warp_ \(threads running along the length\), and _weft_ \(threads running along the width\). These structures are created by stretching or "warping" a set of parallel yarns \(or radical yarns in circular weaving\), and then interweaving the weft yarns in a perpendicular direction to bind the textile together. The specific patterning of "overs" and "unders" gives the woven textile different thicknesses, ability to sheer, and durability, etc.
 
-![](../.gitbook/assets/weave_details.jpg)
+![](/weave_details.jpg)
 
 _figures representing different structural possibilities for woven fabrics_
 
@@ -13,7 +19,7 @@ Because of their durability and less stretchy structure, woven fabrics are commo
 Woven structures are not inherently as stretchy as knits and the structure of weaving equipment makes working with stretchy materials challenging. Yet, like knitting, woven structure can be varied across the surface of a fabric giving rise to materials that have different mechanical properties in various regions.  
 One of the strengths of weaving is its ability to easily create multi-layered structures, where multiple layers and interlacements of layers can be woven at one time. This allows for pockets and tubes to be easily embedded into the structure of a woven fabric, a technique that is often used for the creation of quilted fabrics but can also be used for multi-layered woven circuits.
 
-![](../.gitbook/assets/double_weave_tests_3-01.jpg)
+![](/double_weave_tests_3-01.jpg)
 
 Because woven tend not to be stretchy and require less knotting or looping of materials \(in most cases\), weaving is often preferable for brittle materials or materials that do not bend well. Furthermore, the process of weaving makes it easy to integrate a wide variety of materials with a wide variety of widths into the structure, creating interesting textures and methods for integrating "hard" materials into their soft structure.
 

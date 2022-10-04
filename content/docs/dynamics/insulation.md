@@ -1,3 +1,9 @@
+---
+title: Insulation
+weight: 5
+---
+
+
 # Insulation
 
 Insulation is a method for preventing the flow of electricity to areas neighboring your traces. Some soft sensor and actuator structures rely on traces being insulated from one and other, others don't. In some cases, you might also find that your materials already come insulated. In others, you need to provide insulation yourself. You can test if your material is insulated or not by connecting a multimeter across a length of conductive string and seeing and checking for a connection. In some other cases, you may want to insulate your entire circuit or just one trace from another. Below we list a few common methods for insulating: 

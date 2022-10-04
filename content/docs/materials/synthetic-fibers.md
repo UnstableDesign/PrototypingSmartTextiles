@@ -1,3 +1,8 @@
+---
+title: Synthetic
+weight: 4
+---
+
 # Synthetic Fibers
 
 Synthetic fibers are made from chemical solutions, such a polymer solutions, that are [extruded](../process/extruding-3d-printing.md) and cured or otherwise formed into [filaments](../structure/filament.md). Sometimes these are cut to produce [staple fibers](../structure/staple-fiber.md). Synthetic fibers are engineered to provide interesting properties \([such as piezoelectric effects](https://www.intechopen.com/books/piezoelectricity-organic-and-inorganic-materials-and-applications/piezoelectric-melt-spun-textile-fibers-technological-overview)\) and/or to mimic the properties of existing materials at a lower cost, such as the case of nylon, which was originally branded as "artificial silk."
@@ -41,9 +46,13 @@ Rayon is a synthetic fiber that a form of "regenerated cotton." Specifically, it
 | Woven | Easy  |
 | Non-Woven | Easy \(e.g. [http://www.yaolongnonwoven.com/en/PA6/](http://www.yaolongnonwoven.com/en/PA6/)\) |
 
+
 ## Acrylic
 
 Acrylic is another polymer based yarn that contains at least 85% [acrylonitrile](https://en.wikipedia.org/wiki/Acrylonitrile) [monomer](https://en.wikipedia.org/wiki/Monomer). It is commonly found in fabric shops in a wide range of bright colors and textures. 
+
+[http://polymerdatabase.com/Fibers/Acrylics.html](http://polymerdatabase.com/Fibers/Acrylics.html)
+
 
 | Structure | Possibility to Source in this Structure |
 | :--- | :--- |
@@ -55,4 +64,37 @@ Acrylic is another polymer based yarn that contains at least 85% [acrylonitrile]
 | Knit | Easy |
 | Woven | Easy  |
 | Non-Woven | Yes? |
+
+
+# Other Experimental Fibers
+
+## Carbon Nanotube Yarns
+
+[https://www.youtube.com/watch?v=4XDJC64tDR0](https://www.youtube.com/watch?v=4XDJC64tDR0)
+
+## Thermoplastic yarns
+
+[https://giovannaimperia.com/yarn/plastic/thermoplastic-redcore.html](https://giovannaimperia.com/yarn/plastic/thermoplastic-redcore.html)
+
+## Other Carbon
+
+[https://resistex.com/en/carbon/](https://resistex.com/en/carbon/)
+
+## Bio-Ceramic
+
+[https://resistex.com/en/bioceramic/](https://resistex.com/en/bioceramic/)
+
+## Retroreflective Yarns
+
+[http://texturatrading.com/yarn.html\#Wire](http://texturatrading.com/yarn.html#Wire)
+
+## Angelina Heat Bondable Sparkle Yarns
+
+[http://texturatrading.com/fiber.html](http://texturatrading.com/fiber.html)
+
+[http://texturatrading.com/Penny.html](http://texturatrading.com/Penny.html)
+
+## Recent Synthetic Yarns
+
+[https://boltthreads.com/technology/microsilk/](https://boltthreads.com/technology/microsilk/)
 

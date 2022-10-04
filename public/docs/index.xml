@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Prototyping Experimental Textiles</title>
+    <link>https://unstable.design/books/prototyping-experimental-textiles/docs/</link>
+    <description>Recent content in Docs on Prototyping Experimental Textiles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://unstable.design/books/prototyping-experimental-textiles/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Contribute</title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/contribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/contribute/</guid>
+      <description>How to Contribute # It is our intention for this book to become a resource that an entire community can contribute towards. Hoping this will be an open source book, forked, edited, and added to by others.
+If you would like to contribute to the book, visit the GitHub repository for the project at: https://github.com/UnstableDesign/PrototypingSmartTextiles
+If you are comfortable with GitHub and the command line interface, you can follow these instructions to make changes and submit pull requests to the organizers.</description>
+    </item>
+    
+  </channel>
+</rss>

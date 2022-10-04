@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Materials on Prototyping Experimental Textiles</title>
+    <link>https://unstable.design/books/prototyping-experimental-textiles/docs/materials/</link>
+    <description>Recent content in Materials on Prototyping Experimental Textiles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://unstable.design/books/prototyping-experimental-textiles/docs/materials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comparing Materials</title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/materials/comparing-materials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/materials/comparing-materials/</guid>
+      <description>Comparing Materials # In some projects, you may want to select fibers based on the properties you need and its useful to be able to look at them side by side and see which you might prefer. To help this, we have attempted to put information about each fiber in a common space. These, however, are incredibly general as some measurements (e.g. resistivity) will vary greatly on the specific preparation of the material for use in a textile.</description>
+    </item>
+    
+    <item>
+      <title>Protein</title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/materials/protein-fibers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/materials/protein-fibers/</guid>
+      <description>Protein Fibers # Wool # Wool fiber is harvested from animals, such as sheep, goats and alpaca, and can be obtained in many different grades that make it softer, more brash, etc. for different purposes. When the word &amp;ldquo;wool&amp;rdquo; is used, it is typically referring to sheeps wool. Typically, wools with shorter and finer staple lengths (like cashmere or merino) are carded into woolen yarns for exceptional softness. Longer staple fibers are used for more durable applications.</description>
+    </item>
+    
+    <item>
+      <title>Cellulose</title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/materials/cellulose-fibers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/materials/cellulose-fibers/</guid>
+      <description>Cellulose Based # Cellulose fibers are obtained from plants such as cotton, flax (linen), bamboo, and hemp.
+Cotton # Cotton is the most commonly used material in garments. This is partly because it is soft and breathable but also because it is stronger when it is wet, making it easy to wash in conventional washing machine. Different cottons have different qualities and grades, but they are a bit more consistent between varieties than different kinds of wool, for instance.</description>
+    </item>
+    
+    <item>
+      <title>Synthetic</title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/materials/synthetic-fibers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/materials/synthetic-fibers/</guid>
+      <description>Synthetic Fibers # Synthetic fibers are made from chemical solutions, such a polymer solutions, that are extruded and cured or otherwise formed into filaments. Sometimes these are cut to produce staple fibers. Synthetic fibers are engineered to provide interesting properties (such as piezoelectric effects) and/or to mimic the properties of existing materials at a lower cost, such as the case of nylon, which was originally branded as &amp;ldquo;artificial silk.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/materials/metallic-fibers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/materials/metallic-fibers/</guid>
+      <description>Metallic Fibers # Metallic fibers are those that conduct electricity and are often blended, as fibers or filaments with non-conductive fibers to make workable yarn.
+The table below represents the resistivity of metallic yarns in comparison to other natural and synthetic fibers. The metallic fibers numbers are consistently measured where the other numbers should be taken with a VERY BIG grain of salt as I wasn&amp;rsquo;t able to find consistent measurements across fibers so they represent whatever I could find anywhere.</description>
+    </item>
+    
+  </channel>
+</rss>

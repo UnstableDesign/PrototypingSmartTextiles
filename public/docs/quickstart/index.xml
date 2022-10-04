@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quick Start on Prototyping Experimental Textiles</title>
+    <link>https://unstable.design/books/prototyping-experimental-textiles/docs/quickstart/</link>
+    <description>Recent content in Quick Start on Prototyping Experimental Textiles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://unstable.design/books/prototyping-experimental-textiles/docs/quickstart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/quickstart/thermochromics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/quickstart/thermochromics/</guid>
+      <description>Programmable Color Changing Fabric # This activities focuses on the creation of a programmable color changing yarn, which can then be knit, woven, or otherwise combined into a programmable color changing fabric.
+How Does it Work? # This project leverages thermochromism, the quality of paritcular pigments or dyes to change from a color to transparent above a specified temperature. Specifically, heat causes the chemical structure of the pigments to change, leading our eye to percieve them as either a solid color or transparent.</description>
+    </item>
+    
+  </channel>
+</rss>

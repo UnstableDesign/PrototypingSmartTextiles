@@ -26,3 +26,5 @@ You are also welcome to email us at unstabledesignlab@gmail.com if you have smal
 
 [**Steven Frost**](https://www.stevenfrost.com/) is a fiber and Performance Artist & Instructor, Department of Media Studies College of Media Communication & Information, University of Colorado Boulder.
 
+[**Mallory Benna**](https://mallorybenna.com/) Mallory is a former student in the ATLAS student and member of the Unstable Design Lab
+

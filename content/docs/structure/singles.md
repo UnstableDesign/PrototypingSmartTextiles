@@ -1,6 +1,12 @@
+---
+title: Singles
+weight: 3
+
+---
+
 # Singles
 
-![](../.gitbook/assets/3299380830_e09f66db1c_k%20%281%29.jpg)
+![](/3299380830_e09f66db1c_k%20%281%29.jpg)
 
   
 singles describes the first structure that emerges after roving or top are given spin. Most yarns are often made from several strands of singles. 

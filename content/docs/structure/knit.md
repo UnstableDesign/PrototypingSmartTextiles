@@ -1,8 +1,14 @@
+---
+title: Knit
+weight: 8
+
+---
+
 # Knit
 
  __A knit is a textile structure created by arranging material \(most often [plied yarn](plied-yarn.md) and[ filaments](filament.md)\) into a series of interconnecting loops. These interconnecting loops can create a flat-\(ish\) textile with the ability to stretch in all directions as well as tubular or flat circular structures that strength along their length and width. The amount of stretch for a given knit depends on the materials, density, and stitches used. A stitch describes a specific combination of yarn manipulations in the fabrication process that imbue the knit with a particular structure \([we cover this more in our process section](../process/knitting/)\).
 
-![](../.gitbook/assets/so_yarn_examples.039.jpeg)
+![](/so_yarn_examples.039.jpeg)
 
 \_\_
 
@@ -12,7 +18,7 @@ Choices of material, stitch and density can vary across the surface of a knitted
 
 Knitting allows for the construction of shapes without textile waste. One works with different patterns, structures, increasing and decreasing stitches to create shape. The structure of knits varies by the stitches used in their production, which make the knit more or less stretchy, more or less open in various regions of the overall structure.
 
-![](../.gitbook/assets/img_9162.jpg)
+![](/img_9162.jpg)
 
 An image showing the stretchiness of a knit swatch
 

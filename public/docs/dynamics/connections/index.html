@@ -1,0 +1,1330 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Connections # Once you have made your traces, you must then find ways to connect different &ldquo;components&rdquo; together. Good connections should be tight, robust and tidy, making sure that they don&rsquo;t break or short your circuit unexpectedly.
+There are two primary modes of connecting: soft-to-soft, where both things being connected are flexible and stretchable, or soft-to-hard where you are connecting a soft material to a rigid material (e.g. a thread to an Arduino).">
+<meta name="theme-color" content="#FFFFFF">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="Connections" />
+<meta property="og:description" content="Connections # Once you have made your traces, you must then find ways to connect different &ldquo;components&rdquo; together. Good connections should be tight, robust and tidy, making sure that they don&rsquo;t break or short your circuit unexpectedly.
+There are two primary modes of connecting: soft-to-soft, where both things being connected are flexible and stretchable, or soft-to-hard where you are connecting a soft material to a rigid material (e.g. a thread to an Arduino)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/connections/" /><meta property="article:section" content="docs" />
+
+
+
+<title>Connections | Prototyping Experimental Textiles</title>
+<link rel="manifest" href="/books/prototyping-experimental-textiles/manifest.json">
+<link rel="icon" href="/books/prototyping-experimental-textiles/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/books/prototyping-experimental-textiles/book.min.c58292d36b18b675680ab9baea2029204537b839ea72f258746ec0f32ce8d6c8.css" integrity="sha256-xYKS02sYtnVoCrm66iApIEU3uDnqcvJYdG7A8yzo1sg=" crossorigin="anonymous">
+  <script defer src="/books/prototyping-experimental-textiles/flexsearch.min.js"></script>
+  <script defer src="/books/prototyping-experimental-textiles/en.search.min.47bcb253e7713dc1355daffce40ad5ca3d99518930a6b9a250e6fdd80ae2c105.js" integrity="sha256-R7yyU&#43;dxPcE1Xa/85ArVyj2ZUYkwprmiUOb92AriwQU=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/books/prototyping-experimental-textiles/"><span>Prototyping Experimental Textiles</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/contribute/" class="">How to Contribute</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-04872d6fa36af3b366aa342096bf17a2" class="toggle"  />
+    <label for="section-04872d6fa36af3b366aa342096bf17a2" class="flex justify-between">
+      <a href="/books/prototyping-experimental-textiles/docs/structure/" class="">Structure</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/staple-fiber/" class="">Staple Fiber</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/filament/" class="">Filament</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/roving-and-top/" class="">Roving and Top</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/singles/" class="">Singles</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/plied-yarn/" class="">Plied Yarn</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/yarn-thread/" class="">Yarn / Thread</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/knit/" class="">Knit</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/non-woven/" class="">Non-Woven</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/woven/" class="">Woven</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/braid/" class="">Braid</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/core-spun-yarn/" class="">Core Spun Yarn</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/textile-friendly-object/" class="">Textile Friendly Object</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-01f429afc12b2b62def3ac4aa053fed7" class="toggle"  />
+    <label for="section-01f429afc12b2b62def3ac4aa053fed7" class="flex justify-between">
+      <a role="button" class="">Materials</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/materials/comparing-materials/" class="">Comparing Materials</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/materials/protein-fibers/" class="">Protein</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/materials/cellulose-fibers/" class="">Cellulose</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/materials/synthetic-fibers/" class="">Synthetic</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/materials/metallic-fibers/" class="">Metallic Fibers</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-a3b013e590b1b2614fd061faedd3a64c" class="toggle"  />
+    <label for="section-a3b013e590b1b2614fd061faedd3a64c" class="flex justify-between">
+      <a role="button" class="">Processes</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/bonding/" class="">Bonding</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/braiding/" class="">Braiding</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/coating/" class="">Coating</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/combing-and-carding/" class="">Combing and Carding</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/dying-resists/" class="">Dying Resists</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/electroplating/" class="">Electroplating</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/electrospinning/" class="">Electrospinning</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/embroidery/" class="">Embroidery</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/etching/" class="">Etching</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/extruding-3d-printing/" class="">Extruding 3d Printing</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/felting/" class="">Felting</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/growing/" class="">Growing</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/knitting/" class="">Knitting</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/knitting/hand-knitting/" class="">Hand Knitting</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/knitting/machine-knitting/" class="">Machine Knitting</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/paper-making/" class="">Paper Making</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/pleating/" class="">Pleating</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/plying/" class="">Plying</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/plying/ad-hoc-plying/" class="">Ad Hoc Plying</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/plying/plying-on-a-spinning-wheel/" class="">Plying on a Spinning Wheel</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/plying/plying-with-a-drop-spindle/" class="">Plying With a Drop Spindle</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/plying/plying-with-a-rope-machine/" class="">Plying With a Rope Machine</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/sewing/" class="">Sewing</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/sewing/" class="">Sewing</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/sewing/hand-sewing/" class="">Hand Sewing</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/sewing/machine-sewing/" class="">Machine Sewing</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/spinning/" class="">Spinning</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/spinning/drop-spindle-spinning/" class="">Drop Spindle Spinning</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/spinning/spinning-wheel-spinning/" class="">Spinning Wheel Spinning</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/weaving/" class="">Weaving</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/weaving/on-a-frame-loom/" class="">On a Frame Loom</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/weaving/on-a-tapestry-loom/" class="">On a Tapestry Loom</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/weaving/on-an-industrial-jacquard-loom/" class="">On an Industrial Jacquard Loom</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-8dcef95ea0bbb403c6ba1fcf114f437a" class="toggle" checked />
+    <label for="section-8dcef95ea0bbb403c6ba1fcf114f437a" class="flex justify-between">
+      <a href="/books/prototyping-experimental-textiles/docs/dynamics/" class="">Dynamics</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/traces/" class="">Traces</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/connections/" class="active">Connections</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/resistors/" class="">Resistors</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/resistive-sensors/" class="">Resistive Sensing</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/insulation/" class="">Insulation</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/electromagnet/" class="">Electromagnets</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/physical-state-change/" class="">Physical State Change</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/capacitors/" class="">Capacitors</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-c29404850aebd81547f0e0142c5578b2" class="toggle"  />
+    <label for="section-c29404850aebd81547f0e0142c5578b2" class="flex justify-between">
+      <a role="button" class="">Resources</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/resources/collections-of-techniques-and-examples/" class="">Collections of Techniques and Examples</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/resources/how-to-weave/" class="">How to Weave</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/resources/suppliers-of-prepared-thread-yarn-and-filament/" class="">Suppliers of Prepared Thread Yarn and Filament</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-5053b5f94b9f09e9d5c121d0164ff764" class="toggle"  />
+    <label for="section-5053b5f94b9f09e9d5c121d0164ff764" class="flex justify-between">
+      <a role="button" class="">Quick Start</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/quickstart/thermochromics/" class="">Thermochromics</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/books/prototyping-experimental-textiles/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Connections</strong>
+
+  <label for="toc-control">
+    
+    <img src="/books/prototyping-experimental-textiles/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#hard-to-soft">Hard-to-Soft</a>
+      <ul>
+        <li><a href="#metal-snaps">Metal Snaps</a></li>
+        <li><a href="#soldering">Soldering</a></li>
+        <li><a href="#structural-integration">Structural Integration</a></li>
+      </ul>
+    </li>
+    <li><a href="#soft-to-soft">Soft-to-Soft</a>
+      <ul>
+        <li><a href="#knots">Knots</a></li>
+      </ul>
+    </li>
+    <li><a href="#temporary-connection-methods">Temporary Connection Methods</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h1 id="connections">
+  Connections
+  <a class="anchor" href="#connections">#</a>
+</h1>
+<p>Once you have made your traces, you must then find ways to connect different &ldquo;components&rdquo; together. Good connections should be tight, robust and tidy, making sure that they don&rsquo;t break or short your circuit unexpectedly.</p>
+<p>There are two primary modes of connecting: soft-to-soft, where both things being connected are flexible and stretchable, or soft-to-hard where you are connecting a soft material to a rigid material (e.g. a thread to an Arduino). Soft to hard connections are typically more prone to error than soft to soft.</p>
+<p>There are already really great online resources that show a variety of techniques such as Kobakant&rsquo;s <a href="https://www.kobakant.at/DIY/?p=1272">overview of connection techniques</a> and detailed descriptions of many methods in their &ldquo;<a href="https://www.kobakant.at/DIY/?p=7077">Connections&rdquo; category.</a> There are <a href="http://etextile-summercamp.org/2017/summercamp/hardsoft-connections/">also many techniques in this summary produced by e-textiles summer camp 2017</a>.</p>
+<h2 id="hard-to-soft">
+  Hard-to-Soft
+  <a class="anchor" href="#hard-to-soft">#</a>
+</h2>
+<p>Look no further than <a href="">Kobakant</a><a href="https://www.kobakant.at/DIY/?p=1272">https://www.kobakant.at/DIY/?p=1272</a> for a complete overview</p>
+<h3 id="metal-snaps">
+  Metal Snaps
+  <a class="anchor" href="#metal-snaps">#</a>
+</h3>
+<p><a href="http://www.rachelfreire.com/second-skin">http://www.rachelfreire.com/second-skin</a></p>
+<p><a href="https://www.flickr.com/photos/rachelfreirestudio/albums/72157686333010996">https://www.flickr.com/photos/rachelfreirestudio/albums/72157686333010996</a></p>
+<h3 id="soldering">
+  Soldering
+  <a class="anchor" href="#soldering">#</a>
+</h3>
+<p>Some soft materials can be directly soldered to or soldered upon, allowing for more complex geometries and tightly packed connections. In non-wearable applications, I have had luck twisting a conductive yarn around a looped stranded or solid core wire, and soldering the wire to itself (catching the thread in between).</p>
+<p>Soldering to headers from a fabric using a pocket structure:<br>
+<a href="https://www.instructables.com/id/Simple-E-textile-Connector/">https://www.instructables.com/id/Simple-E-textile-Connector/</a></p>
+<h3 id="structural-integration">
+  Structural Integration
+  <a class="anchor" href="#structural-integration">#</a>
+</h3>
+<p>When you have conductive materials integrated into your textile structure, one simple possibility is to simply integrate traditional wires into the structure so that the structure, itself, holds the materials in close contact. This is what I did in this project, <a href="http://artfordorks.com/2020/04/a-fabric-that-remembers/">essentially twisting soft and more sturdy wires together at weaving time</a>. In a different project, we soldered silicone coated wires directly to an arduino pro mini and then integrated the arduino into a <a href="http://unstable.design/some-teaser-images-from-our-experimental-weaving-residency/">pocket within the woven structure, then wound the edges of the wire and yarn together within the fabric itself</a>. You can see the FTDI connector pocking out of the fabric below, with the black wires routing through the structure.</p>
+<p><img src="/img_6837-1024x768.jpg" alt="" /></p>
+<h2 id="soft-to-soft">
+  Soft-to-Soft
+  <a class="anchor" href="#soft-to-soft">#</a>
+</h2>
+<h3 id="knots">
+  Knots
+  <a class="anchor" href="#knots">#</a>
+</h3>
+<p>The first method can be simply knotting materials together. In soft-to-soft, this can be as simple as typing a weavers knot, ensuring it will remain tight, and then trimming long ends to ensure against shorting. In soft to hard connections, one typically can knot around the through-hole of a hard component. In this case, it can be wise to coil the material through the hole a few times to ensure good contact between the metal fibers in your soft material and the metal connections on the component you are connecting to. Frequent method of using knots include knotting conductive material around a metal snap and on the other side of the metal snap, soldering on a wire.</p>
+<h2 id="temporary-connection-methods">
+  Temporary Connection Methods
+  <a class="anchor" href="#temporary-connection-methods">#</a>
+</h2>
+<p>There are also alternatives to using something like alligator clips when testing your circuit by using materials, like pins and clips, that have been designed to hold to textile structures.</p>
+<p>Irene Posch&rsquo;s Collection of Handmade Connectors for Soft Electronics:<br>
+<a href="http://www.ireneposch.net/tooling/">http://www.ireneposch.net/tooling/</a></p>
+<p>Adapted Seem Ripper:<br>
+<a href="https://www.plusea.at/?p=2220">https://www.plusea.at/?p=2220</a></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Process</th>
+<th style="text-align:left">Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Combing and Carding</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Spinning</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Extruding/3D printing</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Plying</td>
+<td style="text-align:left">Plying the connecting materials together or plying one material around another</td>
+</tr>
+<tr>
+<td style="text-align:left">Braiding</td>
+<td style="text-align:left">Braiding the connecting materials together in sheath or connecting core and sheather</td>
+</tr>
+<tr>
+<td style="text-align:left">Paper-Making</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Growing</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Knitting</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Weaving</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Embroidery</td>
+<td style="text-align:left">Embroidering directly into the through-holes of hardware.</td>
+</tr>
+<tr>
+<td style="text-align:left">Felting</td>
+<td style="text-align:left">Connecting with needle or wet felting?</td>
+</tr>
+<tr>
+<td style="text-align:left">Coating</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Dying</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Bonding</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Etching</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Pleating</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Electrospinning</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Sewing</td>
+<td style="text-align:left">Sewing and knotting is most common or sewing onto snaps and snapping together.</td>
+</tr>
+</tbody>
+</table>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+  <div>
+    <a class="flex align-center" href="https://github.com/UnstableDesign/PrototypingSmartTextiles/edit/master/public/content/docs/dynamics/connections.md" target="_blank" rel="noopener">
+      <img src="/books/prototyping-experimental-textiles/svg/edit.svg" class="book-icon" alt="Edit" />
+      <span>Edit this page</span>
+    </a>
+  </div>
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#hard-to-soft">Hard-to-Soft</a>
+      <ul>
+        <li><a href="#metal-snaps">Metal Snaps</a></li>
+        <li><a href="#soldering">Soldering</a></li>
+        <li><a href="#structural-integration">Structural Integration</a></li>
+      </ul>
+    </li>
+    <li><a href="#soft-to-soft">Soft-to-Soft</a>
+      <ul>
+        <li><a href="#knots">Knots</a></li>
+      </ul>
+    </li>
+    <li><a href="#temporary-connection-methods">Temporary Connection Methods</a></li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

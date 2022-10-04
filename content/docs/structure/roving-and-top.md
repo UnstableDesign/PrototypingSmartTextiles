@@ -1,6 +1,11 @@
+---
+title: Roving and Top
+weight: 2
+
+---
 # Roving and Top
 
-![](../.gitbook/assets/5482951525_d1d8b5cf5d_k.jpg)
+![](/5482951525_d1d8b5cf5d_k.jpg)
 
 _Image Caption: Roving \(the form shown on the right\) pictured alongside_ [_singles_](singles.md) _and spun yarn on a_ [_drop spindle_](../process/spinning/drop-spindle-spinning.md)_. Credit: Lisa Dusseault on Flickr_
 

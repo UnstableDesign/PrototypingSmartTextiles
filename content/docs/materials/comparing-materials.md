@@ -1,3 +1,8 @@
+---
+title: Comparing Materials
+weight: 1
+---
+
 # Comparing Materials
 
 In some projects, you may want to select fibers based on the properties you need and its useful to be able to look at them side by side and see which you might prefer. To help this, we have attempted to put information about each fiber in a common space. These, however, are incredibly general as some measurements \(e.g. resistivity\) will vary greatly on the specific preparation of the material for use in a textile. 
@@ -12,7 +17,7 @@ We have organized this information within fiber groups and across fiber groups w
 
 for staple fibers, this describes the range of lengths available for each fiber. Measured in millimeters. Staple length is usually given in a range. In the chart below, we plotted the minimum possible staple length - showing linen to be the shortest and silk, by far, to be the longest. Longer staple length fibers require less individual fibers in spinning \(allowing them to be finer\). This measure is somewhat irrelevant for synthetic fibers, which are extruded and cut into any length. 
 
-![](../.gitbook/assets/minimum-staple-length-in-mm-.png)
+![](/minimum-staple-length-in-mm-.png)
 
 
 
@@ -20,14 +25,14 @@ for staple fibers, this describes the range of lengths available for each fiber.
 
 For staple fibers, this describes the range of widths for each fiber type and its measured in microns. The chart below shows the minimum diameter possible for each fiber, with silk being the finest and worsted wool being the most coarse. The finer the fiber, the lighter and finer the yarn. This number is somewhat irrelevant for filaments, which can be extruded at different diameters depending on the equipment used. 
 
-![](../.gitbook/assets/minimum-fiber-diameter-in-microns-.png)
+![](/minimum-fiber-diameter-in-microns-.png)
 
 ### Moisture Regain
 
   
 [Moisture regain](http://cameo.mfa.org/wiki/Moisture_regain) is a measure of how much moisture the fiber can absorb and still feel dry to the touch.The chart below shows both the low and high range of moisture regain measured across natural and synthetic fibers. The chart below shows that natural fibers have better regain than synthetics do not. I was not able to find this information for metals more generally. 
 
-![](../.gitbook/assets/moisture-regain-.png)
+![](/moisture-regain-.png)
 
 
 
@@ -49,7 +54,7 @@ Is the inverse of conductivity and expresses how resistive a material is \(gener
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Resistivity | \(2.0 ± 0.1\)x10^6 | \(2.0 ± 0.1\)x10^6 | [9.53×10^9](http://composites.utk.edu/papers%20in%20pdf/Fibers-polymer_2016.pdf) |  | said to be higher than cotton and wool | insulator when dry | [3.6\*10^11](https://link.springer.com/article/10.1007/s10570-016-1107-7) |  | 1.59x10^-8 | 1.68×10^−8 | 6.9×^10−7 |
 
-![](../.gitbook/assets/resistivity-by-fiber-generally-.png)
+![](/resistivity-by-fiber-generally-.png)
 
 ### **Anti-Static**
 

@@ -1,3 +1,9 @@
+---
+title: Physical State Change
+weight: 7
+---
+In progress!
+
 # Physical State Change
 
 ## Shape Change
@@ -17,6 +23,8 @@ Lets start with a [McKibben artificial muscle](https://softroboticstoolkit.com/b
 pleating, folding, switch
 
 auxetic structures \(jifei, benhaz\)  
+
+
   
 Mechanical Characterization   
 [https://www.youtube.com/watch?v=Fbqn-swwf-Q](https://www.youtube.com/watch?v=Fbqn-swwf-Q)  

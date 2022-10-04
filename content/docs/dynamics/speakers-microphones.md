@@ -1,3 +1,9 @@
+---
+title: Speakers
+weight: 5
+draft: true
+---
+
 # Speakers / Microphones
 
 ## **Electromagnetic Sensors**

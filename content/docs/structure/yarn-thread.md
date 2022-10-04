@@ -1,3 +1,9 @@
+---
+title: Yarn / Thread
+weight: 4
+
+---
+
 # Yarn / Thread
 
 The terms yarn and thread typically describe any material that is long and thin. However, they are not indicative of a particular structure. 

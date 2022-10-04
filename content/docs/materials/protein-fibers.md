@@ -1,10 +1,15 @@
+---
+title: Protein
+weight: 2
+---
+
 # Protein Fibers
 
 ## Wool
 
 Wool fiber is harvested from animals, such as sheep, goats and alpaca, and can be obtained in many different grades that make it softer, more brash, etc. for different purposes. When the word "wool" is used, it is typically referring to sheeps wool. Typically, wools with shorter and finer staple lengths \(like cashmere or merino\) are [carded](../process/combing-and-carding.md) into woolen yarns for exceptional softness. Longer staple fibers are used for more durable applications. Wool is often noted for its unique "crimped" structure, elasticity, and durability \(in the sense that you can bend the fibers lots and they don't break\). The little crimps or barbs of the wool fiber, make it hold really nicely to other fibers when it is spun into yarn, also making it a bit more durable \(as long as it isn't wet\). Because of these crimps, wool fibers line up in yarn with little pockets of air between them. These little air pockets give it is insulating qualities and heat and cold can't easily move through the contained little air pockets. It is naturally fire resistant \(to some degree\). Additionally, the cellular makeup of wool makes it particularly good at "wicking" moisture and absorbing it.‌
 
-![](../.gitbook/assets/screen-shot-2020-07-16-at-1.07.21-pm.png)
+![](/screen-shot-2020-07-16-at-1.07.21-pm.png)
 
 
 
@@ -51,7 +56,7 @@ Silk is a protein fiber that is harvested from the cocoons of silk worms. There 
 
 The general structure of wool \(the cross-section\) is roughly triangular with curved corners. This allows it to reflect light well and gives it a really nice sheen. Mulberry silk is considered a natural filament, as a single cocoon can yield nearly 
 
-![Source: https://archive.org/details/cu31924031496833](../.gitbook/assets/screen-shot-2020-07-16-at-1.08.10-pm.png)
+![Source: https://archive.org/details/cu31924031496833](/screen-shot-2020-07-16-at-1.08.10-pm.png)
 
 
 

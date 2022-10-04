@@ -1,3 +1,9 @@
+---
+title: Traces
+weight: 2
+draft: true
+---
+
 # Capacitive Sensors
 
 **Custom Capacitive Sensing Yarn:** 

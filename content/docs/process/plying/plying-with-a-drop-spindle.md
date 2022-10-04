@@ -2,7 +2,7 @@
 
 A drop spindle can also works for plying as shown in this demonstration of creating a 2x2 ply yarn. 
 
-![](../../.gitbook/assets/compound-image%20%281%29.png)
+![](..//compound-image%20%281%29.png)
 
 #### Online Resources
 

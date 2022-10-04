@@ -8,11 +8,11 @@ Hand knitting takes place with knitting needles, manipulated by the hands. This 
 
 The relationship between the gauge of your yarn \(e.g. how thick it is\) and the size of your knitting needle determines the drape or hand of your knitted textile. Most skeins of yarn will recommend a knitting needle size, but there are ways to play around with knits to create textiles that have multiple properties. For instance, you can use multiple needles when knitting, and change the tension of the knit as you are working. One could use a chunky yarn with a small needle to create a dense knitted textile. Or a lace weight yarn with large needles to create a very loose, soft textile. One fabric can change from densely knitted to and large open knit just by changing needle size. 
 
-![](../../.gitbook/assets/img_9207.jpg)
+![](..//img_9207.jpg)
 
 For instance, I knitting a small 10 stitch x 10 stitch stockinette swatch using three different US needle sizes, 19, 8 and 4 and the image below shows the results. The \(poorly knit\) swatch on the left had the largest needles \(at 19\) and resulted in the loosest structure. The center swatch was knit with the recommended needle size \(8\) and the swatch on the right was size 4. All swatches were stretchy with the most open structure stretching the most radically. 
 
-![](../../.gitbook/assets/img_9200.jpg)
+![](..//img_9200.jpg)
 
 ### Casting On
 
@@ -44,7 +44,7 @@ While there are specific techniques, [like intarsia knitting](https://www.thespr
 
 
 
-![](../../.gitbook/assets/so_yarn_examples.041.jpeg)
+![](..//so_yarn_examples.041.jpeg)
 
 \*\*\*\*
 

@@ -1,10 +1,12 @@
 ---
-description: A filament is a fiber of unlimited or very long length
+title: Filament
+weight: 2
+
 ---
 
 # Filament
 
-![](../.gitbook/assets/1600px-industries_of_war_-_silk_-_manufacture_of_silk_for_balloons-_cartridge_belt_cloth-_parachutes-_et_cetera_-_nara_-_45489601.jpg)
+![](/1600px-industries_of_war_-_silk_-_manufacture_of_silk_for_balloons-_cartridge_belt_cloth-_parachutes-_et_cetera_-_nara_-_45489601.jpg)
 
 _Image Caption: Bundles of silk filament. National Archives and Records Administration / Public domain_  
   

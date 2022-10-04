@@ -1,7 +1,7 @@
 # Programmable Color Changing Fabric
 This activities focuses on the creation of a programmable color changing yarn, which can then be knit, woven, or otherwise combined into a programmable color changing fabric. 
 
-![Thermochromism in Action. Heating the yarn turns the color transparent. The color returns to the yarn as it cools](../.gitbook/assets/img_9999-animation.gif)
+![Thermochromism in Action. Heating the yarn turns the color transparent. The color returns to the yarn as it cools](/img_9999-animation.gif)
 
 
 ## How Does it Work?
@@ -49,7 +49,7 @@ Prepare a thermochromic dye bath (according to the dye instructions)  or mix acr
 
 Arrange the yarn along a table and manually paint along the length making sure to paint the front and back side. If you want to paint lots of yarn, consider attaching your yarn to a bobbin winder on a sewing machine or hand crank, holding a paint filled sponge with one hand to coat as you crank. If you can also paint directly upon a pre-made fabric.
 
-![Thermochromic paint on fabric](../.gitbook/assets/painted_fabric.jpg)
+![Thermochromic paint on fabric](/painted_fabric.jpg)
 
 
 
@@ -57,16 +57,16 @@ Arrange the yarn along a table and manually paint along the length making sure t
 
 Prepare the dye bath and submerge your yarns following the package instructions. In this example, I started with raw cotton [sliver](../structure/roving-and-top.md)
 
-![Raw Cotton Fiber](../.gitbook/assets/raw_fiber.JPG)
+![Raw Cotton Fiber](/raw_fiber.JPG)
 
 
 I submerged the fiber into the dye bath keeping it over constant heat. 
 
-![Submerged Cotton Fiber](../.gitbook/assets/submerged_fiber.JPG)
+![Submerged Cotton Fiber](/submerged_fiber.JPG)
 
 
 After drying the sliver, I can breath upon to active the color change. 
-![Result](../.gitbook/assets/dye_result.JPG)
+![Result](/dye_result.JPG)
 
 
 ### c. "Dying" Wool with Vinegar
@@ -85,13 +85,13 @@ Once you have prepared your fiber, you can integrate your heating wire using any
 
 [Hand sewing](../process/sewing/hand-sewing.md) is a quick and easy for you to integrate your heating wire into your cloth. In the example below by [Emilia Pucci](https://www.emiliapucci.com/crafttech-the-emerging-goddess), the heating wire is integrated by threading it into the surface every so often and otherwise, floating it along the back of the fabric. The heat, then, would appear in little spots as it radiated out from the wire on the surface of the cloth. You can read more on Emilia's [post about the project](https://www.emiliapucci.com/crafttech-the-emerging-goddess). The key when sewing is to keep the ends of the magnet wire long so you can connect to them later. Also, don't cut the magent wire or anypoint, as that would break the eventual electric connection and result in the inability for the magnet wire to transfer heat. 
 
-![Emerging Goddess by Emilia Pucci](../.gitbook/assets/thermo_sewing.jpg)
+![Emerging Goddess by Emilia Pucci](/thermo_sewing.jpg)
 
 
 ### b. Plying Magnet wire with Yarn
 With plying, you create a tight coupling between the wire and yarn by twisting them together as showin in the diagram below (assume the "pink" yarn is your magent wire and the "black" yarn is the dyed yarn)
 
-![](../.gitbook/assets/compound-image.png))
+![](/compound-image.png))
 
 [Anne-Marie Lavigne](http://emeteuz.com/woven-signals) also has a [nice video](https://vimeo.com/93086189) of this process as part of her Woven Signals project. 
 
@@ -101,7 +101,7 @@ The benefit of plying is you can make really long lengths of heated yarn with a 
 ### b. Weave, Knit, Crochet
 Alterantively, you can weave your heating wire directly into the fabric itself. The images below depict various ways that one or more heating wires were integrated to allow for different interactive effects. [You can read more in this paper](https://dl.acm.org/doi/10.1145/2858036.2858192). 
 
-![Several Methods of Integration](../.gitbook/assets/motifs.jpg)
+![Several Methods of Integration](/motifs.jpg)
 
 You can also integrate the heating wire and dyed yarn using a carry-along method in knitting or crochet. Here, you simply carry the magent wire along as you knit to integrate it. This creates some issues and complications with yarn tension and also may not create a tight coupling between yarn and wire, but it is possible. 
 
@@ -119,17 +119,17 @@ To activate the color change, we need to power our heating wire and make it heat
 
 In this schematic, I'm using the motor to stand in for our heating wire. I do this because motors and heating wires consume similar amounts of power....but really they didn't have a thermochromic wire I could choose from in TinkerCAD. Here, we just connect one end of our wire to a digital out pin (in this case, pin 8), and the other end to ground. 
 
-![Direct Connection Schematic](../.gitbook/assets/thermo_schematica.png)
+![Direct Connection Schematic](/thermo_schematica.png)
 
 # b. Supplementing with an External Power Source
 
 In this schematic, we'll draw from an external power source like a bench power supply or perhaps a 9V battery or directly to wall power. Again, the motor is standing in for the heating wire. Here we use pin 8 as a switch. When a voltage is applied to pin 8, it opens a path between the "drain" and "source" of the MOSFET. So, we can connect our heating wire directly to the power source and then create a switch on the way to ground that is controlled by the MOSFET. 
 
-![MOSFET Connection Schematic](../.gitbook/assets/thermo_schematicb.png)
+![MOSFET Connection Schematic](/thermo_schematicb.png)
 
 Double check your MOSFET to find the correct positions of the Gate, Source and Drain. 
 
-![MOSFET Connection Detail](../.gitbook/assets/thermo_schematicb_detail.png)
+![MOSFET Connection Detail](/thermo_schematicb_detail.png)
 
 In this configuration, you can tinker with the voltage and current to determine an ideal running sceanrio (typically, supplying more voltage will reduce the amount of current consumed.)
 

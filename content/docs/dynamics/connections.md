@@ -1,3 +1,8 @@
+---
+title: Connections
+weight: 3
+---
+
 # Connections
 
 Once you have made your traces, you must then find ways to connect different "components" together. Good connections should be tight, robust and tidy, making sure that they don't break or short your circuit unexpectedly.
@@ -6,9 +11,9 @@ There are two primary modes of connecting: soft-to-soft, where both things being
 
 There are already really great online resources that show a variety of techniques such as Kobakant's [overview of connection techniques](https://www.kobakant.at/DIY/?p=1272) and detailed descriptions of many methods in their "[Connections" category.](https://www.kobakant.at/DIY/?p=7077) There are [also many techniques in this summary produced by e-textiles summer camp 2017](http://etextile-summercamp.org/2017/summercamp/hardsoft-connections/). 
 
-## Hard-to-Hard Connections
 
 ## Hard-to-Soft
+Look no further than [Kobakant]()https://www.kobakant.at/DIY/?p=1272 for a complete overview
 
 ### Metal Snaps
 
@@ -27,7 +32,7 @@ Soldering to headers from a fabric using a pocket structure:
 
 When you have conductive materials integrated into your textile structure, one simple possibility is to simply integrate traditional wires into the structure so that the structure, itself, holds the materials in close contact. This is what I did in this project, [essentially twisting soft and more sturdy wires together at weaving time](http://artfordorks.com/2020/04/a-fabric-that-remembers/). In a different project, we soldered silicone coated wires directly to an arduino pro mini and then integrated the arduino into a [pocket within the woven structure, then wound the edges of the wire and yarn together within the fabric itself](http://unstable.design/some-teaser-images-from-our-experimental-weaving-residency/). You can see the FTDI connector pocking out of the fabric below, with the black wires routing through the structure. 
 
-![](../.gitbook/assets/img_6837-1024x768.jpg)
+![](/img_6837-1024x768.jpg)
 
 ## Soft-to-Soft
 

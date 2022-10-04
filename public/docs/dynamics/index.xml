@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamics on Prototyping Experimental Textiles</title>
+    <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/</link>
+    <description>Recent content in Dynamics on Prototyping Experimental Textiles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Traces</title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/traces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/traces/</guid>
+      <description>Traces # A trace is a conductive material that carries electricity from one location in your circuit to another. In traditional electronics, your traces are usually insulated wires with uninsulated tips that you plug into a breadboard or solder to a controller.
+In soft electronics traces can be created from a single thread traveling through a material, a conductive fabric or paint fused to the surface of a fabric or a single thread of material integrated into a knit or woven fabric.</description>
+    </item>
+    
+    <item>
+      <title>Connections</title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/connections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/connections/</guid>
+      <description>Connections # Once you have made your traces, you must then find ways to connect different &amp;ldquo;components&amp;rdquo; together. Good connections should be tight, robust and tidy, making sure that they don&amp;rsquo;t break or short your circuit unexpectedly.
+There are two primary modes of connecting: soft-to-soft, where both things being connected are flexible and stretchable, or soft-to-hard where you are connecting a soft material to a rigid material (e.g. a thread to an Arduino).</description>
+    </item>
+    
+    <item>
+      <title>Resistors</title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/resistors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/resistors/</guid>
+      <description>Resistors # Every conductive material imposes a certain amount of resistance per unit length. The amount of resistance can be measured by a multimeter and depends on a number of factors such as temperature, width, material, etc. A resistor, in traditional electronics, is used to limit the voltage provided to a particular part of your circuit (because Voltage = current * resistance).
+Making Resistors with Conductive Thread # In traditional electronics, you typically purchase resistors of set values that you need.</description>
+    </item>
+    
+    <item>
+      <title>Resistive Sensing</title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/resistive-sensors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/resistive-sensors/</guid>
+      <description>Resistive Sensors # Resistive sensors describe a class of sensors who work because of changes in their resistance. These resistance changes often come from a structural change in the materials. Resistive sensing works many times because electricity will always follow the shortest path from power to ground (+ to -). Thus, if a structural change changes the path electricity takes, the measure of resistance will change proportional to the length of the path.</description>
+    </item>
+    
+    <item>
+      <title>Insulation</title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/insulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/insulation/</guid>
+      <description>Insulation # Insulation is a method for preventing the flow of electricity to areas neighboring your traces. Some soft sensor and actuator structures rely on traces being insulated from one and other, others don&amp;rsquo;t. In some cases, you might also find that your materials already come insulated. In others, you need to provide insulation yourself. You can test if your material is insulated or not by connecting a multimeter across a length of conductive string and seeing and checking for a connection.</description>
+    </item>
+    
+    <item>
+      <title>Electromagnets</title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/electromagnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/electromagnet/</guid>
+      <description>Electromagnets # Electromagnets describe magnetic feilds that are created by the flow of electricity through wires. Electromagnetism is at the root of many microphones and speakers as coils induce the attaction or repulsion of a magnet attached to a drum like membrane that pushes air back and forth to make sound. Many motors are also controlled by electromangets that push and pull a central shaft around a central point.</description>
+    </item>
+    
+    <item>
+      <title>Physical State Change</title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/physical-state-change/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/physical-state-change/</guid>
+      <description>In progress!
+Physical State Change # Shape Change # https://parametrichouse.com/responsive-textiles/
+pneumatics / jamming
+artificial muscles
+Lets start with a McKibben artificial muscle which consists of a rope that is braided around a ****hollow tube. When you pressurize the fluid (air or water) in the tube, the braided structure amplifies the movement. In most DIY examples, we see these made by simply buying a pre-made braided hollow cord and shoving a hollow tube down the center of it.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/capacitors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/capacitors/</guid>
+      <description>Capacitors # knitted capacitors (knitted radio)
+woven capacitors
+**** # **** # How does capacitive sensing work
+https://www.youtube.com/watch?v=bhspPkxOMxs
+A deeper explanation of what capacitance is
+https://www.youtube.com/watch?v=QItuf6lNvmI
+Swept Frequency Capacitive Sensing
+https://www.youtube.com/watch?v=E4tYpXVTjxA</description>
+    </item>
+    
+  </channel>
+</rss>

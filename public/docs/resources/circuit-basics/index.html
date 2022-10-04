@@ -1,0 +1,1330 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Circuitry Basics # If you remember your grade-school science lessons, you might remember learning about electricity with an example like this:
+__Creative Commons __CC0 1.0 Universal Public Domain Dedication, https://en.wikipedia.org/wiki/File:LED_in_simple_Direct_Current_Circuit.JPG__
+Here, the power leaves the battery on the &#43; side, travels across the black lines (wires) and then flows through points B, C, D. Along the way, in this example, it encounters, a light and then a resistor become continuing to ground (-).">
+<meta name="theme-color" content="#FFFFFF">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="" />
+<meta property="og:description" content="Circuitry Basics # If you remember your grade-school science lessons, you might remember learning about electricity with an example like this:
+__Creative Commons __CC0 1.0 Universal Public Domain Dedication, https://en.wikipedia.org/wiki/File:LED_in_simple_Direct_Current_Circuit.JPG__
+Here, the power leaves the battery on the &#43; side, travels across the black lines (wires) and then flows through points B, C, D. Along the way, in this example, it encounters, a light and then a resistor become continuing to ground (-)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://unstable.design/books/prototyping-experimental-textiles/docs/resources/circuit-basics/" /><meta property="article:section" content="docs" />
+
+
+
+<title>Circuit Basics | Prototyping Experimental Textiles</title>
+<link rel="manifest" href="/books/prototyping-experimental-textiles/manifest.json">
+<link rel="icon" href="/books/prototyping-experimental-textiles/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/books/prototyping-experimental-textiles/book.min.c58292d36b18b675680ab9baea2029204537b839ea72f258746ec0f32ce8d6c8.css" integrity="sha256-xYKS02sYtnVoCrm66iApIEU3uDnqcvJYdG7A8yzo1sg=" crossorigin="anonymous">
+  <script defer src="/books/prototyping-experimental-textiles/flexsearch.min.js"></script>
+  <script defer src="/books/prototyping-experimental-textiles/en.search.min.0842bca8a458c8c9eff8256c059540852d3b26d387b80f75d62940da260e4ab9.js" integrity="sha256-CEK8qKRYyMnv&#43;CVsBZVAhS07JtOHuA911ilA2iYOSrk=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/books/prototyping-experimental-textiles/"><span>Prototyping Experimental Textiles</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/contribute/" class="">How to Contribute</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-04872d6fa36af3b366aa342096bf17a2" class="toggle"  />
+    <label for="section-04872d6fa36af3b366aa342096bf17a2" class="flex justify-between">
+      <a href="/books/prototyping-experimental-textiles/docs/structure/" class="">Structure</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/staple-fiber/" class="">Staple Fiber</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/filament/" class="">Filament</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/roving-and-top/" class="">Roving and Top</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/singles/" class="">Singles</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/plied-yarn/" class="">Plied Yarn</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/yarn-thread/" class="">Yarn / Thread</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/knit/" class="">Knit</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/non-woven/" class="">Non-Woven</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/woven/" class="">Woven</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/braid/" class="">Braid</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/core-spun-yarn/" class="">Core Spun Yarn</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/structure/textile-friendly-object/" class="">Textile Friendly Object</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-01f429afc12b2b62def3ac4aa053fed7" class="toggle"  />
+    <label for="section-01f429afc12b2b62def3ac4aa053fed7" class="flex justify-between">
+      <a role="button" class="">Materials</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/materials/comparing-materials/" class="">Comparing Materials</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/materials/protein-fibers/" class="">Protein</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/materials/cellulose-fibers/" class="">Cellulose</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/materials/synthetic-fibers/" class="">Synthetic</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/materials/metallic-fibers/" class="">Metallic Fibers</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-a3b013e590b1b2614fd061faedd3a64c" class="toggle"  />
+    <label for="section-a3b013e590b1b2614fd061faedd3a64c" class="flex justify-between">
+      <a role="button" class="">Processes</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/bonding/" class="">Bonding</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/braiding/" class="">Braiding</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/coating/" class="">Coating</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/combing-and-carding/" class="">Combing and Carding</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/dying-resists/" class="">Dying Resists</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/electroplating/" class="">Electroplating</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/electrospinning/" class="">Electrospinning</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/embroidery/" class="">Embroidery</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/etching/" class="">Etching</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/extruding-3d-printing/" class="">Extruding 3d Printing</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/felting/" class="">Felting</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/growing/" class="">Growing</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/knitting/" class="">Knitting</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/knitting/hand-knitting/" class="">Hand Knitting</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/knitting/machine-knitting/" class="">Machine Knitting</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/paper-making/" class="">Paper Making</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/pleating/" class="">Pleating</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/plying/" class="">Plying</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/plying/ad-hoc-plying/" class="">Ad Hoc Plying</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/plying/plying-on-a-spinning-wheel/" class="">Plying on a Spinning Wheel</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/plying/plying-with-a-drop-spindle/" class="">Plying With a Drop Spindle</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/plying/plying-with-a-rope-machine/" class="">Plying With a Rope Machine</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/sewing/" class="">Sewing</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/sewing/" class="">Sewing</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/sewing/hand-sewing/" class="">Hand Sewing</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/sewing/machine-sewing/" class="">Machine Sewing</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/spinning/" class="">Spinning</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/spinning/drop-spindle-spinning/" class="">Drop Spindle Spinning</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/spinning/spinning-wheel-spinning/" class="">Spinning Wheel Spinning</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/weaving/" class="">Weaving</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/weaving/on-a-frame-loom/" class="">On a Frame Loom</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/weaving/on-a-tapestry-loom/" class="">On a Tapestry Loom</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/process/weaving/on-an-industrial-jacquard-loom/" class="">On an Industrial Jacquard Loom</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-8dcef95ea0bbb403c6ba1fcf114f437a" class="toggle"  />
+    <label for="section-8dcef95ea0bbb403c6ba1fcf114f437a" class="flex justify-between">
+      <a role="button" class="">Dynamics</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/buttons-and-switching/" class="">Buttons and Switching</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/capacitive-sensors/" class="">Capacitive Sensors</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/capacitors/" class="">Capacitors</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/circuit-basics/" class="">Circuit Basics</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/connections/" class="">Connections</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/electromagnet/" class="">Electromagnet</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/insulation/" class="">Insulation</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/physical-state-change/" class="">Physical State Change</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/power-and-rf-harvesting/" class="">Power and Rf Harvesting</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/resistive-sensors/" class="">Resistive Sensors</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/resistors/" class="">Resistors</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/speakers-microphones/" class="">Speakers Microphones</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/dynamics/traces/" class="">Traces</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-c29404850aebd81547f0e0142c5578b2" class="toggle" checked />
+    <label for="section-c29404850aebd81547f0e0142c5578b2" class="flex justify-between">
+      <a role="button" class="">Resources</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/resources/circuit-basics/" class="active">Circuit Basics</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/resources/collections-of-techniques-and-examples/" class="">Collections of Techniques and Examples</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/resources/how-to-weave/" class="">How to Weave</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/resources/suppliers-of-prepared-thread-yarn-and-filament/" class="">Suppliers of Prepared Thread Yarn and Filament</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-5053b5f94b9f09e9d5c121d0164ff764" class="toggle"  />
+    <label for="section-5053b5f94b9f09e9d5c121d0164ff764" class="flex justify-between">
+      <a role="button" class="">Quick Start</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/books/prototyping-experimental-textiles/docs/quickstart/thermochromics/" class="">Thermochromics</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/books/prototyping-experimental-textiles/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Circuit Basics</strong>
+
+  <label for="toc-control">
+    
+    <img src="/books/prototyping-experimental-textiles/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#resistance">Resistance</a></li>
+        <li><a href="#capacitance">Capacitance</a></li>
+      </ul>
+    </li>
+    <li><a href="#controlling-the-flow-of-electricity">Controlling the Flow of Electricity</a></li>
+    <li><a href="#sensors">Sensors</a></li>
+    <li><a href="#actuators">Actuators</a></li>
+    <li><a href="#harvesters">Harvesters</a></li>
+    <li><a href="#microcontrollers">Microcontrollers</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h1 id="circuitry-basics">
+  Circuitry Basics
+  <a class="anchor" href="#circuitry-basics">#</a>
+</h1>
+<p>If you remember your grade-school science lessons, you might remember learning about electricity with an example like this:</p>
+<p><a href="/led_in_simple_direct_current_circuit.jpg"></a></p>
+<p>__<a href="https://en.wikipedia.org/wiki/Creative_Commons"><em>Creative Commons</em></a> __<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en"><em>CC0 1.0 Universal Public Domain Dedication</em></a><em>,</em> <a href="https://en.wikipedia.org/wiki/File:LED_in_simple_Direct_Current_Circuit.JPG"><em>https://en.wikipedia.org/wiki/File:LED_in_simple_Direct_Current_Circuit.JPG</em></a>__</p>
+<p>Here, the power leaves the battery on the + side, travels across the black lines (wires) and then flows through points B, C, D. Along the way, in this example, it encounters, a light and then a resistor become continuing to ground (-). This same principle holds in smart textiles, <a href="https://lbruning.com/etextilelounge/scotch-tape-and-conductive-thread/">though we tend to use conductive yarns instead of wires</a> or we use wires, but we weave or knit them into the structure of the textile, hooking up different components along the way.</p>
+<p>A conductive material is one through which electricity can flow, and they most often include some metallic component. <a href="https://www.youtube.com/watch?v=SwiaXMpoy-o">Lynne Bruning gives an excellent intro into testing your yarns for conductivity</a>. To test, you&rsquo;ll need a <a href="https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter/all">multimeter and SparkFun offers a nice tutorial for how to use a multimeter</a>. For testing conductive threads and yarns, I recommend buying &ldquo;<a href="https://www.digikey.com/product-detail/en/pomona-electronics/3782-24-02/501-1458-ND/736648?utm_adgroup=Test%20Leads%20-%20Banana%2C%20Meter%20Interface&amp;utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=Shopping_Product_Test%20and%20Measurement_NEW&amp;utm_term=&amp;utm_content=Test%20Leads%20-%20Banana%2C%20Meter%20Interface&amp;gclid=CjwKCAjw2Jb7BRBHEiwAXTR4jYPu0rJsKwnSFFHZf3t3u9UcSv2Ebu5TrewrD8XqVc0xIEi2fsIh1RoC2J0QAvD_BwE">minigrabber</a>&rdquo; leads for your multimeter, which make it easier to hold the yarns during testing.</p>
+<p><a href="https://www.sparkfun.com/?gclid=CjwKCAjw2Jb7BRBHEiwAXTR4jV1vDM50CJQN6W0JDZvkK222x-WAjj5FLbif2daxkJdnIra-RqvXbBoCHXAQAvD_BwE">SparkFun</a> also offers great lessons on this topic as well:</p>
+<ul>
+<li><a href="https://learn.sparkfun.com/tutorials/what-is-electricity">What is Electricity?</a></li>
+<li><a href="https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law">Voltage, Current, Resistance, and Ohm&rsquo;s Law</a></li>
+<li><a href="https://learn.sparkfun.com/tutorials/what-is-a-circuit">What is a Circuit</a></li>
+<li><a href="https://learn.sparkfun.com/tutorials/series-and-parallel-circuits">Series vs. Parallel Circuits</a></li>
+<li><a href="https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter">How to Use A Multimeter</a></li>
+<li><a href="https://learn.sparkfun.com/tutorials/metric-prefixes-and-si-units">Metric Prefixes</a></li>
+</ul>
+<h3 id="resistance">
+  Resistance
+  <a class="anchor" href="#resistance">#</a>
+</h3>
+<p>One of the most critical points to understand for learning smart textile, or when beginning, is a deep understanding of resistance and how it varies (by shape, temperature, material and cross-sectional area). This helps us understand how we can use resistance as a way to measure changes to our soft structures and whether or not those changes mean what we think they mean. It will also help in determining your material choice of any conductive materials. I found <a href="https://www.khanacademy.org/science/ap-physics-1/ap-circuits-topic/current-ap/v/circuits-">Khan Academy</a> to be an excellent resource for me to brush up on my understanding of circuitry and resistance in general. Its also worth noting that most circuits we will be describing operate on direct current (or DC).</p>
+<p>Resistance is a measure of how easily the electric current as it flows through a length of material. It is measured in Ohms (Ω). Materials that carry lots of electricity have low resistance and are called conductive materials. Materials that don&rsquo;t carry electricity easily (but still move it from A to B) have high resistance and are called resistive materials. The amount of resistance you measure will be proportional to the length you are measuring (short lengths of a given material will have a lower resistance than long lengths of a given material &ndash; assuming the materials you are measuring has the same diameter/area and is at the same temperature).</p>
+<h3 id="capacitance">
+  Capacitance
+  <a class="anchor" href="#capacitance">#</a>
+</h3>
+<p>Capacitance is a second principle that is important for smart textiles. Capacitance describes the amount of charge that builds up between conductive objects that are not touching&ndash;most often represented as conductive plates. Changes in capacitance tell you how close or far another conductive/grounded object is from your circuit.</p>
+<h2 id="controlling-the-flow-of-electricity">
+  Controlling the Flow of Electricity
+  <a class="anchor" href="#controlling-the-flow-of-electricity">#</a>
+</h2>
+<p>Electricity flows from power (often from a battery, wall outlet, or <a href="circuit-basics.md#microcontrollers">microcontroller</a>) to ground.</p>
+<p>Traces are another way that electricity gets from one place to another. It is a particular path of for electricity to follow and are made from conductive materials. We catalog several method for textile based traces on the <a href="../dynamics/traces.md">Traces</a> page. <a href="../dynamics/insulation.md">Insulation</a> describes materials that do not allow electricity to flow through them. When paired with traces, insulation allows you to block electricity from flowing in particular directions. The flow of electricity can be turned on or off, or routed in different directions through <a href="../dynamics/buttons-and-switching.md">buttons and switches</a>. To flow electricity through various components in a circuit, you will need to explore different methods for <a href="../dynamics/connections.md">connecting</a> things together. This can be as simple as a knot or more complicated if you need to connect you soft textile circuit to a hard material.</p>
+<h2 id="sensors">
+  Sensors
+  <a class="anchor" href="#sensors">#</a>
+</h2>
+<p>A sensor describes an arrangement of materials that changes its electrical properties in response to some external stimulus (light, pressure, proximity, electromagnetic fields). These changes in the electrical properties can be measured by multimeter, micro-controller, and/or computer, and thus, can be used to trigger certain computational processes.  Sensors are sometimes classified by the property that is tracked for changes. In this book we have sections devoted to <a href="../dynamics/resistive-sensors.md">resistive sensors</a>, <a href="../dynamics/capacitive-sensors.md">capacitive sensors</a>, and sensors that detect electromagnetic fields (<a href="../dynamics/speakers-microphones.md">microphones</a>) and/or radio waves (<a href="../dynamics/aentennas.md">antennas</a>).</p>
+<h2 id="actuators">
+  Actuators
+  <a class="anchor" href="#actuators">#</a>
+</h2>
+<p>Actuators describe arrangements of materials where some change in their state is triggered by electrical stimulus. These include motors (<a href="../dynamics/electromagnet.md">electromagnets</a>), <a href="../dynamics/speakers-microphones.md">speakers</a>, and <a href="../dynamics/physical-state-change.md">state-changing materials</a></p>
+<h2 id="harvesters">
+  Harvesters
+  <a class="anchor" href="#harvesters">#</a>
+</h2>
+<p>This is a category that I hear people use, and assume its meaningful, but it describes arrangements of materials where physical stimuli induce electrical power into the circuit. These include solar cells, piezoelectric materials and structures that can generate energy from electromagnetic waves.</p>
+<h2 id="microcontrollers">
+  Microcontrollers
+  <a class="anchor" href="#microcontrollers">#</a>
+</h2>
+<p>A <a href="https://www.youtube.com/watch?v=RmD7UgKvUnY">microcontroller</a> is a tiny computer designed specially to make sense of the electrical changes coming from your circuit. An Arduino,  is a very common microcontroller for hobby projects and a great general purpose board with tons of tutorials. I have found Teensy great for audio projects and Raspberry Pi is great for projects that need more processing power.</p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+  <div>
+    <a class="flex align-center" href="https://github.com/UnstableDesign/PrototypingSmartTextiles/edit/master/public/content/docs/resources/circuit-basics.md" target="_blank" rel="noopener">
+      <img src="/books/prototyping-experimental-textiles/svg/edit.svg" class="book-icon" alt="Edit" />
+      <span>Edit this page</span>
+    </a>
+  </div>
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#resistance">Resistance</a></li>
+        <li><a href="#capacitance">Capacitance</a></li>
+      </ul>
+    </li>
+    <li><a href="#controlling-the-flow-of-electricity">Controlling the Flow of Electricity</a></li>
+    <li><a href="#sensors">Sensors</a></li>
+    <li><a href="#actuators">Actuators</a></li>
+    <li><a href="#harvesters">Harvesters</a></li>
+    <li><a href="#microcontrollers">Microcontrollers</a></li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

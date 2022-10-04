@@ -1,3 +1,9 @@
+---
+title: Non-Woven
+weight: 9
+
+---
+
 # Non-Woven
 
 Non-wovens describe a class of textile structures that are not created through knitting or weaving. In most cases, they describe structures that bi-pass the processing of fiber into yarn. Instead, non-wovens are textile-like materials that are created by other processes of extruding \(e.g. chainmail or [3D printed](../process/extruding-3d-printing.md) textiles\), [growing](../process/growing.md) \(such as leather or kombucha\), [felting](../process/felting.md), a process by which individual fibers are tangled so much as to form a durable surface or structure, or [electrospinning](../process/electrospinning.md), where fibers are bonded into a fabric through electrical charge. These structures range in properties. Grown, felted, and electrospun materials are often not structurally stretchy, as they are relatively uniform and solid structures.
