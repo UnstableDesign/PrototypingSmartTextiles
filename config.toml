@@ -2,8 +2,7 @@ baseURL = 'https://unstable.design/books/prototyping-experimental-textiles/'
 languageCode = 'en-us'
 title = 'Prototyping Experimental Textiles'
 theme = "hugo-book"
-#relativeURLs = true
-#uglyURLs = true
+canonifyURLs = true
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.

@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Insulation</title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/insulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/insulation/</guid>
+      <description>Insulation # Insulation is a method for preventing the flow of electricity to areas neighboring your traces. Some soft sensor and actuator structures rely on traces being insulated from one and other, others don&amp;rsquo;t. In some cases, you might also find that your materials already come insulated. In others, you need to provide insulation yourself. You can test if your material is insulated or not by connecting a multimeter (using the continuity setting) across a length of conductive string and seeing and checking for a connection.</description>
+    </item>
+    
+    <item>
       <title>Traces</title>
       <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/traces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/traces/</guid>
-      <description>Traces # A trace is a conductive material that carries electricity from one location in your circuit to another. In traditional electronics, your traces are usually insulated wires with uninsulated tips that you plug into a breadboard or solder to a controller.
-In soft electronics traces can be created from a single thread traveling through a material, a conductive fabric or paint fused to the surface of a fabric or a single thread of material integrated into a knit or woven fabric.</description>
+      <description>Traces # A trace is a conductive material that carries electricity from one location in your circuit to another. In traditional electronics, your traces are usually insulated wires with uninsulated tips that you plug into a breadboard or solder together.
+In soft electronics traces can be created from a single thread traveling through a material, a conductive fabric or paint fused to the surface of a fabric or a single thread of material integrated into a knit or woven structure.</description>
     </item>
     
     <item>
@@ -46,15 +55,6 @@ Making Resistors with Conductive Thread # In traditional electronics, you typica
     </item>
     
     <item>
-      <title>Insulation</title>
-      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/insulation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/insulation/</guid>
-      <description>Insulation # Insulation is a method for preventing the flow of electricity to areas neighboring your traces. Some soft sensor and actuator structures rely on traces being insulated from one and other, others don&amp;rsquo;t. In some cases, you might also find that your materials already come insulated. In others, you need to provide insulation yourself. You can test if your material is insulated or not by connecting a multimeter across a length of conductive string and seeing and checking for a connection.</description>
-    </item>
-    
-    <item>
       <title>Electromagnets</title>
       <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/electromagnet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -74,22 +74,6 @@ Physical State Change # Shape Change # https://parametrichouse.com/responsive-te
 pneumatics / jamming
 artificial muscles
 Lets start with a McKibben artificial muscle which consists of a rope that is braided around a ****hollow tube. When you pressurize the fluid (air or water) in the tube, the braided structure amplifies the movement. In most DIY examples, we see these made by simply buying a pre-made braided hollow cord and shoving a hollow tube down the center of it.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/capacitors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/capacitors/</guid>
-      <description>Capacitors # knitted capacitors (knitted radio)
-woven capacitors
-**** # **** # How does capacitive sensing work
-https://www.youtube.com/watch?v=bhspPkxOMxs
-A deeper explanation of what capacitance is
-https://www.youtube.com/watch?v=QItuf6lNvmI
-Swept Frequency Capacitive Sensing
-https://www.youtube.com/watch?v=E4tYpXVTjxA</description>
     </item>
     
   </channel>

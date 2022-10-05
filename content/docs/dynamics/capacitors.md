@@ -1,3 +1,9 @@
+---
+title: Capacitors
+weight: 3
+draft: true
+---
+
 # Capacitors
 
 knitted capacitors \(knitted radio\)  

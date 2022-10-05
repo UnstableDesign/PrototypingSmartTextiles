@@ -48,6 +48,15 @@ A filament is a fiber of unlimited or very long length. Filaments are typically 
     </item>
     
     <item>
+      <title>Insulation</title>
+      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/insulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/insulation/</guid>
+      <description>Insulation # Insulation is a method for preventing the flow of electricity to areas neighboring your traces. Some soft sensor and actuator structures rely on traces being insulated from one and other, others don&amp;rsquo;t. In some cases, you might also find that your materials already come insulated. In others, you need to provide insulation yourself. You can test if your material is insulated or not by connecting a multimeter (using the continuity setting) across a length of conductive string and seeing and checking for a connection.</description>
+    </item>
+    
+    <item>
       <title>Protein</title>
       <link>https://unstable.design/books/prototyping-experimental-textiles/docs/materials/protein-fibers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -72,8 +81,8 @@ Roving and or Top describe fibers that have been given and initial structure to 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/traces/</guid>
-      <description>Traces # A trace is a conductive material that carries electricity from one location in your circuit to another. In traditional electronics, your traces are usually insulated wires with uninsulated tips that you plug into a breadboard or solder to a controller.
-In soft electronics traces can be created from a single thread traveling through a material, a conductive fabric or paint fused to the surface of a fabric or a single thread of material integrated into a knit or woven fabric.</description>
+      <description>Traces # A trace is a conductive material that carries electricity from one location in your circuit to another. In traditional electronics, your traces are usually insulated wires with uninsulated tips that you plug into a breadboard or solder together.
+In soft electronics traces can be created from a single thread traveling through a material, a conductive fabric or paint fused to the surface of a fabric or a single thread of material integrated into a knit or woven structure.</description>
     </item>
     
     <item>
@@ -157,15 +166,6 @@ At times you might see yarns described as &amp;ldquo;knitting&amp;rdquo; or &amp
     </item>
     
     <item>
-      <title>Insulation</title>
-      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/insulation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/insulation/</guid>
-      <description>Insulation # Insulation is a method for preventing the flow of electricity to areas neighboring your traces. Some soft sensor and actuator structures rely on traces being insulated from one and other, others don&amp;rsquo;t. In some cases, you might also find that your materials already come insulated. In others, you need to provide insulation yourself. You can test if your material is insulated or not by connecting a multimeter across a length of conductive string and seeing and checking for a connection.</description>
-    </item>
-    
-    <item>
       <title>Electromagnets</title>
       <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/electromagnet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -212,22 +212,6 @@ Lets start with a McKibben artificial muscle which consists of a rope that is br
       
       <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/structure/woven/</guid>
       <description>Woven # A woven textile structure is created by interlacing material (most often plied yarn and filaments) in two directions: the warp (threads running along the length), and weft (threads running along the width). These structures are created by stretching or &amp;ldquo;warping&amp;rdquo; a set of parallel yarns (or radical yarns in circular weaving), and then interweaving the weft yarns in a perpendicular direction to bind the textile together. The specific patterning of &amp;ldquo;overs&amp;rdquo; and &amp;ldquo;unders&amp;rdquo; gives the woven textile different thicknesses, ability to sheer, and durability, etc.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/capacitors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unstable.design/books/prototyping-experimental-textiles/docs/dynamics/capacitors/</guid>
-      <description>Capacitors # knitted capacitors (knitted radio)
-woven capacitors
-**** # **** # How does capacitive sensing work
-https://www.youtube.com/watch?v=bhspPkxOMxs
-A deeper explanation of what capacitance is
-https://www.youtube.com/watch?v=QItuf6lNvmI
-Swept Frequency Capacitive Sensing
-https://www.youtube.com/watch?v=E4tYpXVTjxA</description>
     </item>
     
     <item>

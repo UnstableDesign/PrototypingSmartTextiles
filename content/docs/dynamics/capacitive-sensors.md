@@ -1,5 +1,5 @@
 ---
-title: Traces
+title: Capacitive Sensors
 weight: 2
 draft: true
 ---

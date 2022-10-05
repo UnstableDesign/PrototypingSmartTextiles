@@ -9,11 +9,7 @@ bookCollapseSection: true
 We use the term dynamics to describe different methods for making the textiles change in response to external stimuli. These might include the introduction of electricity into the textile structure, the integration of non-tradiitonal materials into textile structures to support shape or color change or structures that have unique mechanical properties. 
 
 ## Electrical Components
-When working with electricity in textiles (e-textiles), what is required is metal yarn or thread. A metal yarn conducts electricity meaning it can carry electicity from a battery or power source to a series of loads (things within the cirucuit). The metal yarn acts as the [trace](./traces.md) or route for the electicity between components in the same way a wire connects components in a traditional circuit. In fact, you can sew or weave with normal wires as well, and I reccomend [30 AWG silicone coated wires](https://www.amazon.com/BNTECHGO-Silicone-Flexible-Resistant-Insulation/dp/B01M70EDCW/ref=sr_1_12?crid=1R6D4MFI6V116&keywords=32+awg+silicone+wire&qid=1664763990&qu=eyJxc2MiOiIyLjk0IiwicXNhIjoiMi41MiIsInFzcCI6IjIuMTQifQ%3D%3D&s=industrial&sprefix=32+awg+silicone+wir%2Cindustrial%2C109&sr=1-12) as being nicely conductive and flexible with an insulated coating to prevent shorts. 
-
-e-textiles have shown to be able to support the creation of many form of sensing and actuation. A sensor is something that changes its electrical signal in response to a mechanical deformation. In e-textiles, many times this takes place by measuing changes in resistance, for example, when the electical path is able to shorten in response to particular movement. Many of the structures of textiles inherently become sensors when you weave in metal threds and [Kobakant](https://www.kobakant.at/DIY/?cat=26) shows many possibilities for this. THe main point is that e-texiltes pracitioners are not usually buying pre-made sensors and attaching them to fabric, they are re-inventing the sensors within the [structures](../structure/_index.md) of texiltes themeslves. 
-
-Actuators are eletrical components that convert electricity to movement. These typically require power loads beyond what textile systems can support but are achievable through the clever use of [pully systems](https://dl.acm.org/doi/fullHtml/10.1145/3290605.3300414), shape memory alloys, or [electro-magnets](./speakers-microphones.md), [heat-responsive color-changing materials](../quickstart/thermochromics.md), [pneumatic tubing](./physical-state-change.md). 
+When working with electricity in textiles (e-textiles), what is required is metal yarn, thread, or flexible wire. A metal yarn conducts electricity meaning it can carry electicity from a battery or power source to a series of loads (things within the cirucuit). The metal yarn acts as the [trace](./traces.md) or route for the electicity between components in the same way a wire connects components in a traditional circuit. In fact, you can sew or weave with normal wires as well, and I reccomend [30 AWG silicone coated wires](https://www.amazon.com/BNTECHGO-Silicone-Flexible-Resistant-Insulation/dp/B01M70EDCW/ref=sr_1_12?crid=1R6D4MFI6V116&keywords=32+awg+silicone+wire&qid=1664763990&qu=eyJxc2MiOiIyLjk0IiwicXNhIjoiMi41MiIsInFzcCI6IjIuMTQifQ%3D%3D&s=industrial&sprefix=32+awg+silicone+wir%2Cindustrial%2C109&sr=1-12) as being nicely conductive and flexible with an insulated coating to prevent shorts. 
 
 ## Circuit Basics
 
@@ -52,22 +48,24 @@ Electricity flows from power \(often from a battery, wall outlet, or microcontro
 
 Traces are another way that electricity gets from one place to another. It is a particular path of for electricity to follow and are made from conductive materials. We catalog several method for textile based traces on the [Traces](traces.md) page. [Insulation](insulation.md) describes materials that do not allow electricity to flow through them. When paired with traces, insulation allows you to block electricity from flowing in particular directions. The flow of electricity can be turned on or off, or routed in different directions through [buttons and switches](buttons-and-switching.md). To flow electricity through various components in a circuit, you will need to explore different methods for [connecting](connections.md) things together. This can be as simple as a knot or more complicated if you need to connect you soft textile circuit to a hard material. 
 
-### Some Simple Strategies for Weaving Circuits
-Sometimes you may not be ready to craft your entire sensor, in which case you can basically just embed a normal circuit into a textile form by weaving (or sewing) a pocket that is large enough to fit the component and then routing the wires to a batter held in another pocket. Connect your components together with [crimp beads, metal snaps](https://www.kobakant.at/DIY/?p=1272), or [custom connectors](http://www.ireneposch.net/tooling/). 
+<!-- ### Some Simple Strategies for Weaving Circuits
+Sometimes you may not be ready to craft your entire sensor, in which case you can basically just embed a normal circuit into a textile form by weaving (or sewing) a pocket that is large enough to fit the component and then routing the wires to a batter held in another pocket. Connect your components together with [crimp beads, metal snaps](https://www.kobakant.at/DIY/?p=1272), or [custom connectors](http://www.ireneposch.net/tooling/).  -->
 
 
 
 ## Sensors
+E-textiles have shown to be able to support the creation of many form of sensing and actuation. A sensor is something that changes its electrical signal in response to a mechanical deformation. In e-textiles, many times this takes place by measuing changes in resistance, for example, when the electical path is able to shorten in response to particular movement. Many of the structures of textiles inherently become sensors when you weave in metal threds and [Kobakant](https://www.kobakant.at/DIY/?cat=26) shows many possibilities for this. THe main point is that e-texiltes pracitioners are not usually buying pre-made sensors and attaching them to fabric, they are re-inventing the sensors within the [structures](../structure/_index.md) of texiltes themeslves. 
 
-A sensor describes an arrangement of materials that changes its electrical properties in response to some external stimulus \(light, pressure, proximity, electromagnetic fields\). These changes in the electrical properties can be measured by multimeter, micro-controller, and/or computer, and thus, can be used to trigger certain computational processes.  Sensors are sometimes classified by the property that is tracked for changes. In this book we have sections devoted to [resistive sensors](resistive-sensors.md), [capacitive sensors](capacitive-sensors.md), and sensors that detect electromagnetic fields \([microphones](speakers-microphones.md)\) and/or radio waves \([antennas](aentennas.md)\). 
+
 
 ## Actuators  
 
-Actuators describe arrangements of materials where some change in their state is triggered by electrical stimulus. These include motors \([electromagnets](electromagnet.md)\), [speakers](speakers-microphones.md), and [state-changing materials](physical-state-change.md)
+Actuators describe arrangements of materials where some change in their state is triggered by electrical stimulus. These include motors \([electromagnets](electromagnet.md)\), [speakers](speakers-microphones.md), and [state-changing materials](physical-state-change.md). Actuators typically require power loads beyond what textile systems can support but are achievable through the clever use of [pully systems](https://dl.acm.org/doi/fullHtml/10.1145/3290605.3300414), shape memory alloys, or [electro-magnets](./speakers-microphones.md), [heat-responsive color-changing materials](../quickstart/thermochromics.md), [pneumatic tubing](./physical-state-change.md). 
 
-## Harvesters
 
-This is a category that I hear people use, and assume its meaningful, but it describes arrangements of materials where physical stimuli induce electrical power into the circuit. These include solar cells, piezoelectric materials and structures that can generate energy from electromagnetic waves. 
+<!-- ## Harvesters
+
+This is a category that I hear people use, and assume its meaningful, but it describes arrangements of materials where physical stimuli induce electrical power into the circuit. These include solar cells, piezoelectric materials and structures that can generate energy from electromagnetic waves.  -->
 
 ## Microcontrollers
 
